@@ -1,159 +1,4 @@
-﻿<?php include 'overall/header.php'; ?>
-<?php include 'overall/nav.php'; ?>
-<!-- Preloader -->
-        <div id="loading">
-            <div id="loading-center">
-                <div class="loader-container">
-                    <div class="wrap-loader">
-                        <div class="loader">
-                        </div>
-                        <div class="icon">
-                            <img src="images/logo/logo3x.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /Preloader -->
-        <!-- Top Bar -->
-        <div class="tf-topbar">
-            <div class="tf-container w-1780">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="topbar-inner">
-                            <div class="topbar-left">
-                                <span class="fs-14 font-nunito">Welcome to DonalFarm</span>
-                                <span class="fs-14 font-nunito">Agriculture & Organic Farms</span>
-                            </div>
-                            <div class="topbar-right">
-                                <ul class="contact-list">
-                                    <li class="item">
-                                        <a href="#" class="icon">
-                                            <i class="fa-solid fa-phone"></i>
-                                        </a>
-                                        <a href="#"> +1 987 654 3210 </a>
-                                    </li>
-                                    <li class="item">
-                                        <a href="#" class="icon">
-                                            <img src="icons/mailbox.png" alt="" />
-                                        </a>
-                                        <a href="#">
-                                            Donalfarms@gmail.com
-                                        </a>
-                                    </li>
-                                    <li class="item">
-                                        <a href="#" class="icon">
-                                            <i class="fa-solid fa-location-dot"></i>
-                                        </a>
-                                        <a href="#">
-                                            Prinsengracht 250, Amsterdam
-                                            Netherlands
-                                        </a>
-                                    </li>
-                                </ul>
-                                <ul class="social-list">
-                                    <li class="item">
-                                        <a href="#">
-                                            <i class="icon-twitter"></i>
-                                        </a>
-                                    </li>
-                                    <li class="item">
-                                        <a href="#">
-                                            <i class="icon-facebook"></i>
-                                        </a>
-                                    </li>
-                                    <li class="item">
-                                        <a href="#">
-                                            <i class="icon-pinterest"></i>
-                                        </a>
-                                    </li>
-                                    <li class="item">
-                                        <a href="#">
-                                            <i class="icon-instagram2"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /Top Bar -->
-
-        <!-- Welcome -->
-        <div class="box-welcome">
-            <div class="tf-overlay"></div>
-            <div class="welcome-wrap">
-                <div class="content">
-                    <div class="btn-close-welcome icon style-circle">
-                        <i class="icon-close"></i>
-                    </div>
-                    <h3 class="title font-snowfall">
-                        DonalFarm Agriculture <br />
-                        Farm of laughter and
-                        happiness!
-                    </h3>
-                    <p class="text font-nunito">
-                        Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit.
-                        Maecenas ex ligula, pulvinar
-                        ultrices justo sed.
-                    </p>
-                    <ul class="infor-list">
-                        <li class="item">
-                            <i class="fa-solid fa-location-dot fs-18"></i>
-                            <p>
-                                Prinsengracht 250,
-                                2501016 PM Amsterdam
-                                Netherlands
-                            </p>
-                        </li>
-                        <li class="item">
-                            <i class="fa-solid fa-phone"></i>
-                            <p>
-                                Call us: (234)
-                                109-6666
-                            </p>
-                        </li>
-                        <li class="item">
-                            <img src="icons/mailbox-2.png" alt="" />
-                            <p>
-                                Mail Support:
-                                Donalfarms@gmail.com
-                            </p>
-                        </li>
-                        <li class="item">
-                            <i class="fa-solid fa-clock"></i>
-                            <p>
-                                Mon - Sat: 8.00am -
-                                18.00pm
-                            </p>
-                        </li>
-                    </ul>
-                    <div class="wg-social">
-                        <ul class="list">
-                            <li class="item">
-                                <a href="#"><i class="icon-facebook1"></i></a>
-                            </li>
-                            <li class="item">
-                                <a href="#"><i class="icon-twitter"></i></a>
-                            </li>
-                            <li class="item">
-                                <a href="#"><i class="icon-instagram2"></i></a>
-                            </li>
-                            <li class="item">
-                                <a href="#"><i class="icon-pinterest"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /Welcome -->
-
-        <!-- Header  -->
-        <header class="header has-item-bot" id="header-main">
+﻿<header class="header has-item-bot" id="header-main">
             <div class="tf-container w-1780">
                 <div class="row">
                     <div class="col-lg-12">
@@ -166,10 +11,10 @@
                                 </div>
                                 <div class="main-nav">
                                     <ul class="nav-list">
-                                        <li class="item has-child ">
+                                        <li class="item has-child current-menu">
                                             <a href="javascript:void(0)">Home</a>
                                             <ul class="sub-nav">
-                                                <li>
+                                                <li class="current-item">
                                                     <a href="index.php">
                                                         <span>
                                                             Home 1
@@ -310,7 +155,7 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="item has-child current-menu">
+                                        <li class="item has-child">
                                             <a href="javascript:void(0)">Shop</a>
                                             <ul class="sub-nav">
                                                 <li><a href="shop-products.php"><span>Shop Products</span></a></li>
@@ -319,8 +164,7 @@
                                                 <li><a href="wishlist.php"><span>Wishlist</span></a></li>
                                                 <li><a href="checkout.php"><span>Checkout</span></a></li>
                                                 <li><a href="order-tracking.php"><span>Order Tracking</span></a></li>
-                                                <li class="current-item"><a href="my-account.php"><span>My
-                                                            Account</span></a></li>
+                                                <li><a href="my-account.php"><span>My Account</span></a></li>
                                                 <li><a href="order-details.php"><span>Order Detail</span></a></li>
                                             </ul>
                                         </li>
@@ -417,12 +261,12 @@
                                     <nav id="mobile-main-nav" class="mobile-main-nav">
                                         <ul id="menu-mobile-menu" class="menu">
                                             <li class="menu-item menu-item-has-children-mobile current-nav">
-                                                <a class="item-menu-mobile " href="javascript:void(0)">
+                                                <a class="item-menu-mobile current" href="javascript:void(0)">
                                                     Home
                                                     <i class="icon-arrow_down"></i>
                                                 </a>
                                                 <ul class="sub-menu-mobile">
-                                                    <li class="menu-item ">
+                                                    <li class="menu-item current">
                                                         <a href="index.php">Home 1</a>
                                                     </li>
                                                     <li class="menu-item">
@@ -498,7 +342,7 @@
                                                 </ul>
                                             </li>
                                             <li class="menu-item menu-item-has-children-mobile">
-                                                <a class="item-menu-mobile current" href="javascript:void(0)">
+                                                <a class="item-menu-mobile" href="javascript:void(0)">
                                                     Shop
                                                     <i class="icon-arrow_down"></i>
                                                 </a>
@@ -516,8 +360,7 @@
                                                     <li class="menu-item"><a href="order-tracking.php">Order
                                                             Tracking</a>
                                                     </li>
-                                                    <li class="menu-item current"><a href="my-account.php">My
-                                                            Account</a>
+                                                    <li class="menu-item"><a href="my-account.php">My Account</a>
                                                     </li>
                                                     <li class="menu-item"><a href="order-details.php">Order Detail</a>
                                                     </li>
@@ -635,10 +478,10 @@
                                     </div>
                                     <div class="main-nav">
                                         <ul class="nav-list">
-                                            <li class="item has-child">
+                                            <li class="item has-child current-menu">
                                                 <a href="javascript:void(0)">Home</a>
                                                 <ul class="sub-nav">
-                                                    <li >
+                                                    <li class="current-item">
                                                         <a href="index.php">
                                                             <span>
                                                                 Home 1
@@ -779,7 +622,7 @@
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li class="item has-child current-menu">
+                                            <li class="item has-child">
                                                 <a href="javascript:void(0)">Shop</a>
                                                 <ul class="sub-nav">
                                                     <li><a href="shop-products.php"><span>Shop Products</span></a></li>
@@ -789,7 +632,7 @@
                                                     <li><a href="checkout.php"><span>Checkout</span></a></li>
                                                     <li><a href="order-tracking.php"><span>Order Tracking</span></a>
                                                     </li>
-                                                    <li class="current-item"><a href="my-account.php"><span>My Account</span></a></li>
+                                                    <li><a href="my-account.php"><span>My Account</span></a></li>
                                                     <li><a href="order-details.php"><span>Order Detail</span></a></li>
                                                 </ul>
                                             </li>
@@ -882,81 +725,4 @@
             <div class="header-item">
                 <img src="images/item/page-title-top.png" alt="">
             </div>
-        </header>
-        <!-- /Header -->
-        <!-- Page-title -->
-        <div class="page-title page-portfolio-details  ">
-            <div class="rellax" data-rellax-speed="5">
-                <img src="images/page-title/shop-detail.jpg" alt="">
-            </div>
-            <div class="content-wrap">
-                <div class="tf-container w-1290">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="content">
-                                <h1 class="title">
-                                    My account
-                                </h1>
-                                <div class="icon-img">
-                                    <img src="images/item/line-throw-title.png" alt="">
-                                </div>
-                                <div class="breadcrumb">
-                                    <a href="index.php">Home</a>
-                                    <div class="icon">
-                                        <i class="icon-arrow-right1"></i>
-                                    </div>
-                                    <a href="javascript:void(0)">My account</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="img-item item-2">
-                <img src="images/item/grass-6.png" alt="">
-            </div>
-        </div><!-- /.Page-title -->
-        <!-- My Account -->
-        <section class="flat-spacing-1">
-            <div class="tf-container">
-                <div class="row">
-                    <div class="col-lg-3 d-none d-lg-block">
-                        <div class="wrap-sidebar-account">
-                            <ul class="my-account-nav">
-                                <li><span class="my-account-nav-item active">Dashboard</span></li>
-                                <li><a href="my-account-orders.php" class="my-account-nav-item">Orders</a></li>
-                                <li><a href="my-account-address.php" class="my-account-nav-item">Address</a></li>
-                                <li><a href="my-account-edit.php" class="my-account-nav-item">Account Details</a></li>
-                                <li><a href="index.php" class="my-account-nav-item">Logout</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-9">
-                        <div class="my-account-content account-dashboard">
-                            <div class="mb_60">
-                                <h3 class="fw-5 mb-20">Hello Themesflat</h3>
-                                <p>
-                                    From your account dashboard you can view your
-                                    <a class="text-main-2 link fw-medium" href="my-account-orders.php">
-                                        recent orders
-                                    </a>
-                                    , manage your
-                                    <a class="text-main-2 link fw-medium" href="my-account-address.php">
-                                        shipping and billing address
-                                    </a>
-                                    , and
-                                    <a class="text-main-2 link fw-medium" href="my-account-edit.php">
-                                        edit your password and account details
-                                    </a>.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- /My Account -->
-
-        <!-- Footer -->
-<?php include 'overall/footer.php'; ?>
+        </header><!-- /.Header -->

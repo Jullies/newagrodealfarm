@@ -1,60 +1,6 @@
-﻿<!DOCTYPE html>
-<!--[if IE 8]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
-<!--<![endif]-->
-
-
-<!-- Mirrored from themesflat.co/html/donalfarm/checkout.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jan 2026 17:41:07 GMT -->
-<head>
-    <!-- Basic Page Needs -->
-    <meta charset="utf-8" />
-    <title>Donal Farm HTML Template</title>
-    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <meta name="description"
-        content="DonalFarm is a minimal, clean, and modern One Page HTML Template designed for farms and other agriculture-related businesses, such as organic farms, agricultural research centers, or produce stores.">
-    <meta name="keywords"
-        content=" dairy farm, poultry farm, livestock, organic produce, fresh vegetables, fruits, grains, sustainable agriculture, eco-friendly farming, farm machinery, irrigation, tractor">
-    <meta name="author" content="themesflat.com">
-
-    <!-- Mobile Specific Metas -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-
-    <!-- Bootstrap  -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
-
-    <!-- Theme Style -->
-    <link rel="stylesheet" href="../../../sibforms.com/forms/end-form/build/sib-styles.css">
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup.min.css" />
-    <link rel="stylesheet" type="text/css" href="css/drift-basic.min.css" />
-    <link rel="stylesheet" type="text/css" href="css/swiper-bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="css/nouislider.min.css" />
-    <link rel="stylesheet" type="text/css" href="css/styles.css" />
-
-    <!-- Animation Style -->
-    <link rel="stylesheet" type="text/css" href="css/animate.min.css" />
-
-    <!-- Font -->
-    <link rel="stylesheet" href="font/fonts.css" />
-
-    <!-- Icon -->
-    <link rel="stylesheet" type="text/css" href="icons/icomoon/style.css" />
-    <link rel="stylesheet" type="text/css" href="icons/fontawesome/css/all.min.css" />
-
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="images/logo/logo3x.png" />
-    <link rel="apple-touch-icon-precomposed" href="images/logo/logo3x.png" />
-
-    <!--[if lt IE 9]>
-        <script src="javascript/html5shiv.js"></script>
-        <script src="javascript/respond.min.js"></script>
-    <![endif]-->
-</head>
-
-<body>
-    <!-- Wrapper -->
-    <div id="wrapper">
-        <!-- Preloader -->
+﻿<?php include 'overall/header.php'; ?>
+<?php include 'overall/nav.php'; ?>
+<!-- Preloader -->
         <div id="loading">
             <div id="loading-center">
                 <div class="loader-container">
@@ -1879,9 +1825,4 @@
         var AUTOHIDE = Boolean(0);
     </script>
     <!-- /Javascript -->
-
-</body>
-
-
-<!-- Mirrored from themesflat.co/html/donalfarm/checkout.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jan 2026 17:41:07 GMT -->
-</html>
+<?php include 'overall/footer.php'; ?>
