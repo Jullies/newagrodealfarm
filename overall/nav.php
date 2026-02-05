@@ -38,6 +38,13 @@
                                                     </a>
                                                 </li>
                                                 <li>
+                                                    <a href="https://www.greatriftvalleyretreat.com" target="blank">
+                                                        <span>
+                                                                Real Estate
+                                                        </span>
+                                                    </a>
+                                                </li>
+                                                <li>
                                                     <a href="our-team.php">
                                                         <span>
                                                             Our Team
@@ -133,6 +140,10 @@
                                                     <li class="menu-item">
                                                         <a href="agro_bv.php">Agro BV</a>
                                                     </li>
+                                                    <li class="menu-item">
+                                                        <a href="https://www.greatriftvalleyretreat.com" target="blank">Real Estate </a>
+                                                    </li>
+                                            
                                                     <li class="menu-item">
                                                         <a href="our-team.php">Our Team</a>
                                                     </li>
@@ -289,6 +300,13 @@
                                                         <a href="agro_bv.php">
                                                             <span>
                                                                 Agro BV
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://www.greatriftvalleyretreat.com" target="blank">
+                                                            <span>
+                                                                Real Estate
                                                             </span>
                                                         </a>
                                                     </li>

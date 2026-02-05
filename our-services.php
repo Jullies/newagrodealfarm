@@ -1,4 +1,4 @@
-<?php include 'overall/header.php'; ?>
+ï»¿<?php include 'overall/header.php'; ?>
 <?php include 'overall/nav.php'; ?>
 <!-- Page-title -->
         <div class="page-title page-our-service  ">
@@ -268,7 +268,7 @@
                                 <!-- SORREL -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.1s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Sorrel - Fresh Herb" class="lazyload">
+                                        <img src="images/newagro_images/Sorrel.jpg" data-src="./images/new_agro_products/Sorrel.jpg" alt="Sorrel - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
@@ -277,7 +277,7 @@
                                             Sorrel is a leafy herb with a sharp, citrus-like flavor, perfect for soups, salads, and sauces.
                                             It's packed with vitamins and antioxidants, making it as nutritious as it is tasty.
                                             <br><br>
-                                            Experience the fresh taste of our high-quality sorrel at New Agrodeal Kenya Limited—sustainably cultivated and ready to elevate your meals!
+                                            Experience the fresh taste of our high-quality sorrel at New Agrodeal Kenya Limited'sustainably cultivated and ready to elevate your meals!
                                         </p>
                                     </div>
                                 </div>
@@ -285,7 +285,7 @@
                                 <!-- THYME -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.15s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Thyme - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/Thyme.jpg" data-src="./images/new_agro_products/Thyme.jpg" alt="Thyme - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
@@ -303,7 +303,7 @@
                                 <!-- TARRAGON -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.2s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Tarragon - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/product taragon.jpg" data-src="./images/new_agro_products/product taragon.jpg" alt="Tarragon - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
@@ -321,7 +321,7 @@
                                 <!-- SAVORY -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.25s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Savory - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/Savory.jpg" data-src="./images/new_agro_products/Savory.jpg" alt="Savory - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
@@ -339,14 +339,14 @@
                                 <!-- SAGE -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.3s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Sage - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/PRODUCT-SAGE.jpg" data-src="./images/new_agro_products/PRODUCT-SAGE.jpg" alt="Sage - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
                                         <div class="title fs-23 fw-6 font-worksans">Sage</div>
                                         <p class="text font-nunito">
                                             Sage is a silvery-green herb with soft, velvety leaves and a rich, earthy flavor, perfect for seasoning meats, stuffing, and soups.
-                                            It’s also prized for its anti-inflammatory and memory-boosting properties.
+                                            It's also prized for its anti-inflammatory and memory-boosting properties.
                                             At New Agrodeal Kenya Limited, we grow fresh, vibrant sage that adds warmth and depth to your cooking.
                                             <br><br>
                                             Experience the rich taste of our quality sage, sustainably grown and ready to enhance your dishes!
@@ -357,7 +357,7 @@
                                 <!-- PARSLEY -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.35s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Parsley - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/PRODUCT PERSLEY.jpg" data-src="./images/new_agro_products/PRODUCT PERSLEY.jpg" alt="Parsley - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
@@ -375,7 +375,7 @@
                                 <!-- OREGANO -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.4s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Oregano - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/product oregano.jpg" data-src="./images/new_agro_products/product oregano.jpg" alt="Oregano - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
@@ -393,14 +393,14 @@
                                 <!-- MARJORAM -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.45s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Marjoram - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/PRODUCT Margorm.jpg" data-src="./images/new_agro_products/PRODUCT Margorm.jpg" alt="Marjoram - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
                                         <div class="title fs-23 fw-6 font-worksans">Marjoram</div>
                                         <p class="text font-nunito">
                                             Marjoram is a fragrant herb with tender leaves and a warm, slightly sweet flavor, ideal for seasoning soups, stews, and roasts.
-                                            It’s known for its soothing properties and ability to aid digestion and relieve stress.
+                                            It's known for its soothing properties and ability to aid digestion and relieve stress.
                                             <br><br>
                                             At New Agrodeal Kenya Limited, our fresh marjoram is carefully nurtured to deliver a burst of flavor and wellness to your dishes.
                                             Add a touch of natural brilliance to your cooking with our marjoram!
@@ -411,7 +411,7 @@
                                 <!-- LOVAGE -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.5s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Lovage - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/Lovage.jpg" data-src="./images/new_agro_products/Lovage.jpg" alt="Lovage - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
@@ -419,7 +419,7 @@
                                         <p class="text font-nunito">
                                             Lovage is a bold herb with a unique, celery-like flavor, ideal for enriching soups, stews, and salads.
                                             It's packed with vitamins and aids digestion, offering both taste and health benefits.
-                                            Experience the vibrant flavor of our fresh lovage at New Agrodeal Kenya Limited—sustainably grown to bring natural goodness to your kitchen!
+                                            Experience the vibrant flavor of our fresh lovage at New Agrodeal Kenya Limited'sustainably grown to bring natural goodness to your kitchen!
                                         </p>
                                     </div>
                                 </div>
@@ -427,7 +427,7 @@
                                 <!-- LEMON GRASS -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.55s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Lemon Grass - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/LG.jpg" data-src="./images/new_agro_products/LG.jpg" alt="Lemon Grass - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
@@ -443,14 +443,14 @@
                                 <!-- DILL -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.6s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Dill - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/PRODUCT DILL.jpg" data-src="./images/new_agro_products/PRODUCT DILL.jpg" alt="Dill - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
                                         <div class="title fs-23 fw-6 font-worksans">Dill</div>
                                         <p class="text font-nunito">
                                             Dill is a delicate herb with feathery leaves and a tangy, slightly sweet flavor, perfect for enhancing pickles, salads, and seafood dishes.
-                                            It’s known for its digestive benefits and fresh, aromatic taste.
+                                            It's known for its digestive benefits and fresh, aromatic taste.
                                             Elevate your meals with our quality, fresh dill from New Agrodeal Kenya Limited.
                                         </p>
                                     </div>
@@ -459,15 +459,15 @@
                                 <!-- CORIANDER -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.65s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Coriander - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/Coriander.jpg" data-src="./images/new_agro_products/Coriander.jpg" alt="Coriander - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
                                         <div class="title fs-23 fw-6 font-worksans">Coriander</div>
                                         <p class="text font-nunito">
                                             Coriander is a versatile herb with bright, citrusy leaves and seeds, enhancing dishes from salsas to curries with its distinctive flavor.
-                                            It’s celebrated for its antioxidant properties and digestive benefits.
-                                            Taste the difference with our fresh coriander from New Agrodeal Kenya Limited—sustainably grown to infuse your cooking with vibrant, natural flavor!
+                                            It's celebrated for its antioxidant properties and digestive benefits.
+                                            Taste the difference with our fresh coriander from New Agrodeal Kenya Limited'sustainably grown to infuse your cooking with vibrant, natural flavor!
                                         </p>
                                     </div>
                                 </div>
@@ -475,7 +475,7 @@
                                 <!-- CHIVES -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.7s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Chives - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/Chives.jpg" data-src="./images/new_agro_products/Chives.jpg" alt="Chives - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
@@ -491,14 +491,14 @@
                                 <!-- CHERVIL -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.75s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Chervil - Fresh Herb" class="lazyload">
+                                        <img src="images/new_agro_products/Chervil.jpg" data-src="./images/new_agro_products/Chervil.jpg" alt="Chervil - Fresh Herb" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
                                         <div class="title fs-23 fw-6 font-worksans">Chervil</div>
                                         <p class="text font-nunito">
                                             Chervil is an elegant herb with delicate, fern-like leaves and a subtle anise flavor, ideal for enhancing sauces, salads, and soups.
-                                            It’s known for its antioxidant properties and ability to add a touch of sophistication to any dish.
+                                            It's known for its antioxidant properties and ability to add a touch of sophistication to any dish.
                                             Experience the refined taste of our fresh chervil from New Agrodeal Kenya Limited!
                                         </p>
                                     </div>
@@ -507,7 +507,7 @@
                                 <!-- VEGETABLES (Intro Card) -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.8s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Our Vegetables - New Agrodeal Kenya Limited" class="lazyload">
+                                        <img src="images/new_agro_products/Herbs.jpg" data-src="./images/new_agro_products/Herbs.jpg" alt="Our Vegetables - New Agrodeal Kenya Limited" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-carrot"></i></div>
                                     </div>
                                     <div class="content">
@@ -522,7 +522,7 @@
                                 <!-- BROCCOLI SPEARS -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.85s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Broccoli Spears - Fresh Vegetable" class="lazyload">
+                                        <img src="images/new_agro_products/Herbs.jpg" data-src="./images/new_agro_products/Herbs.jpg" alt="Broccoli Spears - Fresh Vegetable" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
@@ -537,7 +537,7 @@
                                 <!-- BROCCOLI TIPS -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.9s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Broccoli Tips - Fresh Vegetable" class="lazyload">
+                                        <img src="images/new_agro_products/Herbs.jpg" data-src="./images/new_agro_products/Herbs.jpg" alt="Broccoli Tips - Fresh Vegetable" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
@@ -552,7 +552,7 @@
                                 <!-- BROCCOLI FLORETS -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.95s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Broccoli Florets - Fresh Vegetable" class="lazyload">
+                                        <img src="images/new_agro_products/Herbs.jpg" data-src="./images/new_agro_products/Herbs.jpg" alt="Broccoli Florets - Fresh Vegetable" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
@@ -567,7 +567,7 @@
                                 <!-- BABY CARROTS -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Baby Carrots - Fresh Vegetable" class="lazyload">
+                                        <img src="images/new_agro_products/Herbs.jpg" data-src="./images/new_agro_products/Herbs.jpg" alt="Baby Carrots - Fresh Vegetable" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-carrot"></i></div>
                                     </div>
                                     <div class="content">
@@ -582,7 +582,7 @@
                                 <!-- SUGAR SNAP -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1.05s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Sugar Snap Peas - Fresh Vegetable" class="lazyload">
+                                        <img src="images/new_agro_products/Herbs.jpg" data-src="./images/new_agro_products/Herbs.jpg" alt="Sugar Snap Peas - Fresh Vegetable" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
@@ -597,7 +597,7 @@
                                 <!-- MANGETOUT -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1.1s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Mangetout - Fresh Vegetable" class="lazyload">
+                                        <img src="images/new_agro_products/Herbs.jpg" data-src="./images/new_agro_products/Herbs.jpg" alt="Mangetout - Fresh Vegetable" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
@@ -612,7 +612,7 @@
                                 <!-- FINE BEANS -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1.15s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Fine Beans - Fresh Vegetable" class="lazyload">
+                                        <img src="images/new_agro_products/Herbs.jpg" data-src="./images/new_agro_products/Herbs.jpg" alt="Fine Beans - Fresh Vegetable" class="lazyload">
                                         <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
@@ -633,7 +633,7 @@
                                     <div class="content">
                                         <div class="title fs-23 fw-6 font-worksans">Our Flowers</div>
                                         <p class="text font-nunito">
-                                            Our summer flowers are grown with the same discipline as our herbs: careful field care, swift cooling, and clean packing. Gypsophila for airy elegance, Sunflowers for bold color, and Carthamus for striking texture—each bloom is selected for vibrant color, strong stems, and reliable vase life.
+                                            Our summer flowers are grown with the same discipline as our herbs: careful field care, swift cooling, and clean packing. Gypsophila for airy elegance, Sunflowers for bold color, and Carthamus for striking texture'each bloom is selected for vibrant color, strong stems, and reliable vase life.
                                         </p>
                                     </div>
                                 </div>
