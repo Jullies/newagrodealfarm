@@ -49,7 +49,7 @@
                                         <div class="video-wrap">
                                             <img class="lazyload" data-src="images/blog/blog-1.jpg"
                                                 src="images/blog/blog-1.jpg" alt="">
-                                            <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                            <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                                 class="style-icon-play popup-youtube">
                                                 <i class="fa-solid fa-play"></i>
                                                 <div class="wave"></div>
@@ -100,13 +100,7 @@
                                             </a>
                                         </h3>
                                         <p class="text">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus odio,
-                                            egestas vitae augue sed, vulputate viverra
-                                            velit. Quisque fringilla viverra turpis, at condimentum arcu convallis sit
-                                            amet.
-                                            Class aptent taciti sociosqu ad litora
-                                            torquent per conubia nostra...
-                                        </p>
+                                            New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                         <div class="bot">
                                             <a class="tf-btn gap-35" href="blog-single.php">
                                                 <span class="text-style">
@@ -154,7 +148,7 @@
                                         <div class="video-wrap">
                                             <img class="lazyload" data-src="images/blog/blog-2.jpg"
                                                 src="images/blog/blog-2.jpg" alt="">
-                                            <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                            <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                                 class="style-icon-play popup-youtube">
                                                 <i class="fa-solid fa-play"></i>
                                                 <div class="wave"></div>
@@ -204,13 +198,7 @@
                                             </a>
                                         </h3>
                                         <p class="text">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus odio,
-                                            egestas vitae augue sed, vulputate viverra
-                                            velit. Quisque fringilla viverra turpis, at condimentum arcu convallis sit
-                                            amet.
-                                            Class aptent taciti sociosqu ad litora
-                                            torquent per conubia nostra...
-                                        </p>
+                                            New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                         <div class="bot">
                                             <a class="tf-btn gap-35" href="blog-single.php">
                                                 <span class="text-style">
@@ -300,7 +288,7 @@
                                         <div class="video-wrap">
                                             <img class="lazyload" data-src="images/blog/blog-3.jpg"
                                                 src="images/blog/blog-3.jpg" alt="">
-                                            <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                            <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                                 class="style-icon-play popup-youtube">
                                                 <i class="fa-solid fa-play"></i>
                                                 <div class="wave"></div>
@@ -350,13 +338,7 @@
                                             </a>
                                         </h3>
                                         <p class="text">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus odio,
-                                            egestas vitae augue sed, vulputate viverra
-                                            velit. Quisque fringilla viverra turpis, at condimentum arcu convallis sit
-                                            amet.
-                                            Class aptent taciti sociosqu ad litora
-                                            torquent per conubia nostra...
-                                        </p>
+                                            New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                         <div class="bot">
                                             <a class="tf-btn gap-35" href="blog-single.php">
                                                 <span class="text-style">
@@ -444,7 +426,7 @@
                                         <div class="video-wrap">
                                             <img class="lazyload" data-src="images/blog/blog-4.jpg"
                                                 src="images/blog/blog-4.jpg" alt="">
-                                            <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                            <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                                 class="style-icon-play popup-youtube">
                                                 <i class="fa-solid fa-volume-high"></i>
                                                 <div class="wave"></div>
@@ -494,13 +476,7 @@
                                             </a>
                                         </h3>
                                         <p class="text">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus odio,
-                                            egestas vitae augue sed, vulputate viverra
-                                            velit. Quisque fringilla viverra turpis, at condimentum arcu convallis sit
-                                            amet.
-                                            Class aptent taciti sociosqu ad litora
-                                            torquent per conubia nostra...
-                                        </p>
+                                            New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                         <div class="bot">
                                             <a class="tf-btn gap-35" href="blog-single.php">
                                                 <span class="text-style">
@@ -567,12 +543,10 @@
                                     <a href="#" class="text-upper font-worksans name hover-text-secondary">Christine
                                         Rose</a>
                                     <p class="duty font-nunito">
-                                        DonalFarm Editor Post Blog
+                                        New Agrodeal Kenya Limited Editor Post Blog
                                     </p>
                                     <p class="text font-nunito">
-                                        Suspendisse dignissim ut massa acdum. Vivamus sit amet felis odio. Phasellus a
-                                        nisi eleifend, rhoncus massa.
-                                    </p>
+                                        We prioritize disciplined post-harvest handling so every stem and leaf stays crisp and aromatic.</p>
                                     <ul class="social-list style-3 style-2">
                                         <li class="item">
                                             <a href="#">
@@ -631,7 +605,7 @@
                                                 <a href="#">Uncategorized</a>
                                             </li>
                                             <li class="item">
-                                                <a href="#">Organic</a>
+                                                <a href="#"></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -702,7 +676,7 @@
                                                 <a href="#">juices</a>
                                             </li>
                                             <li class="item">
-                                                <a href="#">organic</a>
+                                                <a href="#"></a>
                                             </li>
                                             <li class="item">
                                                 <a href="#">vegatables</a>
@@ -721,3 +695,8 @@
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+

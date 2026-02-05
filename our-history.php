@@ -3,7 +3,7 @@
 <!-- Page-title -->
         <div class="page-title page-our-history">
             <div class="rellax" data-rellax-speed="5">
-                <img class="" src="images/page-title/our-history.jpg" alt="">
+                <img class="" src="images/page-title/contact-us.jpg" alt="">
             </div>
             <div class="content-wrap">
                 <div class="tf-container w-1290">
@@ -151,12 +151,7 @@
                                             The Beginning
                                         </h3>
                                         <p class="text font-nunito">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus odio,
-                                            egestas vitae augue sed, vulputate viverra
-                                            velit. Quisque fringilla viverra turpis, at condimentum arcu convallis sit
-                                            amet. Class aptent taciti sociosqu ad litora
-                                            torquent per conubia nostra, per inceptos himenaeos.
-                                        </p>
+                                            New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                     </div>
                                 </div>
                                 <div class="wg-history mb-50 type-right img-hover  tf-img-hover">
@@ -165,12 +160,7 @@
                                             Ottavio Bakery Smiling Server
                                         </h3>
                                         <p class="text font-nunito ">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus odio,
-                                            egestas vitae augue sed, vulputate viverra
-                                            velit. Quisque fringilla viverra turpis, at condimentum arcu convallis sit
-                                            amet. Class aptent taciti sociosqu ad litora
-                                            torquent per conubia nostra, per inceptos himenaeos.
-                                        </p>
+                                            New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                     </div>
                                     <div class="year">
                                         <p class="number font-snowfall fs-30">
@@ -197,12 +187,7 @@
                                             Hotel Grand Pacific Chef
                                         </h3>
                                         <p class="text font-nunito ">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus odio,
-                                            egestas vitae augue sed, vulputate viverra
-                                            velit. Quisque fringilla viverra turpis, at condimentum arcu convallis sit
-                                            amet. Class aptent taciti sociosqu ad litora
-                                            torquent per conubia nostra, per inceptos himenaeos.
-                                        </p>
+                                            New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                     </div>
                                 </div>
                                 <div class="wg-history mb-50 type-right img-hover tf-img-hover">
@@ -211,12 +196,7 @@
                                             Townline Farms Serving Veggies
                                         </h3>
                                         <p class="text font-nunito ">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus odio,
-                                            egestas vitae augue sed, vulputate viverra
-                                            velit. Quisque fringilla viverra turpis, at condimentum arcu convallis sit
-                                            amet. Class aptent taciti sociosqu ad litora
-                                            torquent per conubia nostra, per inceptos himenaeos.
-                                        </p>
+                                            New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                     </div>
                                     <div class="year">
                                         <p class="number font-snowfall fs-30">
@@ -242,3 +222,7 @@
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+
+

@@ -1,4 +1,4 @@
-﻿<?php include 'overall/header.php'; ?>
+<?php include 'overall/header.php'; ?>
 <?php include 'overall/nav.php'; ?>
 <!-- Preloader -->
         <div id="loading">
@@ -215,7 +215,7 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="our-commitments.php">
+                                                    <a href="agro_bv.php">
                                                         <span>
                                                             Our Commitments
                                                         </span>
@@ -229,9 +229,9 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="our-farmers.php">
+                                                    <a href="our-team.php">
                                                         <span>
-                                                            Our Farmers
+                                                            Our Team
                                                         </span>
                                                     </a>
                                                 </li>
@@ -493,7 +493,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="our-commitments.php">
+                                                        <a href="agro_bv.php">
                                                             <span>
                                                                 Our Commitments
                                                             </span>
@@ -507,9 +507,9 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="our-farmers.php">
+                                                        <a href="our-team.php">
                                                             <span>
-                                                                Our Farmers
+                                                                Our Team
                                                             </span>
                                                         </a>
                                                     </li>
@@ -752,13 +752,13 @@
                                         <a href="about-us.php">About Us</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="our-commitments.php">Our Commitments</a>
+                                        <a href="agro_bv.php">Our Commitments</a>
                                     </li>
                                     <li class="menu-item">
                                         <a href="our-events.php">Our Events</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="our-farmers.php">Our Farmers</a>
+                                        <a href="our-team.php">Our Team</a>
                                     </li>
                                     <li class="menu-item">
                                         <a href="our-history.php">Our History</a>
@@ -878,15 +878,14 @@
                                     Address:
                                 </h5>
                                 <p>
-                                    Prinsengracht 250, Amsterdam Netherlands
-                                </p>
+                                    Solai, Nakuru, Kenya</p>
                             </li>
                             <li>
                                 <h5 class="title">
                                     Phone:
                                 </h5>
                                 <p>
-                                    +1 987 654 3210
+                                    +254 793 753247
                                 </p>
                             </li>
                             <li>
@@ -895,7 +894,7 @@
                                 </h5>
                                 <p>
 
-                                    Donalfarms@gmail.com
+                                    info@agrodealfarm.co.ke
                                 </p>
                             </li>
 
@@ -1058,7 +1057,7 @@
                                                     data-src="images/product/product-1.jpg" alt="" class="lazyload">
                                             </div>
                                             <a href="#" class="link text-def fw-medium">
-                                                3 Ã— Vimto Squash Remix
+                                                3 × Vimto Squash Remix
                                             </a>
                                         </div>
                                         <p class="text-def text-main-2 fw-medium">54.00$</p>
@@ -1070,7 +1069,7 @@
                                                     data-src="images/product/product-2.jpg" alt="" class="lazyload">
                                             </div>
                                             <a href="#" class="link text-def fw-medium">
-                                                3 Ã— Extreme Budweiser
+                                                3 × Extreme Budweiser
                                             </a>
                                         </div>
                                         <p class="text-def text-main-2 fw-medium">60.00$</p>
@@ -1214,9 +1213,7 @@
                                     <li>
                                         <i class="fa-solid fa-location-dot fs-17"></i>
                                         <p class="address">
-                                            Prinsengracht 250, 2501016 PM
-                                            Amsterdam Netherlands
-                                        </p>
+                                            Solai, Nakuru, Kenya</p>
                                     </li>
                                     <li>
                                         <i class="fa-solid fa-phone"></i>
@@ -1227,7 +1224,7 @@
                                     <li>
                                         <i class="icon-package-box"></i>
                                         <p class="email fs-15">
-                                            Mail: Donalfarms@gmail.com
+                                            Mail: info@agrodealfarm.co.ke
                                         </p>
                                     </li>
                                     <li>
@@ -1254,8 +1251,7 @@
                                         </div>
                                         <div class="content">
                                             <a href="#" class="title-post hover-text-secondary">
-                                                Learn 10 Best Tips for New
-                                                Formers
+                                                Field-to-pack discipline for fresher herbs
                                             </a>
                                             <p class="date-release">
                                                 30 Oct, 2024
@@ -1268,8 +1264,7 @@
                                         </div>
                                         <div class="content">
                                             <a href="#" class="title-post hover-text-secondary">
-                                                Farmer Sentiment Darkens
-                                                Hopes Fade
+                                                Why cold-chain integrity keeps aroma alive
                                             </a>
                                             <p class="date-release">
                                                 30 Oct, 2024
@@ -1323,7 +1318,7 @@
                                             View Recent Projects</a>
                                     </li>
                                     <li class="item">
-                                        <a href="our-farmers.php">
+                                        <a href="our-team.php">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="14"
                                                 height="16">
                                                 <path
@@ -1461,7 +1456,7 @@
                     <div class="col-lg-12">
                         <div class="footer-bottom">
                             <p class="no-copy font-nunito">
-                                Copyright Â© 2024 Donal Farm by
+                                Copyright © 2024 New Agrodeal Kenya Limited by
                                 <span>
                                     <a href="https://themeforest.net/user/themesflat/portfolio" target="_blank">
                                         Themesflat</a>.</span>
@@ -1722,7 +1717,7 @@
                             <img src="images/product/product-1.jpg" alt="">
                         </a>
                         <div class="cart-info">
-                            <a href="#" class="text-def">HÃ¤agen-Dazs Salted</a>
+                            <a href="#" class="text-def">Häagen-Dazs Salted</a>
                             <p class="type">Blue LG</p>
                             <p class="price">10.00$</p>
                         </div>
@@ -1746,7 +1741,7 @@
                             <img src="images/product/product-1.jpg" alt="">
                         </a>
                         <div class="cart-info">
-                            <a href="#" class="text-def">HÃ¤agen-Dazs Salted</a>
+                            <a href="#" class="text-def">Häagen-Dazs Salted</a>
                             <p class="type">Blue LG</p>
                             <p class="price">10.00$</p>
                         </div>
@@ -1826,3 +1821,8 @@
     </script>
     <!-- /Javascript -->
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+

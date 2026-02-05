@@ -62,7 +62,8 @@
                                                     Farm & Packhouse
                                                 </p>
                                                 <p class="text">
-                                                    7CMJ+4CC, Solai, Kenya 20117, KE
+                                                    7CMJ+4CC, Solai, Nakuru, Kenya 20117, KE<br>
+                                                    Mon - Sat: 8.00am - 18.00pm
                                                 </p>
                                             </div>
                                         </li>
@@ -72,10 +73,9 @@
                                             </div>
                                             <div class="infor">
                                                 <p class="title">
-                                                    Call or Visit
+                                                    Get in touch Agrodeal
                                                 </p>
                                                 <p class="text">
-                                                    https://newagrodeal.com/ <br>
                                                     Call Us: +254 793 753247
                                                 </p>
                                             </div>
@@ -87,11 +87,11 @@
                                             <div class="infor">
 
                                                 <p class="title">
-                                                    Working Hours
+                                                    Get in touch Agro BV
                                                 </p>
                                                 <p class="text">
-                                                    Mon - Sat: 8.00am - 18.00pm <br>
-                                                    Solai-based team ready for export coordination
+                                                    orders@agrobv.nl <br>
+                                                    Call: +31 6 85026354
                                                 </p>
                                             </div>
                                         </li>
@@ -168,13 +168,11 @@
                 </div>
             </section><!-- /.Section contact us -->
 
-            <!-- Section map -->
-            <div class="box-map">
-                <div id="map" class="map"></div>
-            </div><!-- Section map -->
-
         </div><!-- /.Main-content -->
 
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+

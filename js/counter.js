@@ -1,4 +1,5 @@
-function isElementInViewport($el) {
+﻿function isElementInViewport(\) {
+    if (!\ || \.length === 0) return false;
     var top = $el.offset().top;
     var bottom = top + $el.outerHeight();
     var viewportTop = $(window).scrollTop();
@@ -10,7 +11,7 @@ if ($(".counter-scroll").length > 0) {
         if ($(".odometer.style-2").length > 0) {
             if (isElementInViewport($(".odometer"))) {
                 setTimeout(function () {
-                    $(".odometer.style-2").html(12980);
+                    $(".odometer.style-2").html(100);
                     $(".odometer.style-4").html(1360);
                     $(".odometer.style-4-2").html(1036);
                     $(".odometer.style-4-3").html(4657);
@@ -19,10 +20,10 @@ if ($(".counter-scroll").length > 0) {
         }
         if (isElementInViewport($(".odometer.style-1"))) {
             setTimeout(function () {
-                $(".style-1-1").html(1360);
-                $(".style-1-2").html(1036);
-                $(".style-1-3").html(63);
-                $(".style-1-4").html(4657);
+                $(".style-1-1").html(100);
+                $(".style-1-2").html(2500);
+                $(".style-1-3").html(11);
+                $(".style-1-4").html(1000);
             }, 0);
         }
     });
@@ -39,7 +40,7 @@ if ($(".counter-scroll-2").length > 0) {
         }
         if (isElementInViewport($(".odometer.style-6"))) {
             setTimeout(function () {
-                $(".odometer.style-6").html(12980);
+                $(".odometer.style-6").html(100);
             }, 0);
         }
     });
@@ -59,7 +60,7 @@ if ($(".counter-scroll-4").length > 0) {
     $(window).on("scroll", function () {
         if (isElementInViewport($(".odometer.style-6"))) {
             setTimeout(function () {
-                $(".odometer.style-6").html(12980);
+                $(".odometer.style-6").html(100);
             }, 0);
         }
     });
@@ -73,3 +74,4 @@ if ($(".counter-scroll-5").length > 0) {
         }
     });
 }
+

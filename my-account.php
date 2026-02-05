@@ -1,4 +1,4 @@
-﻿<?php include 'overall/header.php'; ?>
+<?php include 'overall/header.php'; ?>
 <?php include 'overall/nav.php'; ?>
 <!-- Preloader -->
         <div id="loading">
@@ -22,8 +22,8 @@
                     <div class="col-lg-12">
                         <div class="topbar-inner">
                             <div class="topbar-left">
-                                <span class="fs-14 font-nunito">Welcome to DonalFarm</span>
-                                <span class="fs-14 font-nunito">Agriculture & Organic Farms</span>
+                                <span class="fs-14 font-nunito">Welcome to New Agrodeal Kenya Limited</span>
+                                <span class="fs-14 font-nunito">Agriculture &  Farms</span>
                             </div>
                             <div class="topbar-right">
                                 <ul class="contact-list">
@@ -31,14 +31,14 @@
                                         <a href="#" class="icon">
                                             <i class="fa-solid fa-phone"></i>
                                         </a>
-                                        <a href="#"> +1 987 654 3210 </a>
+                                        <a href="#"> +254 793 753247 </a>
                                     </li>
                                     <li class="item">
                                         <a href="#" class="icon">
                                             <img src="icons/mailbox.png" alt="" />
                                         </a>
                                         <a href="#">
-                                            Donalfarms@gmail.com
+                                            info@agrodealfarm.co.ke
                                         </a>
                                     </li>
                                     <li class="item">
@@ -46,9 +46,7 @@
                                             <i class="fa-solid fa-location-dot"></i>
                                         </a>
                                         <a href="#">
-                                            Prinsengracht 250, Amsterdam
-                                            Netherlands
-                                        </a>
+                                            Solai, Nakuru, Kenya</a>
                                     </li>
                                 </ul>
                                 <ul class="social-list">
@@ -90,24 +88,17 @@
                         <i class="icon-close"></i>
                     </div>
                     <h3 class="title font-snowfall">
-                        DonalFarm Agriculture <br />
+                        New Agrodeal Kenya Limited Agriculture <br />
                         Farm of laughter and
                         happiness!
                     </h3>
                     <p class="text font-nunito">
-                        Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit.
-                        Maecenas ex ligula, pulvinar
-                        ultrices justo sed.
-                    </p>
+                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                     <ul class="infor-list">
                         <li class="item">
                             <i class="fa-solid fa-location-dot fs-18"></i>
                             <p>
-                                Prinsengracht 250,
-                                2501016 PM Amsterdam
-                                Netherlands
-                            </p>
+                                Solai, Nakuru, Kenya</p>
                         </li>
                         <li class="item">
                             <i class="fa-solid fa-phone"></i>
@@ -120,7 +111,7 @@
                             <img src="icons/mailbox-2.png" alt="" />
                             <p>
                                 Mail Support:
-                                Donalfarms@gmail.com
+                                info@agrodealfarm.co.ke
                             </p>
                         </li>
                         <li class="item">
@@ -201,7 +192,7 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="our-commitments.php">
+                                                    <a href="agro_bv.php">
                                                         <span>
                                                             Our Commitments
                                                         </span>
@@ -215,9 +206,9 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="our-farmers.php">
+                                                    <a href="our-team.php">
                                                         <span>
-                                                            Our Farmers
+                                                            Our Team
                                                         </span>
                                                     </a>
                                                 </li>
@@ -443,13 +434,13 @@
                                                         <a href="about-us.php">About Us</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="our-commitments.php">Our Commitments</a>
+                                                        <a href="agro_bv.php">Our Commitments</a>
                                                     </li>
                                                     <li class="menu-item">
                                                         <a href="our-events.php">Our Events</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="our-farmers.php">Our Farmers</a>
+                                                        <a href="our-team.php">Our Team</a>
                                                     </li>
                                                     <li class="menu-item">
                                                         <a href="our-history.php">Our History</a>
@@ -578,15 +569,14 @@
                                                     Address:
                                                 </h5>
                                                 <p>
-                                                    Prinsengracht 250, Amsterdam Netherlands
-                                                </p>
+                                                    Solai, Nakuru, Kenya</p>
                                             </li>
                                             <li>
                                                 <h5 class="title">
                                                     Phone:
                                                 </h5>
                                                 <p>
-                                                    +1 987 654 3210
+                                                    +254 793 753247
                                                 </p>
                                             </li>
                                             <li>
@@ -595,7 +585,7 @@
                                                 </h5>
                                                 <p>
 
-                                                    Donalfarms@gmail.com
+                                                    info@agrodealfarm.co.ke
                                                 </p>
                                             </li>
                                         </ul>
@@ -670,7 +660,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="our-commitments.php">
+                                                        <a href="agro_bv.php">
                                                             <span>
                                                                 Our Commitments
                                                             </span>
@@ -684,9 +674,9 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="our-farmers.php">
+                                                        <a href="our-team.php">
                                                             <span>
-                                                                Our Farmers
+                                                                Our Team
                                                             </span>
                                                         </a>
                                                     </li>
@@ -960,3 +950,9 @@
 
         <!-- Footer -->
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+
+

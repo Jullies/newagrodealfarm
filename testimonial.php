@@ -98,7 +98,7 @@
                                 <p class="text">
                                     There is great satisfaction in knowing you've done your job well and served your
                                     clients' interests.It gives us particular satisfaction when our clients take the
-                                    time to acknowledge their satisfaction by providing DonalFarm Agriculture with
+                                    time to acknowledge their satisfaction by providing New Agrodeal Kenya Limited Agriculture with
                                     their
                                     testimonials.
                                 </p>
@@ -129,9 +129,7 @@
 
                                 </p>
                                 <p class="text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio nunc, egestas
-                                    quis efficitureu, tempus ut nisi.
-                                </p>
+                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                 <div class="img-item"><img class="tf-animate-1" src="../../images/item/rice-plant-2.png"
                                         alt=""></div>
                             </div>
@@ -509,3 +507,7 @@
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+
+

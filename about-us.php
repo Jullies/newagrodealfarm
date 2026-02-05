@@ -1,9 +1,9 @@
-ï»¿<?php include 'overall/header.php'; ?>
+<?php include 'overall/header.php'; ?>
 <?php include 'overall/nav.php'; ?>
 <!-- Page-title -->
         <div class="page-title page-about-us">
             <div class="rellax" data-rellax-speed="5">
-                <img src="images/page-title/about-us.jpg" alt="">
+                <img src="images/page-title/contact-us.jpg" alt="">
             </div>
             <div class="content-wrap">
                 <div class="tf-container w-1290">
@@ -11,7 +11,7 @@
                         <div class="col-lg-12">
                             <div class="content">
                                 <p class="sub-title">
-                                    New Agrodeal Kenya Limited Â· Solai-grown, export-ready quality
+                                    New Agrodeal Kenya Limited · Solai, Nakuru-grown, export-ready quality
                                 </p>
                                 <h1 class="title">
                                     About New Agrodeal Kenya Limited
@@ -48,46 +48,13 @@
                 <div class="counter-wrap">
                     <div class="tf-container w-1290">
                         <div class="row">
-                            <div class="col-lg-6">
-                                <div class="wrap">
+                            <div class="col-lg-12">
+                                <div class="wrap" style="color:#103918;">
                                     <p class="text font-snowfall fs-30">
-                                        Founded in 2015 in Solai, Kenya, we are a certified exporter growing organic
+                                        Founded in 2015 in Solai, Nakuru, Kenya, we are a certified exporter growing 
                                         herbs, vegetables, and Gypsophila with farm-to-packhouse discipline to ensure
                                         food hygiene and safety every step of the way.
                                     </p>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6">
-                                <div class="wg-counter style-5">
-                                    <div class="icon style-circle">
-                                        <i class="fa-solid fa-cow"></i>
-                                    </div>
-                                    <div class="counter-item">
-                                        <p class="title font-worksans fw-5 fs-18">
-                                            Completed Projects
-                                        </p>
-                                        <div class="counter">
-                                            <div id="odometer" class="odometer style-5">1000</div>
-                                            <span class="sub-odo color-secondary">+</span>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class="col-lg-3 col-md-6">
-                                <div class="wg-counter style-5">
-                                    <div class="icon style-circle">
-                                        <i class="fa-solid fa-face-smile"></i>
-                                    </div>
-                                    <div class="counter-item">
-                                        <p class="title font-worksans fw-5 fs-18">
-                                            Trust By Clients
-                                        </p>
-                                        <div class="counter">
-                                            <div class="odometer style-5-2">10000</div>
-                                            <span class="sub-odo color-secondary">+</span>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +77,7 @@
                                             Welcome to New Agrodeal Kenya Limited
                                         </p>
                                         <p class="title wow fadeInUp" data-wow-delay="0s">
-                                            Premium organic herbs and flowers grown sustainably in Solai, Kenya
+                                            Premium  herbs and flowers grown sustainably in Solai, Nakuru, Kenya
                                         </p>
                                     </div>
                                 </div>
@@ -125,11 +92,67 @@
                                         cold chain.
                                     </p>
                                     <p class="text-2 wow fadeInUp" data-wow-delay="0s">
-                                        Our Solai location offers ideal climate and soils; our team applies meticulous
+                                        Our Solai, Nakuru location offers ideal climate and soils; our team applies meticulous
                                         seed-to-harvest monitoring, traceability, and careful grading and packing to
                                         meet international buyer specifications. The result is clean, aromatic, uniform
                                         produce delivered reliably to multiple global markets.
                                     </p>
+
+                                    
+                                </div>
+                            </div>
+
+                            <div class="col-lg-12">
+                                <div class="text-wrap">
+                                    <p class="text-1 wow fadeInUp" data-wow-delay="0s">
+                                        New Agrodeal Kenya Limited has established itself as a progressive and dependable brand, achieved through our unwavering dedication to our employees, clients, partners, and the wider community.
+                                        <br><br>
+                                        The distinct taste and quality of our products stem from a perfect blend of elements working in harmony. From the rich soil and premium seeds to the sunlight that nurtures our crops, every step is guided by our commitment to the environment, green farming practices, and the community around us. Our focus on quality and freshness ensures that every harvest reflects our passion for excellence.
+                                        <br><br>
+                                        Beyond our high-quality product and excellent customer service, we make sure to take care of the environment and the community around us.
+                                        <br><br>
+                                        As part of our goals, we have set ourselves the goal of taking care of the community around us, supporting them and being a positive factor in our environment. As part of this, we provide our employees with high sociological conditions and take care of the communities around us for water supply.
+                                        <br><br>
+                                        In addition, the quality of the environment is a guiding principle at our company and we do everything we can to reduce contamination. We opened a solar electricity site, we recycle our waste and turn it into a new product. We turn the green waste into fertilizer that helps us grow delicious, beautiful and high-quality product.
+                                        <br><br><br>
+                                        </p>
+
+                                        <div class="heading-section style-4"><h3 class="sub-title">Sustainability</h3></div>
+                                        <p class="text-1 wow fadeInUp" data-wow-delay="0s">
+                                        New Agrodeal is dedicated to building a sustainable future through innovative agricultural practices. Our commitment to sustainability shines through in every aspect of our operations; from composting to enrich the soil and implementing efficient supply chain management, to using a solar power and integrating water conservation systems. We also produce our own construction materials, reducing our environmental footprint.
+                                        <br><br>
+                                        Through Integrated Pest Management (IPM), we minimize chemical use, ensuring healthier crops and ecosystems. These efforts not only protect the environment but also produce high-quality crops and improve the standard of living for our farm employees. By choosing New Agrodeal, you’re supporting a sustainable, responsible future.
+                                        <br><br>
+                                        Join us in our mission to create a better tomorrow.
+                                        </p>
+
+                                        <div class="heading-section style-4"><h3 class="sub-title">Community</h3></div>
+                                        <br><br>
+                                        <p class="text-1 wow fadeInUp" data-wow-delay="0s">
+                                        At New Agrodeal Kenya Limited, we believe in growing more than just crops; We cultivate a community. Our well brings fresh water to local families, while their herds graze peacefully around our fields. We believe in integrating into nature and the life around us.
+                                        <br><br>
+                                        Our employee community is also important and we make sure to constantly nurture it and this is one of the innovations we brought to Africa. By a professional and skilled human resources office with years of experience that is always open for help and support, providing vacation and sick days, maternity leaves and other important socioeconomic conditions.
+                                        <br><br>
+                                        With us, the employees receive a hot meal every day, transportation services and a variety of elements that give them a better and more relaxed life.
+                                        <br><br>
+                                        It's all part of our vision to foster a thriving and connected community where everyone benefits.
+                                        <br><br>
+                                        We invite you to take part in the development of this community specifically in Africa and support the people who live here simply and happily.
+                                        
+                                        </p>
+                                        <br><br><br>
+
+                                        <div class="heading-section style-4"><h3 class="sub-title">Our Recipe</h3></div>
+                                        <p class="text-1 wow fadeInUp" data-wow-delay="0s">
+                                        The recipe for our success consists of several essential ingredients. First, strict quality control is the basis for everything. We have established a quality control department that supervises and makes sure that everything is done according to the strict protocols in all stages of growing and in all departments, to ensure that only the best produce reaches you - Agrodil customers.
+                                        <br><br>
+                                        We make sure to train our teams and give them theoretical and practical training every week so that our crops are grown under professional hands.
+                                        <br><br>
+                                        We commit to providing high quality products, according to your needs to ensure your long-term satisfaction.
+                                        </p>
+                                    
+
+                                    
                                 </div>
                             </div>
                         </div>
@@ -142,7 +165,7 @@
                 <div class="s-content-wrap-2">
                     <div class="tf-container w-1620">
                         <div class="row">
-                            <div class="col-lg-12">
+                            <!-- <div class="col-lg-12">
                                 <div class="swiper-container slider-gallery">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
@@ -191,7 +214,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>
@@ -203,9 +226,9 @@
                                         Our Mission
                                     </p>
                                     <p class="text font-snowfall">
-                                        Our mission is to contribute to the promotion of agricultural products in
-                                        Vietnam with a commitment to produce sustainable values that meet international
-                                        standards and thereby create a fair and competitive market
+                                        Provide export buyers with consistently fresh, aromatic herbs and flowers grown
+                                        sustainably in Solai, Nakuru, backed by transparent traceability, disciplined
+                                        packhouse hygiene, and documentation that speeds every shipment.
                                     </p>
                                 </div>
                             </div>
@@ -215,9 +238,9 @@
                                         Our Vision
                                     </p>
                                     <p class="text font-snowfall">
-                                        Our mission is to contribute to the promotion of agricultural products in
-                                        Vietnam with a commitment to produce sustainable values that meet international
-                                        standards and thereby create a fair and competitive market
+                                        Be the premium, trusted partner for  herbs, vegetables, and Gypsophila
+                                        from Kenya, elevating cold-chain reliability and sustainability standards for
+                                        global retailers, wholesalers, and foodservice buyers.
                                     </p>
                                 </div>
                             </div>
@@ -236,10 +259,10 @@
                     <div class="tf-container w-1290">
                         <div class="row">
                             <div class="col-lg-5 col-md-6">
-                                <div class="image-wrap">
-                                    <div class="image video-wrap style-2">
-                                        <img src="images/section/s-farm.jpg" alt="" class="lazyload">
-                                        <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                <div class="image-wrap" style="display:flex; justify-content:center;">
+                                    <div class="image video-wrap style-2" style="width:360px; height:360px; border-radius:50%; overflow:hidden;">
+                                        <img src="images/newagro_images/0A0A9046.jpg" alt="" class="lazyload" style="width:100%; height:100%; object-fit:cover;">
+                                        <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                             class="style-icon-play popup-youtube">
                                             <i class="fa-solid fa-play"></i>
                                         </a>
@@ -259,21 +282,19 @@
                                             </p>
                                         </div>
 
-                                        <p class="title text-anime-style-1">
-                                            We Believe In Bringing
-                                            Customers The Best Products
-                                        </p>
-                                    </div>
-                                    <p class="text mb-20">
-                                        Mauris quam tellus, pellentesque ut faucibus pretium, aliquet vitae est. Nullam
-                                        non
-                                        lorem
-                                        metus. Nulla pretium dui a diam faucibus. vehicula efficitur enim maximus. Proin
-                                        sollicitudin erat eu auctor egestas.
+                                    <p class="title text-anime-style-1">
+                                        We Believe In Bringing
+                                        Customers The Best Products
                                     </p>
+                                </div>
+                                <p class="text mb-20">
+                                    Every harvest is timed for peak flavor, cooled quickly, graded carefully, and packed
+                                    to specification. Our Solai, Nakuru team follows strict food-safety SOPs so basil, mint,
+                                    coriander, chives, tarragon, and specialty herbs arrive vibrant and export-ready.
+                                </p>
                                     <div class="wg-progress mb-29">
                                         <div class="top">
-                                            <span>Organic Solutions</span>
+                                            <span> Solutions</span>
                                             <span>76%</span>
                                         </div>
                                         <div class="progress tf-animate-1" role="progressbar" aria-label="Basic example"
@@ -297,9 +318,7 @@
 
                     </div>
                 </div>
-                <div class="s-img-item item-1 ">
-                    <img class="wow fadeInRight" data-wow-delay="0s" src="images/item/rice-plant-color.png" alt="">
-                </div>
+                
                 <div class="s-img-item item-2">
                     <img src="images/item/page-title-top.png" alt="">
                 </div>
@@ -312,48 +331,48 @@
                         <div class="icon mb-29 hover-icon style-circle">
                             <img src="icons/tomato.png" alt="">
                         </div>
-                        <a href="our-commitments.php" class="caption fw-6 mb-17 font-worksans hover-text-secondary">
-                            100% Organic Products
+                        <a href="agro_bv.php" class="caption fw-6 mb-17 font-worksans hover-text-secondary">
+                            100%  Products
                         </a>
                         <p class="text font-nunito">
-                            Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                            Sollictudin nibh sit amet.
+                            Certified  fields in Solai, Nakuru with careful soil health, residue testing, and
+                            responsible inputs for every crop.
                         </p>
                     </div>
                     <div class="box-icon ic-hover wow fadeInUp" data-wow-delay="0.1s">
                         <div class="icon mb-29 style-circle hover-icon img-hover-2">
                             <i class="fa-solid fa-tractor"></i>
                         </div>
-                        <a href="our-commitments.php" class="caption fw-6 mb-17 font-worksans hover-text-secondary">
+                        <a href="agro_bv.php" class="caption fw-6 mb-17 font-worksans hover-text-secondary">
                             Absolute Quality
                         </a>
                         <p class="text font-nunito">
-                            Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                            Sollictudin nibh sit amet.
+                            Cold-chain discipline, rapid hydrocooling, and strict grading protect aroma, color, and
+                            shelf life through transit.
                         </p>
                     </div>
                     <div class="box-icon ic-hover wow fadeInUp" data-wow-delay="0.2s">
                         <div class="icon mb-29 hover-icon style-circle">
                             <i class="fa-solid fa-leaf"></i>
                         </div>
-                        <a href="our-commitments.php" class="caption fw-6 mb-17 font-worksans hover-text-secondary">
+                        <a href="agro_bv.php" class="caption fw-6 mb-17 font-worksans hover-text-secondary">
                             Environmentally Friendly
                         </a>
                         <p class="text font-nunito">
-                            Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                            Sollictudin nibh sit amet.
+                            Integrated pest management, water stewardship, and reusable packaging drive our
+                            sustainability promise.
                         </p>
                     </div>
                     <div class="box-icon ic-hover wow fadeInUp" data-wow-delay="0.3s">
                         <div class="icon mb-29 hover-icon style-circle">
                             <img src="icons/dollar-circle.png" alt="">
                         </div>
-                        <a href="our-commitments.php" class="caption fw-6 mb-17 font-worksans hover-text-secondary">
+                        <a href="agro_bv.php" class="caption fw-6 mb-17 font-worksans hover-text-secondary">
                             Reasonable Price
                         </a>
                         <p class="text font-nunito">
-                            Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                            Sollictudin nibh sit amet.
+                            Efficient field planning and reliable yields keep our premium quality competitive for
+                            international buyers.
                         </p>
                     </div>
                 </div>
@@ -371,11 +390,11 @@
                                 </div>
                                 <div class="clip-color-text font-snowfall text-center">
                                     <p class="clip-text-bg-vertical">
-                                        Committed to Freshness!
+                                        Sustainability & Quality
                                     </p>
                                 </div>
                                 <p class="sub font-snowfall fs-30 text-anime-style-1">
-                                    We believe that to have good health, clean and healthy food sources are the key
+                                    Building a sustainable future with disciplined farming, solar power, water care, and strict packhouse hygiene
                                 </p>
                                 <div class="swiper-container slider-box-icon">
                                     <div class="swiper-wrapper">
@@ -387,9 +406,9 @@
                                                         <div class="icon style-circle hover-icon">
                                                             <i class="icon-chemical"></i>
                                                         </div>
-                                                        <a href="our-commitments.php"
+                                                        <a href="agro_bv.php"
                                                             class="caption fw-6 font-worksans hover-text-4">
-                                                            Minimal Chemicals Used
+                                                            Integrated Pest Management
                                                         </a>
                                                     </div>
                                                 </li>
@@ -399,9 +418,9 @@
                                                         <div class="icon style-circle hover-icon">
                                                             <i class="icon-worm"></i>
                                                         </div>
-                                                        <a href="our-commitments.php"
+                                                        <a href="agro_bv.php"
                                                             class="caption fw-6 font-worksans hover-text-4">
-                                                            Minimal Chemicals Used
+                                                            Composting for soil health
                                                         </a>
                                                     </div>
                                                 </li>
@@ -411,9 +430,9 @@
                                                         <div class="icon style-circle hover-icon">
                                                             <i class="icon-disposal"></i>
                                                         </div>
-                                                        <a href="our-commitments.php"
+                                                        <a href="agro_bv.php"
                                                             class="caption fw-6 font-worksans hover-text-4">
-                                                            All Organic Waste Reused
+                                                            Green waste to fertilizer
                                                         </a>
                                                     </div>
                                                 </li>
@@ -423,10 +442,9 @@
                                                         <div class="icon style-circle hover-icon">
                                                             <i class="icon-light-bulb"></i>
                                                         </div>
-                                                        <a href="our-commitments.php"
+                                                        <a href="agro_bv.php"
                                                             class="caption fw-6 font-worksans hover-text-4">
-                                                            Do Not Use Artificial
-                                                            Light
+                                                            Solar power on site
                                                         </a>
                                                     </div>
                                                 </li>
@@ -436,9 +454,9 @@
                                                         <div class="icon style-circle hover-icon">
                                                             <i class="icon-water-drops"></i>
                                                         </div>
-                                                        <a href="our-commitments.php"
+                                                        <a href="agro_bv.php"
                                                             class="caption fw-6 font-worksans hover-text-4">
-                                                            Borehole Sourced Water
+                                                            Water conservation systems
                                                         </a>
                                                     </div>
                                                 </li>
@@ -449,7 +467,7 @@
 
                                 <div class="bot flex justify-center">
 
-                                    <a href="our-commitments.php" class="tf-btn scale-50">
+                                    <a href="agro_bv.php" class="tf-btn scale-50">
                                         <span class="text-style ">
                                             See More Our Commitment
                                         </span>
@@ -472,7 +490,7 @@
                             <div class="content-section img-hover">
                                 <div class="image hover-item">
                                     <img src="images/section/our-history.jpg"
-                                        data-src="./images/section/our-history.jpg" alt="" class="lazyload">
+                                        data-src="images/newagro_images/0A0A9122.jpg" alt="" class="lazyload">
                                 </div>
                                 <div class="heading-section style-4 has-text style-3">
                                     <div class="img-item">
@@ -489,21 +507,13 @@
 
                                     </p>
                                     <p class="text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus odio,
-                                        egestas vitae augue sed, vulputate viverra velit. Quisque fringilla viverra
-                                        turpis, at condimentum arcu convallis sit amet. Proin quis rhoncus nibh.
-                                        Pellentesque consectetur nunc ac nunc convallis placerat.
+                                        2015: New Agrodeal Kenya Limited founded in Solai, Nakuru. 2017: Packhouse upgrade
+                                        for herbs and Gypsophila with full cold chain. 2020:  certification and
+                                        expanded specialty herbs range. 2024: Enhanced traceability and export
+                                        documentation workflow for faster global deliveries.
                                     </p>
-                                    <a href="our-history.php" class="tf-btn bg-white wow fadeInUp" data-wow-delay="0s">
-                                        <span class="text-style cl-primary">
-                                            Read More
-                                        </span>
-                                        <div class="icon">
-                                            <i class="icon-arrow_right"></i>
-                                        </div>
-                                    </a>
                                     <div class="wg-exprerience text-center z-5 tf-rotate-back-and-forth">
-                                        <p class="year">65</p>
+                                        <p class="year"><?php echo (date('Y')-2015); ?></p>
                                         <p class="text">
                                             Years Of <br> Experience
                                         </p>
@@ -527,8 +537,9 @@
                         <img src="images/item/windmill-2.png" alt="">
                     </div>
                 </div>
-            </section><!-- /.Section our history -->
-
+            </section>
+            <!-- /.Section our history -->
+             
             <!-- Section farmer tour -->
             <section class="s-farm-tour">
                 <div class="tf-container">
@@ -536,7 +547,7 @@
                         <div class="col-md-6">
                             <div class="box-about-us img-hover wow fadeInUp" data-wow-delay="0s">
                                 <div class="image hover-item">
-                                    <img src="images/widget/about-us-1.jpg" data-src="images/widget/about-us-1.jpg"
+                                    <img src="images/newagro_images/harvesting_team.jpg" data-src="images/newagro_images/harvesting_team.jpg"
                                         alt="" class=" lazyload">
                                 </div>
                                 <div class="content">
@@ -545,24 +556,17 @@
                                         We Are Dedicated Farmers!
                                     </a>
                                     <p class="text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec <br> sodales
-                                        faucibus
-                                        commodo.
-                                        Proin vehicula massa id congue <br>
-                                        rutrum, ex libero sodales ex, cursus euismod.
+                                        Our growers focus on aroma-rich herbs, careful harvesting, and hygienic packing
+                                        so every carton meets export specifications and arrives fresh.
                                     </p>
-                                    <div class="flex justify-center">
-                                        <a href="our-farmers.php" class="tf-btn-read text-white hover-text-secondary">
-                                            View All The
-                                            Farmers</a>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="box-about-us img-hover wow fadeInUp" data-wow-delay="0.1s">
                                 <div class="image hover-item">
-                                    <img src="images/widget/about-us-2.jpg" data-src="images/widget/about-us-2.jpg"
+                                    <img src="images/newagro_images/PackHse.jpg" data-src="images/newagro_images/PackHse.jpg"
                                         alt="" class=" lazyload">
                                 </div>
                                 <div class="content">
@@ -572,158 +576,21 @@
 
                                     </a>
                                     <p class="text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec <br> sodales
-                                        faucibus
-                                        commodo.
-                                        Proin vehicula massa id congue <br>
-                                        rutrum, ex libero sodales ex, cursus euismod.
+                                        Walk through Solai, Nakuru fields, see our cold chain and packhouse, and taste the
+                                        difference of basil, mint, coriander, chives, tarragon, and Gypsophila handled
+                                        with care.
                                     </p>
-                                    <div class="flex justify-center">
-                                        <a href="our-farmers.php" class="tf-btn-read text-white hover-text-secondary">
-                                            Discovey Farm
-                                            Tours</a>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </section><!-- /.Section farmer tour -->
-
-            <!-- Section contact us -->
-            <section class="s-contact-us style-2 bg-white pt-124 pb-82">
-                <div class="section-wrap">
-                    <div class="tf-container w-1290">
-                        <div class="row">
-                            <div class="col-lg-5">
-                                <div class="content-left">
-
-                                    <div class="box-map style-2">
-                                        <div id="map" class="map"></div>
-                                    </div>
-                                    <ul class="contact-list overflow-hidden">
-                                        <li class="wow fadeInUp" data-wow-duration="1.4s">
-                                            <div class="icon style-circle">
-                                                <i class="fa-solid fa-location-dot"></i>
-                                            </div>
-                                            <div class="infor">
-                                                <p class="title">
-                                                    Farm Address
-                                                </p>
-                                                <p class="text">
-                                                    Prinsengracht 250, 2501016 PM <br>
-                                                    Amsterdam Netherlands
-                                                </p>
-                                            </div>
-                                        </li>
-                                        <li class="wow fadeInUp" data-wow-duration="1.4s">
-                                            <div class="icon style-circle">
-                                                <i class="fa-solid fa-address-book"></i>
-                                            </div>
-                                            <div class="infor">
-                                                <p class="title">
-                                                    Contact Us
-                                                </p>
-                                                <p class="text">
-                                                    Donalfarms@gmail.com <br>
-                                                    Call Us 24/7: +1 987 654 3210
-                                                </p>
-                                            </div>
-                                        </li>
-                                        <li class="wow fadeInUp" data-wow-duration="1.4s">
-                                            <div class="icon style-circle">
-                                                <i class="fa-solid fa-clock"></i>
-                                            </div>
-                                            <div class="infor">
-
-                                                <p class="title">
-                                                    Working Hours
-                                                </p>
-                                                <p class="text">
-                                                    Mon - Fri: 8.00am - 18.00pm <br>
-                                                    Sat: 9.00am - 17.00pm Holidays: Closes
-                                                </p>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-lg-7">
-                                <div class="content-section">
-                                    <div class="heading-section has-text mb-50">
-                                        <p class="sub-title">Let's Cooperate Together</p>
-                                        <p class="title text-anime-style-2">Contact Us Today!</p>
-                                        <p class="text">
-                                            We will reply you within 24 hours via email, thank you for contacting
-
-                                        </p>
-                                        <div class="img-item">
-                                            <img class="tf-animate-1" src="images/item/rice-plant-2.png" alt="" />
-                                        </div>
-                                    </div>
-                                    <form id="contactform" method="post" action="https://themesflat.co/html/donalfarm/contact/contact-process.php"
-                                        novalidate="novalidate" class="form-send-message style-2">
-                                        <div class="cols style-2 mb-15">
-                                            <fieldset>
-                                                <input type="text" class="form-control" id="name" name="name"
-                                                    placeholder="Name*" aria-required="true" required />
-                                            </fieldset>
-                                            <fieldset>
-                                                <input type="email" class="form-control email" id="mail" name="mail"
-                                                    placeholder="Email*" required />
-                                            </fieldset>
-                                        </div>
-                                        <div class="cols style-2 mb-15">
-                                            <fieldset>
-                                                <input type="text" class="form-control" id="phone" name="phone"
-                                                    placeholder="Phone*" aria-required="true" required />
-                                            </fieldset>
-                                            <fieldset class="dropdown">
-                                                <select name="text" id="Support">
-                                                    <option value="You need to suport?" selected="">You need to
-                                                        suport?
-                                                    </option>
-                                                    <option value="You need to suport? 1">You need to suport? 1
-                                                    </option>
-                                                    <option value="You need to suport? 2">You need to suport? 2
-                                                    </option>
-                                                    <option value="You need to suport? 3">You need to suport? 3
-                                                    </option>
-                                                </select>
-                                            </fieldset>
-                                        </div>
-                                        <div class="cols mb-30">
-                                            <fieldset>
-                                                <textarea name="message" id="message"
-                                                    placeholder="Message..."></textarea>
-                                            </fieldset>
-                                        </div>
-                                        <div class="checkbox-item send-wrap">
-                                            <label class="mb-0">
-                                                <span class="text font-nunito">Agree to our terms and
-                                                    conditions</span>
-                                                <input type="checkbox" class="checkbox-item" checked>
-                                                <span class="btn-checkbox"></span>
-                                            </label>
-                                            <button type="submit" class="tf-btn ">
-                                                <span class="text-style">
-                                                    Send Message
-                                                </span>
-                                                <span class="icon">
-                                                    <i class="icon-arrow_right"></i>
-                                                </span>
-                                            </button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section><!-- /.Section contact us -->
+            </section>
+            <!-- /.Section farmer tour -->
 
             <!-- Section partner -->
-            <section class="s-partner style-2 has-img-item pb-71">
+            <!-- <section class="s-partner style-2 has-img-item pb-71">
                 <div class="tf-container w-1780">
                     <div class="row">
                         <div class="col-lg-12">
@@ -806,10 +673,44 @@
                 <div class="s-img-item item-1">
                     <img src="images/item/page-title-top.png" alt="" />
                 </div>
-            </section><!-- /.Section partner -->
+            </section> -->
+            <!-- /.Section partner -->
 
         </div><!-- /.Main-content -->
+
+        <!-- Video Popup (auto-open) -->
+        <a id="aboutVideoTrigger" class="popup-youtube" href="https://www.youtube.com/watch?v=L7moqAduq6E" style="display:none;">Video</a>
+        <script>
+            (function () {
+                var shown = false;
+                function openPopup() {
+                    if (shown) return;
+                    if (!window.jQuery || !jQuery.fn || !jQuery.fn.magnificPopup) {
+                        setTimeout(openPopup, 150);
+                        return;
+                    }
+                    var $trigger = jQuery('#aboutVideoTrigger');
+                    if (!$trigger.length) return;
+                    shown = true;
+                    setTimeout(function () {
+                        $trigger.trigger('click');
+                    }, 300);
+                }
+                if (document.readyState === 'complete') {
+                    openPopup();
+                } else {
+                    window.addEventListener('load', openPopup);
+                }
+            })();
+        </script>
 
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+
+
+

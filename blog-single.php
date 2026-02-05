@@ -94,34 +94,23 @@
                                         data-src="./images/blog/blog-1.jpg" alt="">
                                 </div>
                                 <p class="text text-1">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut aliquam mauris.
-                                    Maecenas porta odio lorem, in aliquet
-                                    diam pellentesque vel. Donec pulvinar mi ipsum, a eleifend est porta id. Ut rutrum,
-                                    quam vestibulum placerat sodales, ex
-                                    eros tincidunt ipsum, varius venenatis risus magna.Pellentesque imperdiet id velit
-                                    eu lobortis. Praesent metus tellus,
-                                    venenatis ac volutpat ut, blandit ut arcu.
+                                    New Agrodeal Kenya Limited — leading grower and exporter of herbs, vegetables, and flowers in Solai, Nakuru & Solai, Kenya (founded 2015).
                                 </p>
                                 <p class="text text-2">
-                                    Nulla accumsan sapien purus, at ultrices eros sagittis at. Duis leo purus, gravida
-                                    ut consequat in, hendrerit a neque.
-                                    Sed nec placerat odio, ut ultrices magna. Etiam in ligula pulvinar, semper dolor eu,
-                                    commodo lorem. In interdum neque
-                                    libero, eget volutpat nibh commodo et.
+                                    We grow responsibly, harvest at peak freshness, and maintain careful grading and cold-chain handling so every shipment reaches customers in top condition.
                                 </p>
                                 <p class="title title-1 fw-bold font-worksans">
                                     If this is true, you maybe wondering. Why New York?
                                 </p>
                                 <p class="text text-3">
-                                    Fusce hendrerit urna vitae pretium fermentum. Cras scelerisque ornare aliquet. Sed
-                                    dignissim nibh a est tincidunt
+                                    Quality control teams supervise every stage, and weekly training keeps our crews aligned to strict export specifications and buyer needs.
                                     euismod. Nunc tempus sapien a eros suscipit, fermentum viverra libero ullamcorper.
                                 </p>
                                 <div class="entry-video">
                                     <div class="video-wrap wow fadeInUp" data-wow-delay="0s">
                                         <img class="lazyload" data-src="images/widget/video-wrap.jpg"
                                             src="images/widget/video-wrap.jpg" alt="">
-                                        <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                        <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                             class="style-icon-play popup-youtube">
                                             <i class="fa-solid fa-play"></i>
                                             <div class="wave"></div>
@@ -193,11 +182,7 @@
                                     A range of question types which test a number.
                                 </p>
                                 <p class="text text-5">
-                                    Nulla accumsan sapien purus, at ultrices eros sagittis at. Duis leo purus, gravida
-                                    ut consequat in, hendrerit a neque.
-                                    Sed nec placerat odio, ut ultrices magna. Etiam in ligula pulvinar, semper dolor eu,
-                                    commodo lorem. In interdum neque
-                                    libero, eget volutpat nibh commodo et.
+                                    We invest in people, soil, sunlight, and responsible practices so flavor, color, and freshness stay consistent from our fields to your shelves.
                                 </p>
                                 <ul class="opinion-list">
                                     <li>
@@ -301,12 +286,7 @@
                                         </a>
                                     </div>
                                     <p class="comment font-nunito">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio nunc, egestas
-                                        quis efficitur eu, tempus ut nisi.
-                                        Suspendisse dignissim ut massa ac bibendum. Vivamus sit amet felis odio o.
-                                        Phasellus a nisi eleifend, rhoncus massa
-                                        vitae, sodales lacus.
-                                    </p>
+                                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                 </div>
                                 <div class="post-comment-wrap" id="post-comment-wrap">
                                     <h2 class="fw-bold font-worksans wow fadeInUp" data-wow-delay="0s">
@@ -351,12 +331,10 @@
                                     <a href="#" class="text-upper font-worksans name hover-text-secondary">Christine
                                         Rose</a>
                                     <p class="duty font-nunito">
-                                        DonalFarm Editor Post Blog
+                                        New Agrodeal Kenya Limited Editor Post Blog
                                     </p>
                                     <p class="text font-nunito">
-                                        Suspendisse dignissim ut massa acdum. Vivamus sit amet felis odio. Phasellus a
-                                        nisi eleifend, rhoncus massa.
-                                    </p>
+                                        We prioritize disciplined post-harvest handling so every stem and leaf stays crisp and aromatic.</p>
                                     <ul class="social-list style-3 style-2">
                                         <li class="item">
                                             <a href="#">
@@ -415,7 +393,7 @@
                                                 <a href="#">Uncategorized</a>
                                             </li>
                                             <li class="item">
-                                                <a href="#">Organic</a>
+                                                <a href="#"></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -486,7 +464,7 @@
                                                 <a href="#">juices</a>
                                             </li>
                                             <li class="item">
-                                                <a href="#">organic</a>
+                                                <a href="#"></a>
                                             </li>
                                             <li class="item">
                                                 <a href="#">vegatables</a>
@@ -504,3 +482,8 @@
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+

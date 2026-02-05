@@ -1,9 +1,9 @@
-Ôªø<?php include 'overall/header.php'; ?>
+<?php include 'overall/header.php'; ?>
 <?php include 'overall/nav.php'; ?>
 <!-- Page-title -->
         <div class="page-title page-our-service  ">
             <div class="rellax" data-rellax-speed="5">
-                <img src="images/page-title/our-service.jpg" alt="">
+                <img src="images/page-title/contact-us.jpg" alt="">
             </div>
             <div class="content-wrap">
                 <div class="tf-container w-1290">
@@ -14,7 +14,7 @@
                                     What We Export & How We Serve You
                                 </p>
                                 <h1 class="title">
-                                    Our Services
+                                    Our Products & Services
                                 </h1>
                                 <div class="icon-img">
                                     <img src="images/item/line-throw-title.png" alt="">
@@ -24,7 +24,7 @@
                                     <div class="icon">
                                         <i class="icon-arrow-right1"></i>
                                     </div>
-                                    <a href="javascript:void(0)"> Our Services</a>
+                                    <a href="javascript:void(0)"> Our Product & Services</a>
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                         <div class="col-lg-5">
                             <div class="image-wrap">
                                 <div class="image">
-                                    <img src="images/widget/commitment.jpg" data-src="images/widget/commitment.jpg"
+                                    <img src="images/newagro_images/peas.jpg" data-src="images/newagro_images/peas.jpg"
                                         alt="" class="lazyload">
                                 </div>
                                 <div class="img-item item-1 tf-animate__box">
@@ -83,7 +83,7 @@
                                         <div class="icon">
                                             <i class="fa-solid fa-circle-check"></i>
                                         </div>
-                                        <p>Sustainable and organic field practices from seed to harvest</p>
+                                        <p>Sustainable and  field practices from seed to harvest</p>
                                     </li>
                                     <li>
                                         <div class="icon">
@@ -110,8 +110,8 @@
                                         <p>Environmental protection and traceability across every batch</p>
                                     </li>
                                 </ul>
-                                <a href="shop-products.php" class="tf-btn">
-                                    <span class="text-style">View Shop Product</span>
+                                <a href="about-us.php" class="tf-btn">
+                                    <span class="text-style">Read About Us</span>
                                     <div class="icon"><i class="icon-arrow_right"></i></div>
                                 </a>
                             </div>
@@ -136,12 +136,12 @@
                                                 <div class="icon hover-icon style-circle">
                                                     <img src="icons/tomato.png" alt="">
                                                 </div>
-                                                <a href="our-commitments.php"
+                                                <a href="agro_bv.php"
                                                     class="caption fw-6  font-worksans hover-text-secondary">
-                                                    Sustainable & Organic Practices
+                                                    Sustainable &  Practices
                                                 </a>
                                                 <p class="text font-nunito">
-                                                    Grown responsibly in Solai with soil and water care that keeps
+                                                    Grown responsibly in Solai, Nakuru with soil and water care that keeps
                                                     herbs clean and flavorful.
                                                 </p>
                                             </div>
@@ -152,7 +152,7 @@
                                                 <div class="icon style-circle hover-icon img-hover-2">
                                                     <i class="fa-solid fa-tractor"></i>
                                                 </div>
-                                                <a href="our-commitments.php"
+                                                <a href="agro_bv.php"
                                                     class="caption fw-6  font-worksans hover-text-secondary">
                                                     Absolute Quality
                                                 </a>
@@ -167,12 +167,12 @@
                                                 <div class="icon hover-icon style-circle">
                                                     <i class="fa-solid fa-leaf"></i>
                                                 </div>
-                                                <a href="our-commitments.php"
+                                                <a href="agro_bv.php"
                                                     class="caption fw-6  font-worksans hover-text-secondary">
                                                     Environmentally Friendly
                                                 </a>
                                                 <p class="text font-nunito">
-                                                    Responsible inputs and waste reduction to protect our Solai
+                                                    Responsible inputs and waste reduction to protect our Solai, Nakuru
                                                     environment.
                                                 </p>
                                             </div>
@@ -182,7 +182,7 @@
                                                 <div class="icon hover-icon style-circle">
                                                     <img src="icons/dollar-circle.png" alt="">
                                                 </div>
-                                                <a href="our-commitments.php"
+                                                <a href="agro_bv.php"
                                                     class="caption fw-6  font-worksans hover-text-secondary">
                                                     Reliable Supply
                                                 </a>
@@ -206,621 +206,494 @@
             </section><!-- /.Section benefit -->
 
             <!-- Section provide -->
-            <section class="s-provide">
+             <section class="s-provide">
                 <div class="tf-container">
                     <div class="row">
+
+                        <!-- INTRO -->
                         <div class="col-lg-12">
                             <div class="heading-section text-center has-text mb-81">
-                                <p class="sub-title">What Is Our Expertise?
-                                </p>
-                                <p class="title tf-animate-2">We Providing The <br>
-                                    Best Agricultural Services</p>
+                                <p class="sub-title">Our Products</p>
+                                <p class="title tf-animate-2">Why do our products stand out in the market?</p>
                                 <p class="text">
-                                    Duis eleifend euismod arcu, nec faucibus mauris finibus id. Integer mattis, tellus
-                                    non finibus
-                                    rutrum.
+                                    Our Commitment to Quality is undisputed. It is reflected in the Rich Flavors, Vibrant Colors, and Superior Freshness of our herbs.
+                                    Whether you are a chef looking for the finest ingredients for your dishes, or a home cook looking to add some freshness to your meals,
+                                    New Agrodeal Kenya Limited is your go-to for the Best Quality herbs. Our focus on Quality, Freshness and Sustainability sets us apart from other Growers
+                                    and demonstrates our dedication to delivering the best products to our customers.
                                 </p>
-                                <div class="img-item">
-                                    <img class="tf-animate-1" src="images/item/rice-plant-2.png" alt="" />
-                                </div>
                             </div>
                         </div>
+
+                        <!-- GRID -->
                         <div class="col-lg-12">
                             <div class="grid-layout-3">
+
+                                <!-- OUR HERBS (Intro Card) -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/widget/provide-item-1.jpg"
-                                            data-src="./images/widget/provide-item-1.jpg" alt="" class=" lazyload">
-                                        <div class="icon style-circle">
-                                            <i class="icon-salad"></i>
-                                        </div>
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Our Herbs - New Agrodeal Kenya Limited" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
-                                        <a href="service-detail.php"
-                                            class="title fs-23 fw-6 font-worksans hover-text-4">
-                                            Clean Vegetables
-                                        </a>
+                                        <div class="title fs-23 fw-6 font-worksans">
+                                            Our Herbs
+                                        </div>
                                         <p class="text font-nunito">
-                                            Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                            nibh sit amet
-                                            commodo nulla.
+                                            Here at New Agrodeal Kenya Limited, our Herbs are a testament to our commitment to quality, freshness, and sustainable farming practices.
+                                            Each Herb is carefully nurtured from farm to fork, ensuring the vibrant flavors and aromas that make them a staple in every kitchen.
+                                            Our dedication to responsible farming goes hand-in-hand with our support for the community around us, fostering a healthy environment and thriving partnerships.
+                                            Explore our diverse selection of herbs, grown with care and precision.
                                         </p>
-                                        <a href="our-services.php" class="tf-btn-read hover-text-4">Read More</a>
                                     </div>
                                 </div>
+
+                                <!-- BASIL -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.05s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/basil.jpg" data-src="./images/newagro_images/basil.jpg" alt="Basil - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Basil</div>
+                                        <p class="text font-nunito">
+                                            Basil is a fragrant, green herb with soft, flavorful leaves commonly used in pasta, salads, and sauces.
+                                            Its bright, fresh taste also offers anti-inflammatory benefits and aids digestion.
+                                            <br><br>
+                                            At New Agrodeal Kenya Limited, we grow high-quality basil with a focus on freshness.
+                                            Order your basil today and taste the difference; sustainably grown for you!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- SORREL -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.1s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/widget/provide-item-2.jpg"
-                                            data-src="./images/widget/provide-item-2.jpg" alt="" class=" lazyload">
-                                        <div class="icon style-circle">
-                                            <i class="icon-cow"></i>
-                                        </div>
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Sorrel - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
-                                        <a href="service-detail.php"
-                                            class="title fs-23 fw-6 font-worksans hover-text-4">
-                                            Pure Cow's Milk
-                                        </a>
+                                        <div class="title fs-23 fw-6 font-worksans">Sorrel</div>
                                         <p class="text font-nunito">
-                                            Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                            nibh sit amet
-                                            commodo nulla.
+                                            Sorrel is a leafy herb with a sharp, citrus-like flavor, perfect for soups, salads, and sauces.
+                                            It's packed with vitamins and antioxidants, making it as nutritious as it is tasty.
+                                            <br><br>
+                                            Experience the fresh taste of our high-quality sorrel at New Agrodeal Kenya Limitedósustainably cultivated and ready to elevate your meals!
                                         </p>
-                                        <a href="our-services.php" class="tf-btn-read hover-text-4">Read More</a>
                                     </div>
                                 </div>
+
+                                <!-- THYME -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.15s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Thyme - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Thyme</div>
+                                        <p class="text font-nunito">
+                                            Thyme is a small, aromatic herb with woody stems and tiny, flavorful leaves, commonly used to season meats, soups, and stews.
+                                            It's also known for its antibacterial properties and ability to support respiratory health.
+                                            <br><br>
+                                            At New Agrodeal Kenya Limited, our fresh thyme is grown with the utmost care to preserve its potent flavor and quality.
+                                            Try our thyme today reasonably grown and bursting with natural goodness!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- TARRAGON -->
                                 <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.2s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/widget/provide-item-3.jpg"
-                                            data-src="./images/widget/provide-item-3.jpg" alt="" class=" lazyload">
-                                        <div class="icon style-circle">
-                                            <i class="icon-chicken-2
-                                            "></i>
-                                        </div>
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Tarragon - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
-                                        <a href="service-detail.php"
-                                            class="title fs-23 fw-6 font-worksans hover-text-4">
-                                            Clean Chicken And Eggs
-                                        </a>
+                                        <div class="title fs-23 fw-6 font-worksans">Tarragon</div>
                                         <p class="text font-nunito">
-                                            Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                            nibh sit amet
-                                            commodo nulla.
+                                            Tarragon is a fragrant herb with slender leaves and a unique, slightly sweet, and peppery flavor, perfect for elevating sauces, dressings, and roasted dishes.
+                                            Known for its digestive benefits and ability to boost appetite, tarragon brings a gourmet touch to any meal.
+                                            <br><br>
+                                            At New Agrodeal Kenya Limited, we deliver fresh, high-quality tarragon straight from our fields to your kitchen.
+                                            Add a burst of flavor to your cooking, sustainably grown and packed with taste!
                                         </p>
-                                        <a href="our-services.php" class="tf-btn-read hover-text-4">Read More</a>
                                     </div>
                                 </div>
-                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0s">
+
+                                <!-- SAVORY -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.25s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/widget/provide-item-4.jpg"
-                                            data-src="./images/widget/provide-item-4.jpg" alt="" class=" lazyload">
-                                        <div class="icon style-circle">
-                                            <i class="icon-fertilizer"></i>
-                                        </div>
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Savory - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
-                                        <a href="service-detail.php"
-                                            class="title fs-23 fw-6 font-worksans hover-text-4">
-                                            Fertilizer Products
-                                        </a>
+                                        <div class="title fs-23 fw-6 font-worksans">Savory</div>
                                         <p class="text font-nunito">
-                                            Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                            nibh sit amet
-                                            commodo nulla.
+                                            Savory is a robust herb with a peppery, earthy flavor, often used to season beans, meats, and stews.
+                                            Its bold taste not only enhances dishes but also supports digestive health and reduces inflammation.
+                                            <br><br>
+                                            At New Agrodeal Kenya Limited, our fresh savory is carefully grown to ensure maximum flavor in every leaf.
+                                            Elevate your dishes with our high-quality savory, harvested and packed with bold, natural goodness!
                                         </p>
-                                        <a href="our-services.php" class="tf-btn-read hover-text-4">Read More</a>
                                     </div>
                                 </div>
-                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.1s">
+
+                                <!-- SAGE -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.3s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/widget/provide-item-5.jpg"
-                                            data-src="./images/widget/provide-item-5.jpg" alt="" class=" lazyload">
-                                        <div class="icon style-circle">
-                                            <i class="icon-lemon-slice"></i>
-                                        </div>
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Sage - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
                                     <div class="content">
-                                        <a href="service-detail.php"
-                                            class="title fs-23 fw-6 font-worksans hover-text-4">
-                                            Tubers And Fruits
-                                        </a>
+                                        <div class="title fs-23 fw-6 font-worksans">Sage</div>
                                         <p class="text font-nunito">
-                                            Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                            nibh sit amet
-                                            commodo nulla.
+                                            Sage is a silvery-green herb with soft, velvety leaves and a rich, earthy flavor, perfect for seasoning meats, stuffing, and soups.
+                                            Itís also prized for its anti-inflammatory and memory-boosting properties.
+                                            At New Agrodeal Kenya Limited, we grow fresh, vibrant sage that adds warmth and depth to your cooking.
+                                            <br><br>
+                                            Experience the rich taste of our quality sage, sustainably grown and ready to enhance your dishes!
                                         </p>
-                                        <a href="our-services.php" class="tf-btn-read hover-text-4">Read More</a>
                                     </div>
                                 </div>
-                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.2s">
+
+                                <!-- PARSLEY -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.35s">
                                     <div class="image hover-icon hover-item">
-                                        <img src="images/widget/provide-item-6.jpg"
-                                            data-src="./images/widget/provide-item-6.jpg" alt="" class=" lazyload">
-                                        <div class="icon style-circle">
-                                            <i class="icon-meat222"></i>
-                                        </div>
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Parsley - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
                                     <div class="content">
-                                        <a href="service-detail.php"
-                                            class="title fs-23 fw-6 font-worksans hover-text-4">
-                                            Meat Of Cattle And Poultry
-                                        </a>
+                                        <div class="title fs-23 fw-6 font-worksans">Parsley</div>
                                         <p class="text font-nunito">
-                                            Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                            nibh sit amet
-                                            commodo nulla.
+                                            Parsley is a vibrant, green herb with crisp, clean flavor, perfect for garnishing and enhancing salads, soups, and sauces.
+                                            Rich in vitamins A, C, and K, it also supports bone health and boosts immunity.
+                                            <br><br>
+                                            At New Agrodeal Kenya Limited, we grow fresh, high-quality parsley to bring brightness and flavor to your meals.
+                                            Add a touch of freshness to your dishes with our sustainably grown parsley, naturally delicious and always at its best!
                                         </p>
-                                        <a href="our-services.php" class="tf-btn-read hover-text-4">Read More</a>
                                     </div>
                                 </div>
-                            </div>
 
-                        </div>
-                    </div>
-                </div>
-            </section><!-- /.Section provide -->
-
-            <!-- Section pricing -->
-            <section class="s-pricing has-img-item tf-pt-0 ">
-                <div class="tf-container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="heading-section text-center has-text mb-81">
-                                <p class="sub-title">Pricing Tables
-                                </p>
-                                <p class="title text-anime-style-2">Pricing Plans For You</p>
-                                <p class="text">
-                                    Duis eleifend euismod arcu, nec faucibus mauris finibus id. Integer mattis, tellus
-                                    non finibus
-                                    rutrum.
-                                </p>
-                                <div class="img-item">
-                                    <img class="tf-animate-1" src="images/item/rice-plant-2.png" alt="" />
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="wg-pricing wow fadeInUp" data-wow-delay="0s">
-                                <div class="type-plan">
-                                    <i class="icon-barley"></i>
-                                    <span class="font-worksans fw-6 fs-20">Basic Plan</span>
-                                </div>
-                                <p class="price font-farmhouse">
-                                    <span class="dollar">$</span>
-                                    <span>199</span>
-                                    <span class="per">/per Month</span>
-                                </p>
-                                <div class="text">
-                                    <p class="font-nunito">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio nunc.
-                                    </p>
-                                </div>
-                                <ul class="benifit-list">
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>1 Buffet table</p>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>CustomFarming rules</p>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>Real-time rate shopping</p>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>100 freight shipments / month</p>
-                                    </li>
-                                </ul>
-                                <a href="contact-us.php" class="tf-btn bg-white ">
-                                    <span class="text-style cl-primary">
-                                        Get Started
-                                    </span>
-                                    <div class="icon">
-                                        <i class="icon-arrow_right"></i>
+                                <!-- OREGANO -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.4s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Oregano - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
                                     </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="wg-pricing style-2 wow fadeInUp" data-wow-delay="0.1s ">
-                                <div class="best-choice">
-                                    <p class="fs-14">
-                                        Best Choice
-                                    </p>
-                                </div>
-                                <div class="type-plan">
-                                    <i class="fa-solid fa-star"></i>
-                                    <span class="font-worksans fw-6 fs-20">Advance Plan</span>
-                                </div>
-                                <p class="price font-farmhouse">
-                                    <span class="dollar">$</span>
-                                    <span>299</span>
-                                    <span class="per">/per Month</span>
-                                </p>
-                                <div class="text">
-                                    <p class="font-nunito">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio nunc.
-                                    </p>
-                                </div>
-                                <ul class="benifit-list">
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>1 Buffet table</p>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>CustomFarming rules</p>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>Real-time rate shopping</p>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>100 freight shipments / month</p>
-                                    </li>
-                                </ul>
-                                <a href="contact-us.php" class="tf-btn bg-white ">
-                                    <span class="text-style cl-primary">
-                                        Get Started
-                                    </span>
-                                    <div class="icon">
-                                        <i class="icon-arrow_right"></i>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="wg-pricing wow fadeInUp" data-wow-delay="0.2s">
-                                <div class="type-plan">
-                                    <i class="fa-solid fa-gem"></i>
-                                    <span class="font-worksans fw-6 fs-20">Premium Plan</span>
-                                </div>
-                                <p class="price font-farmhouse">
-                                    <span class="dollar">$</span>
-                                    <span>399</span>
-                                    <span class="per">/per Month</span>
-                                </p>
-                                <div class="text">
-                                    <p class="font-nunito">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio nunc.
-                                    </p>
-                                </div>
-                                <ul class="benifit-list">
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>1 Buffet table</p>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>CustomFarming rules</p>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>Real-time rate shopping</p>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-circle-check"></i>
-                                        <p>100 freight shipments / month</p>
-                                    </li>
-                                </ul>
-                                <a href="contact-us.php" class="tf-btn bg-white ">
-                                    <span class="text-style cl-primary">
-                                        Get Started
-                                    </span>
-                                    <div class="icon">
-                                        <i class="icon-arrow_right"></i>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="s-img-item item-1">
-                    <img src="images/item/page-title-top.png" alt="">
-                </div>
-                <div class="s-img-item item-2">
-                    <img src="images/item/page-title-top.png" alt="">
-                </div>
-            </section><!-- /.Section pricing -->
-
-            <!-- Section testimonial -->
-            <section class="s-testimonial-2 style-2">
-                <div class="tf-container w-1290">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="heading-section">
-                                <p class="sub-title">Testimonials From People Who Have Experienced It </p>
-                                <p class="title text-anime-style-1">What Custommer Says?</p>
-                                <div class="img-item">
-                                    <img class="tf-animate-1" src="images/item/rice-plant-2.png" alt="" />
-                                </div>
-                                <div class="img-item item-2">
-                                    <i class="icon-quote"></i>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="counter-wrap">
-                                <div class="wg-counter style-5 style-6">
-                                    <div class="icon style-circle">
-                                        <i class="icon-barley"></i>
-                                    </div>
-                                    <div class="counter-item">
-                                        <p class="title font-worksans fw-5 fs-18">
-                                            Trust By Clients
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Oregano</div>
+                                        <p class="text font-nunito">
+                                            Oregano is a bold, aromatic herb with a slightly bitter, earthy flavor, commonly used in Mediterranean dishes like pizzas, pastas, and marinades.
+                                            Packed with antioxidants and known for its antimicrobial properties, oregano not only enhances taste but also boosts health.
+                                            <br><br>
+                                            At New Agrodeal Kenya Limited, we grow fresh, flavorful oregano to elevate your cooking.
+                                            Discover the robust taste of our sustainably grown oregano, full of natural goodness and perfect for your kitchen creations!
                                         </p>
-                                        <div class="counter">
-                                            <div id="odometer" class="odometer style-6">10000</div>
-                                            <span class="sub-odo color-secondary">+</span>
-                                        </div>
                                     </div>
                                 </div>
-                                <div class="img-item">
-                                    <img src="images/item/line-throw-title.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
-                <div class="s-slider">
-                    <div class="tf-container w-1290">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="swiper-container slider-s-testimonial-2">
-                                    <div class="swiper-wrapper">
-                                        <div class="swiper-slide">
-                                            <div class="testimonial style-2">
-                                                <div class="comment">
-                                                    <p class="caption fs-23 font-snowfall">
-                                                        The Best Farm I Trust Uses Products
-                                                    </p>
-                                                    <p class="text font-worksans">
-                                                        Having been a host farmer for three seasons, we√¢‚Ç¨‚Ñ¢ve seen
-                                                        firsthand
-                                                        the difference this
-                                                        internship makes in beginning
-                                                        farmers and host farms alike. As a farmer it is difficult to
-                                                        weigh
-                                                        the benefits of
-                                                        hosting young farmers. Fresh energy
-                                                        and enthusiasm.
-                                                    </p>
-                                                </div>
-                                                <div class="author-wrap">
-                                                    <div class="left">
-                                                        <div class="image-avt">
-                                                            <img src="images/widget/author-comment.jpg" alt="">
-                                                        </div>
-                                                        <div class="infor">
-                                                            <div class="name-wrap">
-                                                                <a href="#" class="name text-upper hover-text-4">
-                                                                    CHRISTINE ROSE
-                                                                </a>
-                                                                <div class="wg-rating">
-                                                                    <i class="fa-solid fa-star"></i>
-                                                                    <i class="fa-solid fa-star"></i>
-                                                                    <i class="fa-solid fa-star"></i>
-                                                                    <i class="fa-solid fa-star"></i>
-                                                                    <i class="fa-solid fa-star"></i>
-                                                                </div>
-                                                            </div>
-                                                            <p class="duty">
-                                                                Director, Radical Orange Pty Ltd.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="testimonial style-2">
-                                                <div class="comment">
-                                                    <p class="caption fs-23 font-snowfall">
-                                                        Rogue Farm Corps Has Helped Us Recruit And Retain Great!
-
-                                                    </p>
-                                                    <p class="text font-worksans">
-                                                        As you know I am an organic wheat farmer here in Wyoming and we
-                                                        had
-                                                        one of driest and coldest winters on record. I used your
-                                                        MycoApply
-                                                        granular on my winter wheat and I am very pleased at what I am
-                                                        seeing. The root systems are noticeably.
-                                                    </p>
-                                                </div>
-                                                <div class="author-wrap">
-                                                    <div class="left">
-                                                        <div class="image-avt">
-                                                            <img src="images/section/customer-say-3.jpg" alt="">
-                                                        </div>
-                                                        <div class="infor">
-                                                            <div class="name-wrap">
-                                                                <a href="#" class="name text-upper hover-text-4">
-                                                                    Sincerely
-                                                                </a>
-                                                                <div class="wg-rating">
-                                                                    <i class="fa-solid fa-star"></i>
-                                                                    <i class="fa-solid fa-star"></i>
-                                                                    <i class="fa-solid fa-star"></i>
-                                                                    <i class="fa-solid fa-star"></i>
-                                                                    <i class="fa-solid fa-star"></i>
-                                                                </div>
-                                                            </div>
-                                                            <p class="duty">
-                                                                General Agriculture Crop Consultant.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                <!-- MARJORAM -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.45s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Marjoram - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=" btn-slide-testimonial-2 btn-next">
-                        <img src="icons/slide-next-2.svg" alt="">
-                    </div>
-                    <div class=" btn-slide-testimonial-2 btn-prev">
-                        <img src="icons/slide-prev-2.svg" alt="">
-                    </div>
-                </div>
-
-                <div class="s-img-item item-1 scroll-element-3">
-                    <img src="images/item/gree-field.jpg" data-src="./images/item/gree-field.jpg" alt=""
-                        class="lazyload scale-1-1">
-                </div>
-                <div class="s-img-item item-2">
-                    <img src="images/item/page-title-top.png" alt="" />
-                </div>
-            </section><!-- /.Section testimonial -->
-
-            <!-- Section contact us -->
-            <section class="s-contact-us style-3">
-                <div class="section-wrap">
-                    <div class="tf-container w-1290">
-                        <div class="row">
-                            <div class="col-lg-5">
-                                <div class="content-left">
-
-                                    <div class="image mb-30">
-                                        <img src="images/section/s-contact.jpg" alt="./images/section/s-contact.jpg"
-                                            class="lazyload" />
-                                        <img src="images/item/leaf.png" alt=""
-                                            class="img-item tf-animate__rotate-left" />
-                                    </div>
-                                    <ul class="contact-list">
-                                        <li class="wow fadeInUp" data-wow-duration="1.4s">
-                                            <div class="icon style-circle">
-                                                <i class="fa-solid fa-location-dot"></i>
-                                            </div>
-                                            <div class="infor">
-                                                <p class="title">
-                                                    Farm Address
-                                                </p>
-                                                <p class="text">
-                                                    Prinsengracht 250, 2501016 PM
-                                                    Amsterdam Netherlands
-                                                </p>
-                                            </div>
-                                        </li>
-                                        <li class="wow fadeInUp" data-wow-duration="1.4s">
-                                            <div class="icon style-circle">
-                                                <i class="fa-solid fa-address-book"></i>
-                                            </div>
-                                            <div class="infor">
-                                                <p class="title">
-                                                    Contact Us
-                                                </p>
-                                                <p class="text">
-                                                    Donalfarms@gmail.com <br>
-                                                    Call Us 24/7: +1 987 654 3210
-                                                </p>
-                                            </div>
-                                        </li>
-                                        <li class="wow fadeInUp" data-wow-duration="1.4s">
-                                            <div class="icon style-circle">
-                                                <i class="fa-solid fa-clock"></i>
-                                            </div>
-                                            <div class="infor">
-
-                                                <p class="title">
-                                                    Working Hours
-                                                </p>
-                                                <p class="text">
-                                                    Mon - Fri: 8.00am - 18.00pm <br>
-                                                    Sat: 9.00am - 17.00pm Holidays: Closes
-                                                </p>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-lg-7">
-                                <div class="content-section">
-                                    <div class="heading-section style-3 has-text mb-50">
-                                        <p class="sub-title">Let's Cooperate Together</p>
-                                        <p class="title tf-animate-1">
-                                            Contact Us Today!
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Marjoram</div>
+                                        <p class="text font-nunito">
+                                            Marjoram is a fragrant herb with tender leaves and a warm, slightly sweet flavor, ideal for seasoning soups, stews, and roasts.
+                                            Itís known for its soothing properties and ability to aid digestion and relieve stress.
+                                            <br><br>
+                                            At New Agrodeal Kenya Limited, our fresh marjoram is carefully nurtured to deliver a burst of flavor and wellness to your dishes.
+                                            Add a touch of natural brilliance to your cooking with our marjoram!
                                         </p>
-                                        <p class="text">
-                                            We will reply you within 24 hours via email, thank you for contacting
-                                        </p>
-                                        <div class="img-item">
-                                            <img class="tf-animate-1" src="images/item/rice-plant-2.png" alt="" />
-                                        </div>
                                     </div>
-                                    <form id="contactform" method="post" action="https://themesflat.co/html/donalfarm/contact/contact-process.php"
-                                        novalidate="novalidate" class="form-send-message">
-                                        <div class="cols style-2 mb-15">
-                                            <fieldset>
-                                                <input type="text" class="form-control" id="name" name="name"
-                                                    placeholder="Name*" aria-required="true" required />
-                                            </fieldset>
-                                            <fieldset>
-                                                <input type="email" class="form-control email" id="mail" name="mail"
-                                                    placeholder="Email*" required />
-                                            </fieldset>
-                                        </div>
-                                        <div class="cols style-2 mb-15">
-                                            <fieldset>
-                                                <input type="text" class="form-control" id="phone" name="phone"
-                                                    placeholder="Phone*" aria-required="true" required />
-                                            </fieldset>
-                                            <fieldset class="dropdown">
-                                                <select name="text" id="Support">
-                                                    <option value="You need to suport?" selected="">You need to
-                                                        suport?
-                                                    </option>
-                                                    <option value="You need to suport? 1">You need to suport? 1
-                                                    </option>
-                                                    <option value="You need to suport? 2">You need to suport? 2
-                                                    </option>
-                                                    <option value="You need to suport? 3">You need to suport? 3
-                                                    </option>
-                                                </select>
-                                            </fieldset>
-                                        </div>
-                                        <div class="cols mb-30">
-                                            <fieldset>
-                                                <textarea name="message" id="message"
-                                                    placeholder="Message..."></textarea>
-                                            </fieldset>
-                                        </div>
-                                        <div class="checkbox-item send-wrap">
-                                            <label class="mb-0">
-                                                <span class="text font-nunito">Agree to our terms and
-                                                    conditions</span>
-                                                <input type="checkbox" class="checkbox-item" checked>
-                                                <span class="btn-checkbox"></span>
-                                            </label>
-                                            <button type="submit" class="tf-btn bg-white">
-                                                <span class="text-style cl-primary">
-                                                    Send Message
-                                                </span>
-                                                <span class="icon">
-                                                    <i class="icon-arrow_right"></i>
-                                                </span>
-                                            </button>
-                                        </div>
-                                    </form>
                                 </div>
+
+                                <!-- LOVAGE -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.5s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Lovage - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Lovage</div>
+                                        <p class="text font-nunito">
+                                            Lovage is a bold herb with a unique, celery-like flavor, ideal for enriching soups, stews, and salads.
+                                            It's packed with vitamins and aids digestion, offering both taste and health benefits.
+                                            Experience the vibrant flavor of our fresh lovage at New Agrodeal Kenya Limitedósustainably grown to bring natural goodness to your kitchen!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- LEMON GRASS -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.55s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Lemon Grass - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Lemon Grass</div>
+                                        <p class="text font-nunito">
+                                            Lemon grass is a fragrant herb with a citrusy, lemon-like flavor, perfect for infusing soups, teas, and stir-fries.
+                                            Known for its digestive benefits and soothing properties, it adds a refreshing twist to any dish.
+                                            Discover the vibrant taste of our fresh lemon grass at New Agrodeal Kenya Limited!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- DILL -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.6s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Dill - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Dill</div>
+                                        <p class="text font-nunito">
+                                            Dill is a delicate herb with feathery leaves and a tangy, slightly sweet flavor, perfect for enhancing pickles, salads, and seafood dishes.
+                                            Itís known for its digestive benefits and fresh, aromatic taste.
+                                            Elevate your meals with our quality, fresh dill from New Agrodeal Kenya Limited.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- CORIANDER -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.65s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Coriander - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Coriander</div>
+                                        <p class="text font-nunito">
+                                            Coriander is a versatile herb with bright, citrusy leaves and seeds, enhancing dishes from salsas to curries with its distinctive flavor.
+                                            Itís celebrated for its antioxidant properties and digestive benefits.
+                                            Taste the difference with our fresh coriander from New Agrodeal Kenya Limitedósustainably grown to infuse your cooking with vibrant, natural flavor!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- CHIVES -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.7s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Chives - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Chives</div>
+                                        <p class="text font-nunito">
+                                            Chives are a mild, onion-flavored herb with slender green stalks, perfect for garnishing soups, salads, and omelets.
+                                            Rich in vitamins and antioxidants, they add both taste and nutrition to your meals.
+                                            Enhance your dishes with our fresh chives from New Agrodeal Kenya Limited!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- CHERVIL -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.75s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Chervil - Fresh Herb" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Chervil</div>
+                                        <p class="text font-nunito">
+                                            Chervil is an elegant herb with delicate, fern-like leaves and a subtle anise flavor, ideal for enhancing sauces, salads, and soups.
+                                            Itís known for its antioxidant properties and ability to add a touch of sophistication to any dish.
+                                            Experience the refined taste of our fresh chervil from New Agrodeal Kenya Limited!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- VEGETABLES (Intro Card) -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.8s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Our Vegetables - New Agrodeal Kenya Limited" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-carrot"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Our Vegetables</div>
+                                        <p class="text font-nunito">
+                                            Our vegetables are a reflection of our unwavering commitment to quality, freshness, and sustainable farming practices.
+                                            Each vegetable bursts with flavor and nutrition, harvested at its peak to deliver the best to your table.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- BROCCOLI SPEARS -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.85s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Broccoli Spears - Fresh Vegetable" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Broccoli Spears</div>
+                                        <p class="text font-nunito">
+                                            Broccoli Spears are tender, flavorful florets that bring a delightful crunch to any dish, packed with essential nutrients and antioxidants.
+                                            Elevate your meals with our fresh, quality Broccoli Spears from New Agrodeal Kenya Limited, where taste meets health in every bite!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- BROCCOLI TIPS -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.9s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Broccoli Tips - Fresh Vegetable" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Broccoli Tips</div>
+                                        <p class="text font-nunito">
+                                            Broccoli Tips are the tender, vibrant tops of the broccoli plant, bursting with flavor and packed with vitamins and minerals.
+                                            Discover the crisp, fresh taste of our Broccoli Tips at New Agrodeal Kenya Limited; perfect for adding a nutritious touch to your favorite dishes!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- BROCCOLI FLORETS -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="0.95s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Broccoli Florets - Fresh Vegetable" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Broccoli Florets</div>
+                                        <p class="text font-nunito">
+                                            Broccoli Florets are the bite-sized, nutrient-rich pieces of the broccoli head, renowned for their crisp texture and rich, earthy flavor.
+                                            Enhance your culinary creations with our fresh, quality Broccoli Florets from New Agrodeal Kenya Limited!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- BABY CARROTS -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Baby Carrots - Fresh Vegetable" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-carrot"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Baby Carrots</div>
+                                        <p class="text font-nunito">
+                                            Baby Carrots are tender, sweet, and perfectly portioned for snacking or cooking, delivering a natural crunch and a burst of vibrant flavor.
+                                            Treat yourself to our fresh, quality Baby Carrots from New Agrodeal Kenya Limited; where every bite is a taste of wholesome goodness!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- SUGAR SNAP -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1.05s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Sugar Snap Peas - Fresh Vegetable" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Sugar Snap</div>
+                                        <p class="text font-nunito">
+                                            Sugar Snap Peas are crisp and sweet, offering a delightful crunch and a burst of fresh flavor in every bite.
+                                            Elevate your meals with our premium, fresh Sugar Snap Peas from New Agrodeal Kenya Limited. Every pod is a perfect blend of taste and nutrition!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- MANGETOUT -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1.1s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Mangetout - Fresh Vegetable" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-seedling"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Mangetout</div>
+                                        <p class="text font-nunito">
+                                            Mangetout, also known as snow peas, are tender and sweet, perfect for adding a crisp, fresh element to your dishes.
+                                            Discover the vibrant flavor and superior quality of our crisp delight, Mangetout at New Agrodeal Kenya Limited.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- FINE BEANS -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1.15s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Fine Beans - Fresh Vegetable" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-leaf"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Fine Beans</div>
+                                        <p class="text font-nunito">
+                                            Fine Beans are slender and tender, offering a crisp texture and subtle sweetness that enhance any meal.
+                                            Enjoy the freshness and premium quality of our Fine Beans from New Agrodeal Kenya Limited. Every bean delivers a delightful crunch and a burst of flavor!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- FLOWERS (Intro Card) -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1.2s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Our Flowers - New Agrodeal Kenya Limited" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-spa"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Our Flowers</div>
+                                        <p class="text font-nunito">
+                                            Our summer flowers are grown with the same discipline as our herbs: careful field care, swift cooling, and clean packing. Gypsophila for airy elegance, Sunflowers for bold color, and Carthamus for striking textureóeach bloom is selected for vibrant color, strong stems, and reliable vase life.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- GYPSOPHILA -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1.25s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Gypsophila - Flowers" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-spa"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Gypsophila</div>
+                                        <p class="text font-nunito">
+                                            Gypsophila, alias Baby's Breath, features delicate, airy blooms that add a touch of elegance and charm to any floral arrangement.
+                                            Embrace the beauty and freshness of our Gypsophila Flowers from New Agrodeal Kenya Limited!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- SUNFLOWER -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1.3s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Sunflower - Flowers" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-spa"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Sunflower</div>
+                                        <p class="text font-nunito">
+                                            Sunflowers are stunning, radiant blooms that capture the essence of summer with their bold, golden petals and striking height.
+                                            Elevate your environment with the vibrant freshness of our Sunflowers from New Agrodeal Kenya Limited!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- CARTHAMUS -->
+                                <div class="box-infor ic-hover img-hover style-1 wow fadeInUp" data-wow-delay="1.35s">
+                                    <div class="image hover-icon hover-item">
+                                        <img src="images/newagro_images/Herbs.jpg" data-src="./images/newagro_images/Herbs.jpg" alt="Carthamus - Flowers" class="lazyload">
+                                        <div class="icon style-circle"><i class="fa-solid fa-spa"></i></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="title fs-23 fw-6 font-worksans">Carthamus</div>
+                                        <p class="text font-nunito">
+                                            Carthamus, also known as safflower, boasts vibrant, intricate blossoms that add a splash of color and a touch of elegance to any setting.
+                                            Discover the striking beauty and freshness of our Carthamus at New Agrodeal Kenya Limited!
+                                        </p>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
+
                     </div>
                 </div>
+            </section>
 
-
-            </section><!-- /.Section contact us -->
+            <!-- /.Section provide -->
 
             <!-- Section partner -->
-            <section class="s-partner bg-white style-4">
+            <!-- <section class="s-partner bg-white style-4">
                 <div class="tf-container w-1780">
                     <div class="row">
                         <div class="col-lg-12">
@@ -900,10 +773,16 @@
                         </div>
                     </div>
                 </div>
-            </section><!-- /.Section partner -->
+            </section> -->
+            <!-- /.Section partner -->
 
         </div><!-- /.Main-content -->
 
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+

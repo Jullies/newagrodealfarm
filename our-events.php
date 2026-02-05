@@ -3,7 +3,7 @@
 <!-- Page-title -->
         <div class="page-title page-our-events ">
             <div class="rellax" data-rellax-speed="5">
-                <img src="images/page-title/our-event.jpg" alt="">
+                <img src="images/page-title/contact-us.jpg" alt="">
             </div>
             <div class="content-wrap">
                 <div class="tf-container w-1290">
@@ -54,7 +54,7 @@
                             <div class="video-wrap">
                                 <img class="mw-unset lazyload" data-src="images/section/s-video.jpg"
                                     src="images/section/s-video.jpg" alt="">
-                                <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                     class="style-icon-play popup-youtube">
                                     <i class="fa-solid fa-play"></i>
                                     <div class="wave"></div>
@@ -76,13 +76,7 @@
                                     </p>
                                 </div>
                                 <p class="text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut aliquam mauris.
-                                    Maecenas porta odio lorem, in aliquet diam pellentesque vel. Donec pulvinar mi
-                                    ipsum, a
-                                    eleifend est porta id. Ut rutrum, quam vestibulum placerat sodales, ex eros
-                                    tincidunt
-                                    ipsum, varius venenatis risus magna.
-                                </p>
+                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                 <a href="#" class="tf-btn">
                                     <span class="text-style">
                                         Read More
@@ -139,11 +133,7 @@
                                                         Discover Farm Tour
                                                     </a>
                                                     <p class="text">
-                                                        Lorem ipsum dolor
-                                                        sit amet,
-                                                        consectetur
-                                                        adipiscing
-                                                        <br />
+                                                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.<br />
                                                         elit. Sed a cursus
                                                         massa.
                                                     </p>
@@ -168,11 +158,7 @@
                                                         Farm In Summer
                                                     </a>
                                                     <p class="text">
-                                                        Lorem ipsum dolor
-                                                        sit amet,
-                                                        consectetur
-                                                        adipiscing
-                                                        <br />
+                                                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.<br />
                                                         elit. Sed a cursus
                                                         massa.
                                                     </p>
@@ -197,11 +183,7 @@
                                                         Children's Summer Camp
                                                     </a>
                                                     <p class="text">
-                                                        Lorem ipsum dolor
-                                                        sit amet,
-                                                        consectetur
-                                                        adipiscing
-                                                        <br />
+                                                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.<br />
                                                         elit. Sed a cursus
                                                         massa.
                                                     </p>
@@ -232,10 +214,7 @@
                                     Other Active Events At The Farm
                                 </p>
                                 <p class="text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut aliquam mauris.
-                                    Maecenas porta odio lorem, in aliquet diam pellentesque vel. Donec pulvinar mi
-                                    ipsum, a eleifend est porta id.
-                                </p>
+                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                             </div>
                         </div>
                         <div class="col-lg-12">
@@ -265,7 +244,7 @@
                                         </li>
                                         <li>
                                             <p class="location">
-                                                Location: DonalFarm
+                                                Location: New Agrodeal Kenya Limited
                                             </p>
                                         </li>
                                         <li>
@@ -276,14 +255,7 @@
 
                                     </ul>
                                     <p class="sub font-nunito">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut aliquam
-                                        mauris. Maecenas
-                                        porta
-                                        odio lorem, in aliquet
-                                        diam pellentesque vel. Donec pulvinar mi ipsum, a eleifend est porta id. Ut
-                                        rutrum, quam
-                                        vestibulum placerat sodales
-                                    </p>
+                                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                     <a href="event-detail.php" class="tf-btn">
                                         <span class="text-style">Read More</span>
                                         <div class="icon">
@@ -318,7 +290,7 @@
                                         </li>
                                         <li>
                                             <p class="location">
-                                                Location: DonalFarm
+                                                Location: New Agrodeal Kenya Limited
                                             </p>
                                         </li>
                                         <li>
@@ -329,14 +301,7 @@
 
                                     </ul>
                                     <p class="sub font-nunito">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut aliquam
-                                        mauris. Maecenas
-                                        porta
-                                        odio lorem, in aliquet
-                                        diam pellentesque vel. Donec pulvinar mi ipsum, a eleifend est porta id. Ut
-                                        rutrum, quam
-                                        vestibulum placerat sodales
-                                    </p>
+                                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                     <a href="event-detail.php" class="tf-btn">
                                         <span class="text-style">Read More</span>
                                         <div class="icon">
@@ -374,7 +339,7 @@
                                         </li>
                                         <li>
                                             <p class="location">
-                                                Location: DonalFarm
+                                                Location: New Agrodeal Kenya Limited
                                             </p>
                                         </li>
                                         <li>
@@ -385,14 +350,7 @@
 
                                     </ul>
                                     <p class="sub font-nunito">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut aliquam
-                                        mauris. Maecenas
-                                        porta
-                                        odio lorem, in aliquet
-                                        diam pellentesque vel. Donec pulvinar mi ipsum, a eleifend est porta id. Ut
-                                        rutrum, quam
-                                        vestibulum placerat sodales
-                                    </p>
+                                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                     <a href="event-detail.php" class="tf-btn">
                                         <span class="text-style">Read More</span>
                                         <div class="icon">
@@ -463,3 +421,8 @@
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+

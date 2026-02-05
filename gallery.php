@@ -3,7 +3,7 @@
 <!-- Page-title -->
         <div class="page-title page-gallery  ">
             <div class="rellax" data-rellax-speed="5">
-                <img src="images/page-title/gallery.jpg" alt="">
+                <img src="images/page-title/contact-us.jpg" alt="">
             </div>
             <div class="content-wrap">
 
@@ -34,7 +34,7 @@
             </div>
 
             <div class="img-item item-2">
-                <img src="images/item/grass.png" alt="">
+                <img src="images/item/grassfarm.jpg" alt="">
             </div>
         </div><!-- /.Page-title -->
 
@@ -47,7 +47,7 @@
                             <ul class="overflow-x-auto menu-tab mb-61">
                                 <li class="item active"><a href="javascript:void(0)" class="btn-tab">All Projects</a>
                                 </li>
-                                <li class="item"><a href="javascript:void(0)" class="btn-tab">Organic</a></li>
+                                <li class="item"><a href="javascript:void(0)" class="btn-tab"></a></li>
                                 <li class="item"><a href="javascript:void(0)" class="btn-tab">Farms</a></li>
                                 <li class="item"><a href="javascript:void(0)" class="btn-tab">Harvest</a></li>
                                 <li class="item"><a href="javascript:void(0)" class="btn-tab">Vegetable</a></li>
@@ -551,3 +551,6 @@
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+

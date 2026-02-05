@@ -17,10 +17,7 @@
 
                 </p>
                 <p class="text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus odio, egestas vitae augue
-                    sed, vulputate viverra velit. Quisque fringilla viverra turpis, at condimentum arcu convallis
-                    sit amet.
-                </p>
+                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                 <div class="wg-countdown">
                     <span class="js-countdown" data-timer="6119153"></span>
                 </div>
@@ -164,3 +161,7 @@
     </script>
     <!-- /Javascript -->
 <?php include 'overall/footer.php'; ?>
+
+
+
+

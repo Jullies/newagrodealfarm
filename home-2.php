@@ -1,4 +1,4 @@
-﻿<?php include 'overall/header.php'; ?>
+<?php include 'overall/header.php'; ?>
 <?php include 'overall/nav.php'; ?>
 </div><!-- /.Header wrap-->
 
@@ -9,7 +9,7 @@
                     <div class="swiper-slide">
                         <div class="slide-home-2">
                             <div class="image overflow-hidden">
-                                <img src="images/page-title/home-2-1.jpg" data-src="images/page-title/home-2-1.jpg"
+                                <img src="images/page-title/gallery.jpeg" data-src="images/page-title/gallery.jpeg"
                                     alt="" class="lazyload tf-animate-zoom-in-out">
                             </div>
                             <div class="content">
@@ -97,237 +97,11 @@
                     <div class="icon mb-30 hover-icon style-circle">
                         <img src="icons/tomato.png" alt="">
                     </div>
-                    <a href="our-commitments.php" class="caption mb-17 fw-6  font-worksans hover-text-secondary">
-                        100% Organic Products
+                    <a href="agro_bv.php" class="caption mb-17 fw-6  font-worksans hover-text-secondary">
+                        100%  Products
                     </a>
                     <p class="text font-nunito">
-                        Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                        Sollictudin nibh sit amet.
-                    </p>
-                </div>
-                <div class="box-icon  ic-hover">
-                    <div class="icon mb-30 style-circle hover-icon img-hover-2">
-                        <i class="icon-tractor22"></i>
-                    </div>
-                    <a href="our-commitments.php" class="caption mb-17 fw-6  font-worksans hover-text-secondary">
-                        Absolute Quality
-                    </a>
-                    <p class="text font-nunito">
-                        Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                        Sollictudin nibh sit amet.
-                    </p>
-                </div>
-                <div class="box-icon ic-hover">
-                    <div class="icon mb-30 hover-icon style-circle">
-                        <i class="fa-solid fa-leaf"></i>
-                    </div>
-                    <a href="our-commitments.php" class="caption mb-17 fw-6  font-worksans hover-text-secondary">
-                        Environmentally Friendly
-                    </a>
-                    <p class="text font-nunito">
-                        Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                        Sollictudin nibh sit amet.
-                    </p>
-                </div>
-                <div class="box-icon ic-hover">
-                    <div class="icon mb-30 hover-icon style-circle">
-                        <img src="icons/dollar-circle.png" alt="">
-                    </div>
-                    <a href="our-commitments.php" class="caption mb-17 fw-6  font-worksans hover-text-secondary">
-                        Reasonable Price
-                    </a>
-                    <p class="text font-nunito">
-                        Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                        Sollictudin nibh sit amet.
-                    </p>
-                </div>
-            </div>
-        </section><!-- /.Section benefit -->
-
-        <!-- Section about us 2 -->
-        <section class="s-about-us-2">
-            <div class="tf-container w-1620">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="content-section">
-                            <div class="tf-animate__rotate-right ">
-                                <div class="image image-left ">
-                                    <img src="images/section/s-about-2.jpg" data-src="images/section/s-about-2.jpg"
-                                        alt="" class="lazyload">
-                                </div>
-                            </div>
-                            <div class="content-wrap">
-                                <div class="content text-center">
-                                    <div class="heading-section text-center style-4 mb-26">
-                                        <div class="img-item justify-center mb-25">
-                                            <img src="images/item/rice-plant-2.png" class="tf-animate-1" alt="" />
-                                        </div>
-                                        <p class="sub-title">
-                                            Welcome to DonalFarm Agriculture & Organic Farms
-                                        </p>
-                                        <p class="title text-anime-style-2">
-                                            What You Plant Now, <br>
-                                            You Will Harvest Later
-                                        </p>
-                                    </div>
-
-                                    <p class="text-1 font-snowfall mb-20">
-                                        Elders is headquartered in Adelaide, South Australia, where our story began in
-                                        <br>
-                                        1839,
-                                        but our expansive network now reaches every corner of Australia.
-                                    </p>
-                                    <p class="text-2 mb-42">
-                                        At Mycorrhizal Applications (MA), we are dedicated to sustainability by <br>
-                                        providing
-                                        the agriculture, horticulture, landscaping, and forestry industries <br> with
-                                        efficient
-                                        and effective microbial-based biorational solutions. As the <br> worldâ€™s leading
-                                        manufacturer and supplier of mycorrhizal soil inoculants, <br> MA researches,
-                                        produces,
-                                        and markets mycorrhizal fungi which accelerate <br> plant performance.
-                                    </p>
-                                </div>
-                                <div class="bot flex justify-center">
-                                    <a href="about-us.php" class="tf-btn ">
-                                        <span class="text-style ">
-                                            More About Us
-                                        </span>
-                                        <div class="icon">
-                                            <i class="icon-arrow_right"></i>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="tf-animate__rotate-left ">
-
-                                <div class="image image-right ">
-                                    <img src="images/section/s-about-3.jpg" data-src="images/section/s-about-3.jpg"
-                                        alt="" class="lazyload">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12">
-                        <div class="wg-counter style-4">
-                            <div class="counter-item">
-                                <div class="counter">
-                                    <div id="odometer" class="odometer fs-65 style-4">1000</div>
-                                </div>
-                                <p class="title font-worksans fw-5">
-                                    Completed Projects
-                                </p>
-                                <div class="icon-img">
-                                    <img src="images/item/line-throw-title.png" alt="">
-                                </div>
-                            </div>
-                            <div class="counter-item">
-                                <div class="counter">
-                                    <div class="odometer fs-65 style-4-2">1000</div>
-                                </div>
-                                <p class="title font-worksans fw-5">
-                                    Animals And Plants
-                                </p>
-                                <div class="icon-img">
-                                    <img src="images/item/line-throw-title.png" alt="">
-                                </div>
-                            </div>
-                            <div class="counter-item">
-                                <div class="counter">
-                                    <div class="odometer fs-65 style-4-3">1000</div>
-                                </div>
-                                <p class="title font-worksans fw-5">
-                                    Tons of Harvest
-                                </p>
-                                <div class="icon-img">
-                                    <img src="images/item/line-throw-title.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="s-img-item item-1 scroll-element-3">
-                <img class="scale-1-1" src="images/section/yellow-f.png" alt="">
-            </div>
-        </section><!-- /.Section about us 2 -->
-
-        <!-- Section service 2-->
-        <section class="s-service-2 relative overflow-hidden">
-            <div class="content-section">
-                <div class="heading-section style-2">
-                    <div class="img-item">
-                        <div class="item">
-                            <img src="images/item/rice-plant-2.png" class="tf-animate-1" alt="" />
-                        </div>
-                        <p class="sub-title">
-                            Agricultural Services
-                        </p>
-                    </div>
-
-                    <p class="title tf-animate-1">
-                        Providing The Finest
-                        Products To The Best
-                        Feed Suppliers.
-                    </p>
-                </div>
-                <p class="text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex
-                    igula, pulvinar ultrices justo sed, bibendum lobortis nibh. Pellentesque
-                    mattis eros sit amet lorem tristique faucibus.
-                </p>
-                <a href="our-services.php" class="tf-btn ">
-                    <span class="text-style ">
-                        See Our Services
-                    </span>
-                    <div class="icon">
-                        <i class="icon-arrow_right"></i>
-                    </div>
-                </a>
-                <div class="button-slide-wrap">
-                    <div class="btn-s-service-2 btn-prev">
-                        <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="58px" height="15px"
-                            viewBox="0 0 80 20" preserveAspectRatio="xMidYMid meet">
-                            <g fill="#0d401c">
-                                <path
-                                    d="M7 15.4 c-3.6 -2.4 -6.6 -5 -6.8 -5.7 -0.2 -1.2 13.8 -9.7 16 -9.7 2.4 0 0.2 2.4 -4.9 5.2 l-5.8 3.3 19.5 0.8 c11 0.5 27.1 0.5 37 -0.1 9.6 -0.5 17.7 -0.7 17.9 -0.5 2.4 1.9 -22 3.5 -48.6 3.1 l-25.2 -0.3 4.7 4.2 c6.1 5.5 4.4 5.3 -3.8 -0.3z" />
-                            </g>
-                        </svg>
-                    </div>
-                    <div class="btn-s-service-2 btn-next">
-                        <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="58px" height="15px"
-                            viewBox="0 0 80 20" preserveAspectRatio="xMidYMid meet">
-                            <g fill="#0d401c">
-                                <path
-                                    d="M63 19 c0 -0.5 2.6 -2.4 5.8 -4.2 l5.7 -3.3 -19.5 -0.8 c-11 -0.5 -27.1 -0.5 -37 0.1 -9.6 0.5 -17.7 0.7 -17.9 0.5 -2.4 -1.9 22 -3.5 48.7 -3.1 l25.2 0.3 -4.6 -3.9 c-2.5 -2.1 -4.3 -4 -4 -4.3 0.7 -0.7 14.6 8.9 14.6 10.2 0 1.1 -14.3 9.5 -16.2 9.5 -0.4 0 -0.8 -0.4 -0.8 -1z" />
-                            </g>
-                        </svg>
-                    </div>
-
-                </div>
-            </div>
-            <div class="slider-wrap">
-                <div class="swiper-container slider-s-service-2">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="box-infor style-2 ic-hover img-hover">
-                                <div class="image hover-icon hover-item">
-                                    <img src="images/widget/provide-item-1-1.jpg"
-                                        data-src="./images/widget/provide-item-1-1.jpg" alt="" class=" lazyload">
-                                    <div class="icon style-circle">
-                                        <i class="icon-salad"></i>
-                                    </div>
-                                </div>
-                                <div class="content">
-                                    <a href="service-detail.php"
-                                        class="title fs-23 fw-6 font-worksans hover-text-secondary">
-                                        Clean Vegetables
-                                    </a>
-                                    <p class="text font-nunito">
-                                        Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                        nibh sit amet
-                                        commodo nulla.
-                                    </p>
+                        Quality-focused farming, careful grading, and cold-chain discipline keep every shipment consistent and fresh.</p>
                                     <a href="our-services.php" class="tf-btn-read text-white hover-text-secondary">Read
                                         More</a>
                                 </div>
@@ -348,10 +122,7 @@
                                         Pure Cow's Milk
                                     </a>
                                     <p class="text font-nunito">
-                                        Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                        nibh sit amet
-                                        commodo nulla.
-                                    </p>
+                                        Quality-focused farming, careful grading, and cold-chain discipline keep every shipment consistent and fresh.</p>
                                     <a href="our-services.php" class="tf-btn-read text-white hover-text-secondary">Read
                                         More</a>
                                 </div>
@@ -372,10 +143,7 @@
                                         Clean Chicken And Egg
                                     </a>
                                     <p class="text font-nunito">
-                                        Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                        nibh sit amet
-                                        commodo nulla.
-                                    </p>
+                                        Quality-focused farming, careful grading, and cold-chain discipline keep every shipment consistent and fresh.</p>
                                     <a href="our-services.php" class="tf-btn-read text-white hover-text-secondary">Read
                                         More</a>
                                 </div>
@@ -413,7 +181,7 @@
                                                     <div class="icon style-circle hover-icon">
                                                         <i class="icon-chemical"></i>
                                                     </div>
-                                                    <a href="our-commitments.php"
+                                                    <a href="agro_bv.php"
                                                         class="caption fw-5 font-worksans hover-text-4">
                                                         Minimal <br> Chemicals Used
                                                     </a>
@@ -425,7 +193,7 @@
                                                     <div class="icon style-circle hover-icon">
                                                         <i class="icon-worm"></i>
                                                     </div>
-                                                    <a href="our-commitments.php"
+                                                    <a href="agro_bv.php"
                                                         class="caption fw-5 font-worksans hover-text-4">
                                                         Minimal <br> Chemicals Used
                                                     </a>
@@ -437,9 +205,9 @@
                                                     <div class="icon style-circle hover-icon">
                                                         <i class="icon-disposal"></i>
                                                     </div>
-                                                    <a href="our-commitments.php"
+                                                    <a href="agro_bv.php"
                                                         class="caption fw-5 font-worksans hover-text-4">
-                                                        All Organic <br> Waste Reused
+                                                        All  <br> Waste Reused
                                                     </a>
                                                 </div>
                                             </li>
@@ -449,7 +217,7 @@
                                                     <div class="icon style-circle hover-icon">
                                                         <i class="icon-light-bulb"></i>
                                                     </div>
-                                                    <a href="our-commitments.php"
+                                                    <a href="agro_bv.php"
                                                         class="caption fw-5 font-worksans hover-text-4">
                                                         Do Not Use <br> Artificial
                                                         Light
@@ -462,7 +230,7 @@
                                                     <div class="icon style-circle hover-icon">
                                                         <i class="icon-water-drops"></i>
                                                     </div>
-                                                    <a href="our-commitments.php"
+                                                    <a href="agro_bv.php"
                                                         class="caption fw-5 font-worksans hover-text-4">
                                                         Borehole <br> Sourced Water
                                                     </a>
@@ -475,7 +243,7 @@
 
                             <div class="bot flex justify-center">
 
-                                <a href="our-commitments.php" class="tf-btn scale-50 gap-37">
+                                <a href="agro_bv.php" class="tf-btn scale-50 gap-37">
                                     <span class="text-style ">
                                         See More Our Commitment
                                     </span>
@@ -503,13 +271,13 @@
                     <div class="heading-section style-3 has-text">
                         <p class="sub-title">What We Do</p>
                         <p class="title text-anime-style-1">
-                            At DonalFarm,
+                            At New Agrodeal Kenya Limited,
                             We Aim To Unite Men
                             And Nature!
                         </p>
                         <p class="text">
                             After more than five years of research, we have successfully come up with internationally
-                            patented 100% organic agriculture inputs that can significantly enhance the quality of crops
+                            patented 100%  agriculture inputs that can significantly enhance the quality of crops
                             aswell as the soil in a
                             completely natural way.
                         </p>
@@ -526,7 +294,7 @@
                         <img src="images/item/barn-2.png" alt="">
                     </div>
                     <div class="video-wrap style-3 tf-animate__box-2 animate__slow">
-                        <a href="https://www.youtube.com/watch?v=MLpWrANjFbI" class="style-icon-play popup-youtube">
+                        <a href="https://www.youtube.com/watch?v=L7moqAduq6E" class="style-icon-play popup-youtube">
                             <i class="icon-play3"></i>
                             <div class="wave"></div>
                             <div class="wave-1"></div>
@@ -541,10 +309,7 @@
                                 We Use New Technology
                             </p>
                             <p class="text">
-                                Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin nibh sit
-                                amet
-                                commodo nulla.
-                            </p>
+                                Quality-focused farming, careful grading, and cold-chain discipline keep every shipment consistent and fresh.</p>
                         </li>
                         <li class="wow fadeInUp" data-wow-delay="0.1s">
                             <p class="title">
@@ -552,10 +317,7 @@
                                 Making Healthy Foods
                             </p>
                             <p class="text">
-                                Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin nibh sit
-                                amet
-                                commodo nulla.
-                            </p>
+                                Quality-focused farming, careful grading, and cold-chain discipline keep every shipment consistent and fresh.</p>
                         </li>
                     </ul>
                 </div>
@@ -571,7 +333,7 @@
                         <div class="col-lg-5">
                             <div class="image-wrap img-hover">
                                 <div class="image hover-item">
-                                    <img src="images/section/s-farm.jpg" alt="" class="lazyload">
+                                    <img src="images/newagro_images/0A0A9046.jpg" alt="" class="lazyload">
                                 </div>
 
                                 <div class="wg-exprerience  text-center tf-rotate-back-and-forth">
@@ -608,7 +370,7 @@
                                 </p>
                                 <div class="wg-progress mb-29">
                                     <div class="top">
-                                        <span>Organic Solutions</span>
+                                        <span> Solutions</span>
                                         <span>76%</span>
                                     </div>
                                     <div class="progress tf-animate-1" role="progressbar" aria-label="Basic example"
@@ -653,7 +415,7 @@
                                     <p class="text">
                                         At Union Organics, we aim to empower farmers
                                         by equipping them with affordable and 100%
-                                        organic agriculture.
+                                         agriculture.
                                     </p>
                                     <a href="our-services.php" class="tf-btn-read hover-text-4">Read More</a>
                                 </div>
@@ -679,7 +441,7 @@
                                     <p class="text">
                                         At Union Organics, we aim to empower farmers
                                         by equipping them with affordable and 100%
-                                        organic agriculture.
+                                         agriculture.
                                     </p>
                                     <a href="our-services.php" class="tf-btn-read hover-text-4">Read More</a>
                                 </div>
@@ -703,7 +465,7 @@
                                     <p class="text">
                                         At Union Organics, we aim to empower farmers
                                         by equipping them with affordable and 100%
-                                        organic agriculture.
+                                         agriculture.
                                     </p>
                                     <a href="our-services.php" class="tf-btn-read hover-text-4">Read More</a>
                                 </div>
@@ -775,8 +537,7 @@
                                                     Of Sheep Farming</a>
                                                 <div class="bot">
                                                     <p class="text font-nunito">
-                                                        Lorem ipsum dolor sit amet,
-                                                        consectetur adipiscing <br> elit. Sed
+                                                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.<br> elit. Sed
                                                         a cursus massa. Cras ut dui nec
                                                         nibh <br> vehicula fermentum. natoque
                                                         penatibus.
@@ -805,8 +566,7 @@
                                                     Of Sheep Farming</a>
                                                 <div class="bot">
                                                     <p class="text font-nunito">
-                                                        Lorem ipsum dolor sit amet,
-                                                        consectetur adipiscing <br> elit. Sed
+                                                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.<br> elit. Sed
                                                         a cursus massa. Cras ut dui nec
                                                         nibh <br> vehicula fermentum. natoque
                                                         penatibus.
@@ -834,12 +594,7 @@
                                                     Joy
                                                     Of Sheep Farming</a>
                                                 <p class="text font-nunito">
-                                                    Lorem ipsum dolor sit amet,
-                                                    consectetur adipiscing elit. Sed
-                                                    a cursus massa. Cras ut dui nec
-                                                    nibhvehicula fermentum. natoque
-                                                    penatibus.
-                                                </p>
+                                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
                                                     <a href="portfolio-style-3.php" class="btn-read icon style-circle">
                                                         <i class="icon-arrow_right"></i>
@@ -922,14 +677,7 @@
                                                     The Best Farm I Trust Uses Products
                                                 </p>
                                                 <p class="text font-worksans">
-                                                    Having been a host farmer for three seasons, weâ€™ve seen firsthand
-                                                    the difference this
-                                                    internship makes in beginning
-                                                    farmers and host farms alike. As a farmer it is difficult to weigh
-                                                    the benefits of
-                                                    hosting young farmers. Fresh energy
-                                                    and enthusiasm.
-                                                </p>
+                                                    Our field teams mentor new staff on harvest discipline, hygiene, and traceability to keep exports consistent.</p>
                                             </div>
                                             <div class="author-wrap">
                                                 <div class="left">
@@ -965,11 +713,7 @@
 
                                                 </p>
                                                 <p class="text font-worksans">
-                                                    As you know I am an organic wheat farmer here in Wyoming and we had
-                                                    one of driest and coldest winters on record. I used your MycoApply
-                                                    granular on my winter wheat and I am very pleased at what I am
-                                                    seeing. The root systems are noticeably.
-                                                </p>
+                                                    As  herb growers in Solai, Nakuru, we prioritize residue-free production and flavor preservation for export buyers.</p>
                                             </div>
                                             <div class="author-wrap">
                                                 <div class="left">
@@ -1116,7 +860,7 @@
                                                 <div class="video-wrap hover-item">
                                                     <img class="lazyload" data-src="images/blog/blog-1.jpg"
                                                         src="images/blog/blog-1.jpg" alt="" />
-                                                    <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                                    <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                                         class="style-icon-play popup-youtube">
                                                         <i class="fa-solid fa-play"></i>
                                                     </a>
@@ -1188,7 +932,7 @@
                                                 <div class="video-wrap hover-item">
                                                     <img class="lazyload" data-src="images/blog/blog-2.jpg"
                                                         src="images/blog/blog-2.jpg" alt="" />
-                                                    <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                                    <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                                         class="style-icon-play popup-youtube">
                                                         <i class="fa-solid fa-play"></i>
                                                     </a>
@@ -1259,7 +1003,7 @@
                                                 <div class="video-wrap hover-item">
                                                     <img class="lazyload" data-src="images/blog/blog-3.jpg"
                                                         src="images/blog/blog-3.jpg" alt="" />
-                                                    <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                                    <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                                         class="style-icon-play popup-youtube">
                                                         <i class="fa-solid fa-play"></i>
                                                     </a>
@@ -1367,11 +1111,8 @@
                                     We Are Dedicated Farmers!
                                 </p>
                                 <p class="text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales faucibus
-                                    commodo.
-                                    Proin vehicula massa id congue rutrum, ex libero sodales ex, cursus euismod purus.
-                                </p>
-                                <a href="our-farmers.php" class="tf-btn-read text-white hover-text-secondary">
+                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
+                                <a href="our-team.php" class="tf-btn-read text-white hover-text-secondary">
                                     View All The Farmers
                                 </a>
                             </div>
@@ -1410,9 +1151,7 @@
                                                 Farm Address
                                             </p>
                                             <p class="text">
-                                                Prinsengracht 250, 2501016 PM
-                                                Amsterdam Netherlands
-                                            </p>
+                                                Solai, Nakuru, Kenya</p>
                                         </div>
                                     </li>
                                     <li class="wow fadeInUp" data-wow-duration="1.4s">
@@ -1424,8 +1163,8 @@
                                                 Contact Us
                                             </p>
                                             <p class="text">
-                                                Donalfarms@gmail.com <br>
-                                                Call Us 24/7: +1 987 654 3210
+                                                info@agrodealfarm.co.ke <br>
+                                                Call Us 24/7: +254 793 753247
                                             </p>
                                         </div>
                                     </li>
@@ -1736,10 +1475,7 @@
                                     </a>
                                 </div>
                                 <p class="text font-nunito">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim dolor
-                                    eget
-                                    lacus vestibulum facilisis.
-                                </p>
+                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                 <div class="wg-social">
                                     <ul class="list">
                                         <li class="item">
@@ -1770,9 +1506,7 @@
                                     <li>
                                         <i class="fa-solid fa-location-dot fs-17"></i>
                                         <p class="address">
-                                            Prinsengracht 250, 2501016 PM
-                                            Amsterdam Netherlands
-                                        </p>
+                                            Solai, Nakuru, Kenya</p>
                                     </li>
                                     <li>
                                         <i class="fa-solid fa-phone"></i>
@@ -1782,7 +1516,7 @@
                                     </li>
                                     <li> <i class="icon-package-box"></i>
                                         <p class="email fs-15">
-                                            Mail: Donalfarms@gmail.com
+                                            Mail: info@agrodealfarm.co.ke
                                         </p>
                                     </li>
                                     <li>
@@ -1840,7 +1574,7 @@
                                             View Recent Projects</a>
                                     </li>
                                     <li class="item">
-                                        <a href="our-farmers.php">
+                                        <a href="our-team.php">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="14"
                                                 height="16">
                                                 <path
@@ -1878,8 +1612,7 @@
                                         </div>
                                         <div class="content">
                                             <a href="blog-single.php" class="title-post hover-text-secondary">
-                                                Learn 10 Best Tips for
-                                                New Formers
+                                                Field-to-pack discipline for fresher herbs
                                             </a>
                                             <p class="date-release">
                                                 30 Oct, 2024
@@ -1892,8 +1625,7 @@
                                         </div>
                                         <div class="content">
                                             <a href="blog-single.php" class="title-post hover-text-secondary">
-                                                Farmer Sentiment
-                                                Darkens Hopes Fade
+                                                Why cold-chain integrity keeps aroma alive
                                             </a>
                                             <p class="date-release">
                                                 30 Oct, 2024
@@ -1912,7 +1644,7 @@
                     <div class="col-lg-12">
                         <div class="footer-bottom">
                             <p class="no-copy font-nunito">
-                                Copyright Â© 2024 Donal Farm by
+                                Copyright © 2024 New Agrodeal Kenya Limited by
                                 <span>
                                     <a href="https://themeforest.net/user/themesflat/portfolio" target="_blank">
                                         Themesflat</a>.</span>
@@ -2028,3 +1760,11 @@
     </script>
     <!-- /Javascript -->
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+
+
+
+

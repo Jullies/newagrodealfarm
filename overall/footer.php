@@ -4,22 +4,18 @@
                     <div class="col-lg-12">
                         <div class="footer-top">
                             <div class="footer-left">
-                                <div class="logo">
-                                    <a href="index.php">
-                                        <img src="images/logo/logo-2.png" alt="" />
-                                    </a>
-                                </div>
+
                             </div>
                             <div class="footer-center">
                                 <p class="font-snowfall">
-                                    New Agrodeal Kenya Limited is a Solai-grown exporter (founded 2015) delivering organic herbs, vegetables, and summer flowers with farm-to-packhouse discipline. We harvest at peak freshness, protect flavor with careful grading and packing, and ship reliably to global customers. Core range: Basil, Mint, Coriander, Chives, Tarragon plus specialty herbs like Dill, Oregano, Rosemary, Thyme, Parsley, Sage, Rucola—and Gypsophila flowers.
+                                    New Agrodeal Kenya Limited (founded 2015, Solai, Nakuru) exports herbs, vegetables, and Gypsophila with strict farm‑to‑packhouse discipline. Peak‑freshness harvesting, tight grading, and reliable cold chain keep Basil, Mint, Coriander, Chives, Tarragon, and specialty herbs (Dill, Oregano, Rosemary, Thyme, Parsley, Sage, Rucola) arrival‑ready worldwide.
                                 </p>
                             </div>
                             <div class="footer-right">
                                 <div class="wg-social">
                                     <ul class="list">
                                         <li class="item">
-                                            <a href="#"><i class="icon-facebook1"></i></a>
+                                            <a href="https://www.facebook.com/p/New-Agrodeal-Kenya-Limited-61562079206003/"><i class="icon-facebook1"></i></a>
                                         </li>
                                         <li class="item">
                                             <a href="#"><i class="icon-twitter"></i></a>
@@ -40,7 +36,7 @@
             <div class="footer-inner">
                 <div class="tf-container w-1290">
                     <div class="row">
-                        <div class="col-lg-3 col-md-6 ">
+                        <div class="col-lg-4 col-md-6 ">
                             <div class="footer-inner-wrap footer-col-block">
                                 <h4 class="footer-title footer-title-desktop mb-23">
                                     Contact Us!
@@ -52,7 +48,7 @@
                                     <li>
                                         <i class="fa-solid fa-location-dot fs-17"></i>
                                         <p class="address">
-                                            7CMJ+4CC, Solai, Kenya 20117, KE
+                                            Solai, Nakuru, Kenya
                                         </p>
                                     </li>
                                     <li>
@@ -64,59 +60,20 @@
                                     <li>
                                         <i class="icon-package-box"></i>
                                         <p class="email fs-15">
-                                            Website: https://newagrodeal.com/
+                                            Website: www.agrodealfarm.co.ke
                                         </p>
                                     </li>
                                     <li>
                                         <i class="fa-solid fa-clock"></i>
                                         <p class="time-open fs-15">
-                                            Solai, Kenya | Certified exporter of premium herbs & Gypsophila
+                                            Solai, Nakuru, Kenya | Certified exporter of premium herbs & Gypsophila
                                         </p>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 ">
-                            <div class="footer-inner-wrap footer-col-block">
-                                <h4 class="footer-title footer-title-desktop mb-23">
-                                    News Posts
-                                </h4>
-                                <h4 class="footer-title footer-title-mobile mb-23">
-                                    News Posts
-                                </h4>
-                                <ul class="new-post-list tf-collapse-content">
-                                    <li class="item img-hover">
-                                        <div class="image hover-item">
-                                            <img src="images/section/f-new-post-1.jpg" alt="" />
-                                        </div>
-                                        <div class="content">
-                                            <a href="#" class="title-post hover-text-secondary">
-                                                Learn 10 Best Tips for New
-                                                Formers
-                                            </a>
-                                            <p class="date-release">
-                                                30 Oct, 2024
-                                            </p>
-                                        </div>
-                                    </li>
-                                    <li class="item img-hover">
-                                        <div class="image hover-item">
-                                            <img src="images/section/f-new-post--2.jpg" alt="" />
-                                        </div>
-                                        <div class="content">
-                                            <a href="#" class="title-post hover-text-secondary">
-                                                Farmer Sentiment Darkens
-                                                Hopes Fade
-                                            </a>
-                                            <p class="date-release">
-                                                30 Oct, 2024
-                                            </p>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 ">
+                        
+                        <div class="col-lg-4 col-md-6 ">
                             <div class="footer-inner-wrap footer-col-block">
                                 <h4 class="footer-title footer-title-desktop mb-28">
                                     Quick Links
@@ -160,7 +117,7 @@
                                             View Recent Projects</a>
                                     </li>
                                     <li class="item">
-                                        <a href="our-farmers.php">
+                                        <a href="our-team.php">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="14"
                                                 height="16">
                                                 <path
@@ -182,7 +139,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6">
+                        <div class="col-lg-4 col-md-6">
                             <div class="footer-inner-wrap">
                                 <h4 class="footer-title fs-20">
                                     Subscribe Newsletter
@@ -196,7 +153,7 @@
                                                         d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z" />
                                                 </svg>
                                                 <span class="sib-form-message-panel__inner-text">
-                                                    Your subscription could not be saved. Please try again.
+                                                    
                                                 </span>
                                             </div>
                                         </div>
@@ -207,7 +164,7 @@
                                                         d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z" />
                                                 </svg>
                                                 <span class="sib-form-message-panel__inner-text">
-                                                    Your subscription has been successful.
+                                                    
                                                 </span>
                                             </div>
                                         </div>
@@ -371,6 +328,68 @@
         </svg>
     </div><!-- /.Prograss -->
 
+    <div class="floating-whatsapp" style="position: fixed; right: 90px; bottom: 30px; z-index: 999;">
+        <a href="https://wa.me/254793753247" target="_blank" rel="noopener noreferrer"
+            style="display:inline-flex; align-items:center; justify-content:center; width:52px; height:52px; border-radius:50%; background:#25D366; color:#ffffff; box-shadow: 0 6px 16px rgba(0,0,0,0.2);">
+            <i class="fab fa-whatsapp" style="font-size:22px;"></i>
+        </a>
+    </div>
+
+    <div class="floating-youtube" style="position: fixed; left: 20px; bottom: 36px; z-index: 12000;">
+        <div class="box-video tf-animate-2 tf-animate__box animate__slow"
+            style="display:inline-flex; align-items:center; justify-content:center; width:64px; height:64px; border-radius:16px; background:#f9c32e; box-shadow: 0 12px 24px rgba(0,0,0,0.28); animation: pulse-youtube 1.8s infinite; position: relative; overflow: hidden;">
+            <span class="yt-ring yt-ring-1"></span>
+            <span class="yt-ring yt-ring-2"></span>
+            <span class="yt-ring yt-ring-3"></span>
+            <a href="https://www.youtube.com/watch?v=L7moqAduq6E" class="style-icon-play popup-youtube"
+                style="display:inline-flex; align-items:center; justify-content:center; width:100%; height:100%; color:#4a2c00; position: relative; z-index: 2;">
+                <i class="icon-play3" style="font-size:24px; position: relative; top: -1px;"></i>
+                <div class="wave"></div>
+                <div class="wave-1"></div>
+            </a>
+        </div>
+    </div>
+
+    <div class="floating-youtube-label" style="position: fixed; left: 92px; bottom: 40px; z-index: 11999; display: inline-flex; align-items: center; gap: 6px;">
+        <span class="label-arrow" style="display:inline-block; animation: wiggle-arrow 1.5s infinite; color: #4a2c00; font-size: 26px; font-weight: 900; text-shadow: 0 1px 3px rgba(0,0,0,0.35); transform: translateY(1px);">↖</span>
+        <span style="background: #4a2c00; color: #fef6d8; padding: 8px 14px; border-radius: 16px; font-weight: 800; font-size: 15px; letter-spacing: 0.2px; box-shadow: 0 4px 12px rgba(0,0,0,0.25); white-space: nowrap;">
+            Learn More
+        </span>
+    </div>
+
+    <style>
+        @keyframes pulse-youtube {
+            0% { transform: scale(1); box-shadow: 0 10px 20px rgba(0,0,0,0.25); }
+            50% { transform: scale(1.06); box-shadow: 0 12px 26px rgba(0,0,0,0.28); }
+            100% { transform: scale(1); box-shadow: 0 10px 20px rgba(0,0,0,0.25); }
+        }
+        @keyframes wiggle-arrow {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(-4px); }
+            100% { transform: translateX(0); }
+        }
+        @keyframes ring-fade {
+            0% { opacity: 0.35; transform: scale(1); }
+            50% { opacity: 0.15; transform: scale(1.35); }
+            100% { opacity: 0; transform: scale(1.6); }
+        }
+        .yt-ring {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 115%;
+            height: 115%;
+            border-radius: 50%;
+            background: rgba(0,0,0,0.08);
+            transform: translate(-50%, -50%) scale(1);
+            pointer-events: none;
+            z-index: 0;
+        }
+        .yt-ring-1 { animation: ring-fade 2s infinite; }
+        .yt-ring-2 { animation: ring-fade 2s infinite 0.35s; }
+        .yt-ring-3 { animation: ring-fade 2s infinite 0.7s; }
+    </style>
+
     <!-- Javascript -->
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/jquery.min.js"></script>
@@ -415,4 +434,9 @@
 
 <!-- Mirrored from themesflat.co/html/donalfarm/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jan 2026 17:37:09 GMT -->
 </html>
+
+
+
+
+
 

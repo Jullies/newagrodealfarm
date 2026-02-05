@@ -12,10 +12,10 @@
                         <div class="col-lg-12">
                             <div class="content">
                                 <p class="sub-title">
-                                    Answer All Your Questions About Our Farm
+                                    Quick answers for buyers & partners
                                 </p>
                                 <h1 class="title">
-                                    frequently asked questions
+                                    Frequently Asked Questions
                                 </h1>
                                 <div class="icon-img">
                                     <img src="images/item/line-throw-title.png" alt="">
@@ -47,44 +47,35 @@
                             <div class="tf-sidebar-2 ">
                                 <div class="sidebar-item-2 list-tab has-bg-3 mb-40">
                                     <ul class="menu-tab">
-                                        <li class="item active"><a href="#content" class="btn-tab">General
-                                                Question</a></li>
-                                        <li class="item"><a href="#content" class="btn-tab">Product
-                                                Questions</a></li>
-                                        <li class="item"><a href="#content" class="btn-tab">Questions About
-                                                The Tour</a></li>
-                                        <li class="item"><a href="#content" class="btn-tab">How do I log
-                                                in</a></li>
-                                        <li class="item"><a href="#content" class="btn-tab">How delivery works
-                                                in Europe</a></li>
+                                        <li class="item active"><a href="#content" class="btn-tab">Export questions</a></li>
+                                        <li class="item"><a href="#content" class="btn-tab">Freshness & cold chain</a></li>
+                                        <li class="item"><a href="#content" class="btn-tab">Product lines</a></li>
+                                        <li class="item"><a href="#content" class="btn-tab">Packing specs</a></li>
+                                        <li class="item"><a href="#content" class="btn-tab">Logistics support</a></li>
                                     </ul>
                                 </div>
                                 <div class="sidebar-item-2 has-bg-1 infor-contact">
                                     <p class="sub font-snowfall fs-30">
-                                        DonalFarm Agriculture <br>
-                                        Farm of laughter and happiness!
+                                        New Agrodeal Kenya Limited <br>
+                                        Export-ready from Solai, Nakuru
                                     </p>
                                     <p class="text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex ligula,
-                                        pulvinar ultrices justo sed.
-                                    </p>
+                                        Premium herbs, vegetables, and Gypsophila grown with quality, traceability, and cold-chain discipline.</p>
                                     <ul class="contact-list">
                                         <li>
                                             <i class="fa-solid fa-location-dot fs-17"></i>
                                             <p class="address">
-                                                Prinsengracht 250, 2501016 PM
-                                                Amsterdam Netherlands
-                                            </p>
+                                                Solai, Nakuru, Kenya</p>
                                         </li>
                                         <li>
                                             <i class="fa-solid fa-phone"></i>
                                             <p class="phone-number fs-15">
-                                                Call us: (234) 109-6666
+                                                Call us: +254 793 753247
                                             </p>
                                         </li>
                                         <li> <i class="icon-package-box"></i>
                                             <p class="email fs-15">
-                                                Mail: Donalfarms@gmail.com
+                                                Mail: orders@agrobv.nl
                                             </p>
                                         </li>
                                         <li>
@@ -103,11 +94,10 @@
                             <div class="content" id="content">
                                 <h2 class="title font-worksans fw-7">
                                     Do you have a few questions? <br>
-                                    Check out our popular questions.
+                                    Here are the most common export queries.
                                 </h2>
                                 <p class="text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales faucibus.
-                                </p>
+                                    New Agrodeal Kenya Limited — certified exporter of herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                 <div class="widget-content-tab">
                                     <div class="widget-content-inner active">
                                         <div class="tf-accordion accordion" id="accordionExample">
@@ -116,18 +106,13 @@
                                                     <button class="accordion-button" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                         aria-expanded="true" aria-controls="collapseOne">
-                                                        What proof do you need for Carerâ€™s tickets?
+                                                        What certifications support your exports?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show"
                                                     data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        Under 2â€™s are free and will need a ticket. Tickets are free of
-                                                        charge but attract a booking fee to cover the cost of processing
-                                                        the booking. If you book an under 2 ticket please bring with you
-                                                        proof of age.
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </div>
+                                                        We operate as a certified exporter with documented compliance checks, routine residue testing, and full field-to-packhouse traceability to meet buyer and regulatory requirements.</div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
@@ -135,18 +120,13 @@
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                         aria-expanded="false" aria-controls="collapseTwo">
-                                                        Do I have to pay extra for the shows?
+                                                        How do you keep herbs fresh in transit?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse"
                                                     data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        Under 2â€™s are free and will need a ticket. Tickets are free of
-                                                        charge but attract a booking fee to cover the cost of processing
-                                                        the booking. If you book an under 2 ticket please bring with you
-                                                        proof of age.
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </div>
+                                                        We harvest at peak aroma, hydrocool quickly, grade by specification, and ship in a controlled cold chain with clear labeling for smooth handling.</div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
@@ -154,18 +134,13 @@
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                         aria-expanded="false" aria-controls="collapseThree">
-                                                        Can I bring my team or friends?
+                                                        Which products are your core export lines?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse"
                                                     data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        Under 2â€™s are free and will need a ticket. Tickets are free of
-                                                        charge but attract a
-                                                        booking fee to cover the cost of
-                                                        processing the booking. If you book an under 2 ticket please
-                                                        bring with you proof of
-                                                        age.
+                                                        Core herbs: basil, mint, coriander, chives, tarragon. Specialty herbs: dill, oregano, rosemary, marjoram, lovage, red & Thai basil, rucola, thyme, sorrel, parsley, sage, chervil. Flowers: Gypsophila.
                                                     </div>
                                                 </div>
                                             </div>
@@ -174,18 +149,13 @@
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                         aria-expanded="false" aria-controls="collapseFour">
-                                                        Can I join the farm as a permanent member?
+                                                        Do you handle buyer-specific packing?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse"
                                                     data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        Under 2â€™s are free and will need a ticket. Tickets are free of
-                                                        charge but attract a
-                                                        booking fee to cover the cost of
-                                                        processing the booking. If you book an under 2 ticket please
-                                                        bring with you proof of
-                                                        age.
+                                                        Yes. We align pack sizes, labeling, and presentation to customer specifications, supported by disciplined documentation for export clearance.
                                                     </div>
                                                 </div>
                                             </div>
@@ -194,18 +164,13 @@
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                         aria-expanded="false" aria-controls="collapseFive">
-                                                        Does â€˜farming for natureâ€™ make financial sense?
+                                                        How do you support logistics and scheduling?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse"
                                                     data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        Under 2â€™s are free and will need a ticket. Tickets are free of
-                                                        charge but attract a booking fee to cover the cost of processing
-                                                        the booking. If you book an under 2 ticket please bring with you
-                                                        proof of age.
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </div>
+                                                        We coordinate harvest timing, cooling, documentation, and freight handoff to match your schedules and market requirements.</div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
@@ -213,19 +178,13 @@
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseSix"
                                                         aria-expanded="false" aria-controls="collapseSix">
-                                                        I like my farm to look â€˜neatâ€™, will farming for nature effect
-                                                        it?
+                                                        How quickly can you respond to new orders?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseSix" class="accordion-collapse collapse"
                                                     data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        Under 2â€™s are free and will need a ticket. Tickets are free of
-                                                        charge but attract a booking fee to cover the cost of processing
-                                                        the booking. If you book an under 2 ticket please bring with you
-                                                        proof of age.
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </div>
+                                                        We confirm availability promptly and align harvest, grading, and flight booking to meet your requested timelines.</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -602,3 +561,7 @@
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+
+

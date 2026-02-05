@@ -9,13 +9,13 @@
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
-    <title>New Agrodeal Kenya Limited | Organic Herbs, Vegetables & Flowers Exporter (Solai, Kenya)</title>
+    <title>New Agrodeal Kenya Limited | Premium Herbs, Vegetables & Flowers Exporter (Solai, Nakuru & Solai, Kenya)</title>
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <meta name="description"
-        content="Certified exporter of organic herbs, vegetables & flowers from Solai, Kenya—basil, mint, coriander, chives, tarragon & specialty herbs.">
+        content="New Agrodeal Kenya Limited — leading grower and certified exporter of herbs, vegetables, and flowers from Solai, Nakuru & Solai, Kenya.">
     <meta name="keywords"
-        content="New Agrodeal, Agrodeal Kenya, Solai herbs exporter, organic herbs Kenya, basil exporter, mint exporter, coriander, chives, tarragon, gypsophila Kenya">
-    <meta name="author" content="New Agrodeal Kenya Limited">
+        content="New Agrodeal Kenya Limited, Solai, Nakuru & Solai herbs exporter, basil exporter, mint exporter, coriander, chives, tarragon, gypsophila Kenya, sustainable farming, cold chain">
+    <meta name="author" content="New Agrodeal Kenya Limited (founded 2015)">
 
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -43,8 +43,8 @@
     <link rel="stylesheet" type="text/css" href="icons/fontawesome/css/all.min.css" />
 
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="images/logo/logo3x.png" />
-    <link rel="apple-touch-icon-precomposed" href="images/logo/logo3x.png" />
+    <link rel="shortcut icon" href="images/logo/logo.png" />
+    <link rel="apple-touch-icon-precomposed" href="images/logo/logo.png" />
 
     <!--[if lt IE 9]>
         <script src="javascript/html5shiv.js"></script>
@@ -103,7 +103,7 @@
                                             <i class="fa-solid fa-location-dot"></i>
                                         </a>
                                         <a href="#">
-                                            Solai, Nakuru Kenya
+                                            Solai, Nakuru, Kenya
                                         </a>
                                     </li>
                                 </ul>
@@ -114,14 +114,19 @@
                                         </a>
                                     </li>
                                     <li class="item">
-                                        <a href="#">
-                                            <i class="icon-facebook"></i>
-                                        </a>
+                              <a href="https://www.facebook.com/people/New-Agrodeal-Kenya-Limited/61562079206003/" target="_blank" rel="noopener noreferrer">
+                                 <i class="icon-facebook"></i>
+                                   </a>
+
                                     </li>
                                     <li class="item">
-                                        <a href="#">
-                                            <i class="icon-pinterest"></i>
-                                        </a>
+                                       <a href="https://ke.linkedin.com/company/new-agrodeal-kenya-limited" 
+                                                target="_blank" 
+                                                rel="noopener noreferrer"
+                                                aria-label="LinkedIn">
+                                                    <i class="fab fa-linkedin-in"></i>
+                                       </a>
+
                                     </li>
                                     <li class="item">
                                         <a href="#">
@@ -146,21 +151,17 @@
                     </div>
                     <h3 class="title font-snowfall">
                         New Agrodeal Kenya Limited <br />
-                        Organic herbs, vegetables & flowers exporter
+                        Premium herbs, vegetables & flowers exporter
                     </h3>
                     <p class="text font-nunito">
-                        Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit.
-                        Maecenas ex ligula, pulvinar
-                        ultrices justo sed.
+                        Founded in 2015, we grow and export flavor-rich herbs and flowers with disciplined traceability and cold-chain care.
                     </p>
                     <ul class="infor-list">
                         <li class="item">
                             <i class="fa-solid fa-location-dot fs-18"></i>
                             <p>
-                                Prinsengracht 250,
-                                2501016 PM Amsterdam
-                                Netherlands
+                                Solai, Nakuru,
+                                Kenya
                             </p>
                         </li>
                         <li class="item">
@@ -173,7 +174,7 @@
                             <img src="icons/mailbox-2.png" alt="" />
                             <p>
                                 Website:
-                                https://newagrodeal.com/
+                                https://newagrodealfarm.co.ke/
                             </p>
                         </li>
                         <li class="item">
@@ -206,3 +207,6 @@
 
         <!-- Header  -->
         
+
+
+

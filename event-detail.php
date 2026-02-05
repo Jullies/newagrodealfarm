@@ -81,18 +81,10 @@
                                 Offerings
                             </h2>
                             <p class="text-1">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut aliquam mauris.
-                                Maecenas porta odio lorem, in aliquet diam pellentesque vel. Donec pulvinar mi ipsum, a
-                                eleifend est porta id. Ut rutrum, quam vestibulum placerat sodales, ex eros tincidunt
-                                ipsum, varius venenatis risus magna.
-
-                            </p>
+                                New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                             <p class="text-2">
                                 Pellentesque imperdiet id velit eu lobortis. Praesent metus tellus, venenatis ac
-                                volutpat ut, blandit ut arcu. Vivamus id felis rhoncus, vulputate metus in, bibendum
-                                elit. Proin at nunc vulputate, finibus enim at, faucibus nibh. Aliquam hendrerit diam ut
-                                feugiat dignissim. Sed quis purus felis
-                            </p>
+                                We coordinate field teams and logistics to align harvest windows with export schedules and cold-chain timing.</p>
                             <div class="tour-infor">
                                 <h3 class="title-2  fw-7">
                                     All Tours Info
@@ -147,24 +139,18 @@
                                         <div class="text-wrap">
                                             <a href="event-detail.php" class="name-tour hover-text-4">Visit a Sheep
                                                 Farm</a>
-                                            <p class="sub">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                Proin ut aliquam mauris. Maecenas porta odio lorem, in aliquet diam
-                                                pellentesque vel. Donec pulvinar mi ipsum, a eleifend est porta id.
-                                            </p>
+                                            <p class="sub">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                         </div>
                                     </li>
                                     <li class="tf-img-hover wow fadeInUp" data-wow-delay="0s">
                                         <div class="image hover01">
-                                            <img src="images/section/s-faq.jpg" data-src="images/section/s-faq.jpg"
+                                            <img src="images/newagro_images/flowers.jpg" data-src="images/newagro_images/flowers.jpg"
                                                 alt="" class="lazyload">
                                         </div>
                                         <div class="text-wrap">
                                             <a href="event-detail.php" class="name-tour hover-text-4">Olive Oil
                                                 Showroom</a>
-                                            <p class="sub">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                Proin ut aliquam mauris. Maecenas porta odio lorem, in aliquet diam
-                                                pellentesque vel. Donec pulvinar mi ipsum, a eleifend est porta id.
-                                            </p>
+                                            <p class="sub">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                         </div>
                                     </li>
                                     <li class="tf-img-hover wow fadeInUp" data-wow-delay="0s">
@@ -175,10 +161,7 @@
                                         <div class="text-wrap">
                                             <a href="event-detail.php" class="name-tour hover-text-4">Visit and Milk
                                                 Cows</a>
-                                            <p class="sub">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                Proin ut aliquam mauris. Maecenas porta odio lorem, in aliquet diam
-                                                pellentesque vel. Donec pulvinar mi ipsum, a eleifend est porta id.
-                                            </p>
+                                            <p class="sub">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                         </div>
                                     </li>
                                     <li class="tf-img-hover wow fadeInUp" data-wow-delay="0s">
@@ -192,10 +175,7 @@
                                                 Process
 
                                             </a>
-                                            <p class="sub">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                Proin ut aliquam mauris. Maecenas porta odio lorem, in aliquet diam
-                                                pellentesque vel. Donec pulvinar mi ipsum, a eleifend est porta id.
-                                            </p>
+                                            <p class="sub">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                         </div>
                                     </li>
                                 </ul>
@@ -238,20 +218,16 @@
                             </div>
                             <div class="sidebar-item-2 has-bg-1 infor-contact mb-40">
                                 <p class="sub font-snowfall fs-30">
-                                    DonalFarm Agriculture <br>
+                                    New Agrodeal Kenya Limited Agriculture <br>
                                     Farm of laughter and happiness!
                                 </p>
                                 <p class="text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex ligula,
-                                    pulvinar ultrices justo sed.
-                                </p>
+                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                 <ul class="contact-list">
                                     <li>
                                         <i class="fa-solid fa-location-dot fs-17"></i>
                                         <p class="address">
-                                            Prinsengracht 250, 2501016 PM
-                                            Amsterdam Netherlands
-                                        </p>
+                                            Solai, Nakuru, Kenya</p>
                                     </li>
                                     <li>
                                         <i class="fa-solid fa-phone"></i>
@@ -261,7 +237,7 @@
                                     </li>
                                     <li> <i class="icon-package-box"></i>
                                         <p class="email fs-15">
-                                            Mail: Donalfarms@gmail.com
+                                            Mail: info@agrodealfarm.co.ke
                                         </p>
                                     </li>
                                     <li>
@@ -305,3 +281,7 @@
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+
+

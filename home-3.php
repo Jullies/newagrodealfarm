@@ -1,4 +1,4 @@
-﻿<?php include 'overall/header.php'; ?>
+<?php include 'overall/header.php'; ?>
 <?php include 'overall/nav.php'; ?>
 <!-- Preloader -->
         <div id="loading">
@@ -17,13 +17,13 @@
 
         <!-- Top-bar-->
         <div class="tf-topbar style-3">
-            <div class="tf-container w-1620">
+            <div class="tf-container w-1000">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="topbar-inner">
                             <div class="topbar-left">
-                                <span class="font-nunito">Welcome to DonalFarm</span>
-                                <span class="font-nunito">Agriculture & Organic Farms</span>
+                                <span class="font-nunito">Welcome to New Agrodeal </span>
+                                <span class="font-nunito">Agriculture &  Farms</span>
                             </div>
                             <div class="topbar-right">
                                 <ul class="contact-list">
@@ -32,7 +32,7 @@
                                             <img src="icons/mailbox.png" alt="">
                                         </a>
                                         <a href="#">
-                                            Donalfarms@gmail.com
+                                            info@agrodealfarm.co.ke.com
                                         </a>
                                     </li>
                                     <li class="item">
@@ -40,8 +40,7 @@
                                             <i class="fa-solid fa-location-dot"></i>
                                         </a>
                                         <a href="#">
-                                            Prinsengracht 250, Amsterdam Netherlands
-                                        </a>
+                                            Solai, Nakuru, Kenya</a>
                                     </li>
                                 </ul>
                                 <div class="icon-wrap">
@@ -68,24 +67,17 @@
                         <i class="icon-close"></i>
                     </div>
                     <h3 class="title font-snowfall">
-                        DonalFarm Agriculture <br />
+                        New Agrodeal Kenya Limited Agriculture <br />
                         Farm of laughter and
                         happiness!
                     </h3>
                     <p class="text font-nunito">
-                        Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit.
-                        Maecenas ex ligula, pulvinar
-                        ultrices justo sed.
-                    </p>
+                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                     <ul class="infor-list">
                         <li class="item">
                             <i class="fa-solid fa-location-dot fs-18"></i>
                             <p>
-                                Prinsengracht 250,
-                                2501016 PM Amsterdam
-                                Netherlands
-                            </p>
+                                Solai, Nakuru, Kenya</p>
                         </li>
                         <li class="item">
                             <i class="fa-solid fa-phone"></i>
@@ -98,7 +90,7 @@
                             <img src="icons/mailbox-2.png" alt="" />
                             <p>
                                 Mail Support:
-                                Donalfarms@gmail.com
+                                info@agrodealfarm.co.ke
                             </p>
                         </li>
                         <li class="item">
@@ -175,7 +167,7 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="our-commitments.php">
+                                                    <a href="agro_bv.php">
                                                         <span>
                                                             Our Commitments
                                                         </span>
@@ -189,9 +181,9 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="our-farmers.php">
+                                                    <a href="our-team.php">
                                                         <span>
-                                                            Our Farmers
+                                                            Our Team
                                                         </span>
                                                     </a>
                                                 </li>
@@ -403,13 +395,13 @@
                                                         <a href="about-us.php">About Us</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="our-commitments.php">Our Commitments</a>
+                                                        <a href="agro_bv.php">Our Commitments</a>
                                                     </li>
                                                     <li class="menu-item">
                                                         <a href="our-events.php">Our Events</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="our-farmers.php">Our Farmers</a>
+                                                        <a href="our-team.php">Our Team</a>
                                                     </li>
                                                     <li class="menu-item">
                                                         <a href="our-history.php">Our History</a>
@@ -533,15 +525,14 @@
                                                     Address:
                                                 </h5>
                                                 <p>
-                                                    Prinsengracht 250, Amsterdam Netherlands
-                                                </p>
+                                                    Solai, Nakuru, Kenya</p>
                                             </li>
                                             <li>
                                                 <h5 class="title">
                                                     Phone:
                                                 </h5>
                                                 <p>
-                                                    +1 987 654 3210
+                                                    +254 793 753247
                                                 </p>
                                             </li>
                                             <li>
@@ -550,7 +541,7 @@
                                                 </h5>
                                                 <p>
 
-                                                    Donalfarms@gmail.com
+                                                    info@agrodealfarm.co.ke
                                                 </p>
                                             </li>
                                         </ul>
@@ -622,7 +613,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="our-commitments.php">
+                                                        <a href="agro_bv.php">
                                                             <span>
                                                                 Our Commitments
                                                             </span>
@@ -636,9 +627,9 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="our-farmers.php">
+                                                        <a href="our-team.php">
                                                             <span>
-                                                                Our Farmers
+                                                                Our Team
                                                             </span>
                                                         </a>
                                                     </li>
@@ -1029,7 +1020,7 @@
                                         At Mycorrhizal Applications (MA), we are dedicated to sustainability by
                                         providing the agriculture, horticulture, landscaping, and forestry industries
                                         with efficient and effective microbial-based biorational solutions. As the
-                                        worldâ€™s leading manufacturer and supplier of mycorrhizal soil inoculants, MA
+                                        world’s leading manufacturer and supplier of mycorrhizal soil inoculants, MA
                                         researches, produces.
                                     </p>
 
@@ -1078,7 +1069,7 @@
                                                 <p class="text fs-30 font-snowfall">
                                                     Our mission is to provide a place where people can discover their
                                                     gifts,
-                                                    find hope, and transform Godâ€™s love into practices that steward the
+                                                    find hope, and transform God’s love into practices that steward the
                                                     land
                                                     in
                                                     a beautiful, productive, and sustainable manner.
@@ -1093,7 +1084,7 @@
                                                 <p class="text fs-30 font-snowfall">
                                                     Our mission is to provide a place where people can discover their
                                                     gifts,
-                                                    find hope, and transform Godâ€™s love into practices that steward the
+                                                    find hope, and transform God’s love into practices that steward the
                                                     land
                                                     in
                                                     a beautiful, productive, and sustainable manner.
@@ -1127,7 +1118,7 @@
                             <div class="video-wrap style-2">
                                 <img class=" lazyload" data-src="images/section/our-mission.jpg"
                                     src="images/section/our-mission.jpg" alt="">
-                                <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                     class="style-icon-play popup-youtube">
                                     <i class="fa-solid fa-play"></i>
                                 </a>
@@ -1185,9 +1176,7 @@
                                                 </a>
                                                 <span class="break-line"></span>
                                                 <p class="text">
-                                                    Ultrices sagittis orci a scelerisque purus <br> semper eget duis at.
-                                                    Sollicitudin
-                                                    nibh sit <br> amet commodo nulla.
+                                                    Quality-focused farming, careful grading, and cold-chain discipline keep every shipment consistent and fresh.<br> amet commodo nulla.
                                                 </p>
                                                 <a href="our-services.php" class="tf-btn-read">
                                                     Read More
@@ -1210,9 +1199,7 @@
                                                 </a>
                                                 <span class="break-line"></span>
                                                 <p class="text">
-                                                    Ultrices sagittis orci a scelerisque purus <br> semper eget duis at.
-                                                    Sollicitudin
-                                                    nibh sit <br> amet commodo nulla.
+                                                    Quality-focused farming, careful grading, and cold-chain discipline keep every shipment consistent and fresh.<br> amet commodo nulla.
                                                 </p>
                                                 <a href="our-services.php" class="tf-btn-read">
                                                     Read More
@@ -1234,9 +1221,7 @@
                                                 </a>
                                                 <span class="break-line"></span>
                                                 <p class="text">
-                                                    Ultrices sagittis orci a scelerisque purus <br> semper eget duis at.
-                                                    Sollicitudin
-                                                    nibh sit <br> amet commodo nulla.
+                                                    Quality-focused farming, careful grading, and cold-chain discipline keep every shipment consistent and fresh.<br> amet commodo nulla.
                                                 </p>
                                                 <a href="our-services.php" class="tf-btn-read">
                                                     Read More
@@ -1287,120 +1272,11 @@
                                         <div class="icon hover-icon style-circle">
                                             <img src="icons/tomato-2.png" alt="">
                                         </div>
-                                        <a href="our-commitments.php" class="caption fw-6  font-worksans hover-text-4">
-                                            100% Organic Products
+                                        <a href="agro_bv.php" class="caption fw-6  font-worksans hover-text-4">
+                                            100%  Products
                                         </a>
                                         <p class="text font-nunito">
-                                            Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                                            Sollictudin nibh sit amet.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="box-icon style-4 ic-hover bottom wow fadeInUp" data-wow-delay="0.1s">
-                                        <div class="icon hover-icon style-circle">
-                                            <i class="icon-tractor22"></i>
-                                        </div>
-                                        <a href="our-commitments.php" class="caption fw-6  font-worksans hover-text-4">
-                                            Absolute Quality
-                                        </a>
-                                        <p class="text font-nunito">
-                                            Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                                            Sollictudin nibh sit amet.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="box-icon style-4 ic-hover wow fadeInUp" data-wow-delay="0.2s">
-                                        <div class="icon hover-icon style-circle">
-                                            <i class="fa-solid fa-leaf"></i>
-                                        </div>
-                                        <a href="our-commitments.php" class="caption fw-6  font-worksans hover-text-4">
-                                            Environmentally Friendly
-                                        </a>
-                                        <p class="text font-nunito">
-                                            Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                                            Sollictudin nibh sit amet.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="box-icon style-4 ic-hover bottom wow fadeInUp" data-wow-delay="0.3s">
-                                        <div class="icon hover-icon style-circle">
-                                            <i class="fa-brands fa-bitcoin"></i>
-                                        </div>
-                                        <a href="our-commitments.php" class="caption fw-6  font-worksans hover-text-4">
-                                            100% Organic Products
-                                        </a>
-                                        <p class="text font-nunito">
-                                            Ultrices sagittis orci a scelerisque <br> purus semper eget duis at. <br>
-                                            Sollictudin nibh sit amet.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </section><!-- /.Section quality of life 2-->
-
-        <!-- Section why choose -->
-        <section class="s-why-choose">
-            <div class="tf-container w-1290">
-                <div class="row">
-                    <div class="col-lg-5">
-                        <div class="image-wrap">
-                            <div class="image scroll-element">
-                                <img src="images/section/s-why-us-2.jpg" alt="" class="lazyload tf-animate-2">
-                            </div>
-                            <div class="notice scroll-element-2 wow fadeInLeft" data-wow-duration="1s"
-                                data-wow-delay="0s">
-                                <div class="icon style-circle">
-                                    <i class="icon-wheat-grains"></i>
-                                </div>
-                                <p class="text fs-30 font-snowfall ">
-                                    We guarantee that
-                                    the product does not
-                                    contain substances
-                                    harmful to health.
-                                </p>
-                                <div class="img-item item-1">
-                                    <img src="images/item/triangle.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-7">
-                        <div class="content-section">
-                            <div class="heading-section">
-                                <p class="sub-title">
-                                    Why Choose Us
-                                </p>
-                                <p class="title wow fadeInUp" data-wow-delay="0s">
-                                    At DonalFarm, We Aim To <br> Unite Men And Nature!
-                                </p>
-                                <div class="img-item">
-                                    <img class="tf-animate-1" src="images/item/rice-plant-2.png" alt="" />
-                                </div>
-                            </div>
-                            <p class="text">
-                                After more than five years of research, we have successfully come up with
-                                internationally patented 100% organic agriculture inputs that can significantly enhance
-                                the quality of crops aswell as the soil in a completely natural way.
-                            </p>
-                            <ul class="benefit-list">
-                                <li class="wow fadeInUp" data-wow-delay="0s">
-                                    <div class="icon"><i class="fa-solid fa-circle-check"></i></div>
-                                    <div class="content">
-                                        <a href="#" class="title hover-text-4">
-                                            Fair Pay For Farmers
-                                        </a>
-                                        <p class="text-2">
-                                            Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                            nibh sit amet commodo nulla.
-                                        </p>
+                                            Quality-focused farming, careful grading, and cold-chain discipline keep every shipment consistent and fresh.</p>
                                     </div>
                                 </li>
                                 <li class="wow fadeInUp" data-wow-delay="0.1s">
@@ -1408,16 +1284,14 @@
                                     <div class="content">
                                         <a href="#" class="title hover-text-4">
 
-                                            Organic And Beyond
+                                             And Beyond
                                         </a>
                                         <p class="text-2">
-                                            Ultrices sagittis orci a scelerisque purus semper eget duis at. Sollicitudin
-                                            nibh sit amet commodo nulla.
-                                        </p>
+                                            Quality-focused farming, careful grading, and cold-chain discipline keep every shipment consistent and fresh.</p>
                                     </div>
                                 </li>
                             </ul>
-                            <a href="our-commitments.php" class="tf-btn">
+                            <a href="agro_bv.php" class="tf-btn">
                                 <span class="text-style">
                                     Read More
                                 </span>
@@ -1487,7 +1361,7 @@
                                                 class="btn-tab wow fadeInUp" data-wow-delay="0s">All
                                                 Projects</a></li>
                                         <li class="item"><a href="javascript:void(0)" class="btn-tab wow fadeInUp"
-                                                data-wow-delay="0.1s">Organic</a></li>
+                                                data-wow-delay="0.1s"></a></li>
                                         <li class="item"><a href="javascript:void(0)" class="btn-tab wow fadeInUp"
                                                 data-wow-delay="0.2s">Farms</a></li>
                                         <li class="item"><a href="javascript:void(0)" class="btn-tab wow fadeInUp"
@@ -1531,13 +1405,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1559,13 +1427,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-2.php"
@@ -1587,13 +1449,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-3.php"
@@ -1621,13 +1477,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1649,13 +1499,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1677,13 +1521,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1711,13 +1549,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1739,13 +1571,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1767,13 +1593,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1801,13 +1621,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1829,13 +1643,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1857,13 +1665,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1891,13 +1693,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1919,13 +1715,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1947,13 +1737,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -1981,13 +1765,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -2009,13 +1787,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -2037,13 +1809,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -2071,13 +1837,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -2099,13 +1859,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -2127,13 +1881,7 @@
                                                     class="title fs-23 font-worksans fw-6 hover-text-4">
                                                     The Joy Of Sheep
                                                     Farming</a>
-                                                <p class="text font-nunito">Lorem ipsum dolor sit amet, consectetur
-                                                    adipiscing elit.
-                                                    Sed
-                                                    a
-                                                    cursus massa.
-                                                    Cras ut dui nec nibhvehicula fermentum.
-                                                    natoque penatibus.</p>
+                                                <p class="text font-nunito">New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                                 <div class="bot">
 
                                                     <a href="portfolio-style-1.php"
@@ -2238,7 +1986,7 @@
             <div class="wrap">
                 <div class="image wow fadeInLeft" data-wow-delay="0s">
                     <div class="scroll-element-2">
-                        <img src="images/item/s-testi.png" alt="" />
+                        <img src="images/newagro_images/0a0a8916.jpg" alt="" />
                     </div>
                     <div class="sign ">
                         <img src="images/item/sign.png" alt="">
@@ -2249,30 +1997,28 @@
                         <p class="sub-title">Meet The Farmer</p>
                         <p class="title mb-18 tf-animate-1">We Are Dedicated Farmers</p>
                         <p class="text">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales faucibus commodo.
-                            Proin vehicula massa id congue rutrum, ex libero sodales ex, cursus euismod purus.
-                        </p>
+                            New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                         <div class="img-item">
                             <img class="tf-animate-1" src="images/item/rice-plant-2.png" alt="" />
                         </div>
                     </div>
                     <p class="quote font-snowfall fs-30">
-                        â€œAgriculture is our wisest pursuit, because it will in the end contribute most to real wealth,
+                        “Agriculture is our wisest pursuit, because it will in the end contribute most to real wealth,
                         good
-                        morals, and happiness. Farmers are the embodiment of hard work, dedication, and resilience.â€
+                        morals, and happiness. Farmers are the embodiment of hard work, dedication, and resilience.”
                     </p>
                     <div class="bot">
                         <div class="author-wrap">
                             <p class="author text-upper fw-6 font-worksans">
                                 <a href="#" class="">
-                                    Donald Christopher
+                                    New Agrodeal Team
                                 </a>- Talk
                             </p>
                             <p class="duty">
-                                Farm Owner Donald Farm Happiness
+                                New Agrodeal Kenya Limited � Founded 2015 � Solai, Nakuru, Kenya
                             </p>
                         </div>
-                        <a href="our-farmers.php" class="tf-btn scale-40">
+                        <a href="our-team.php" class="tf-btn scale-40">
                             <span class="text-style">
                                 View All The Farmers
                             </span>
@@ -2325,10 +2071,7 @@
                                         Products.
                                     </p>
                                     <p class="text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex
-                                        igula, pulvinar ultrices justo sed, bibendum lobortis nibh. Pellentesque
-                                        mattis eros sit amet lorem tristique faucibus.
-                                    </p>
+                                        New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                 </div>
                                 <a href="shop-products.php" class="tf-btn scale-40">
                                     <span class="text-style ">
@@ -2358,7 +2101,7 @@
                                                 </div>
                                                 <a href="shop-details.php"
                                                     class="name-product font-worksans hover-text-4">
-                                                    Organic Strawberries
+                                                     Strawberries
                                                 </a>
                                                 <div class="pricing-star">
                                                     <div class="price-wrap">
@@ -2583,14 +2326,8 @@
 
                                                 <div class="comment">
                                                     <p class="caption fs-30 font-snowfall">
-                                                        Having been a host farmer for three seasons, weâ€™ve seen
-                                                        firsthand
-                                                        the difference this
-                                                        internship makes in beginning <br>
-                                                        farmers and host farms alike. As a farmer it is difficult to
-                                                        weigh
-                                                        the benefits of
-                                                        hosting young farmers. Fresh energy <br>
+                                                        Our field teams mentor new staff on harvest discipline, hygiene, and traceability to keep exports consistent.<br>
+                                                        farmers and buyers and growing partners alike trust our transparent processes and responsive communication.<br>
                                                         and enthusiasm. Mauris id lorem facilisis lectus facilisis
                                                         egestas.
                                                     </p>
@@ -2619,17 +2356,7 @@
 
                                                 <div class="comment">
                                                     <p class="caption fs-30 font-snowfall">
-                                                        Having been a host farmer for three seasons, weâ€™ve seen
-                                                        firsthand
-                                                        the difference this
-                                                        internship makes in beginning
-                                                        farmers and host farms alike. As a farmer it is difficult to
-                                                        weigh
-                                                        the benefits of
-                                                        hosting young farmers. Fresh energy
-                                                        and enthusiasm. Mauris id lorem facilisis lectus facilisis
-                                                        egestas.
-                                                    </p>
+                                                        Our field teams mentor new staff on harvest discipline, hygiene, and traceability to keep exports consistent.</p>
                                                 </div>
                                                 <div class="infor">
                                                     <div class="name-wrap">
@@ -2655,17 +2382,7 @@
 
                                                 <div class="comment">
                                                     <p class="caption fs-30 font-snowfall">
-                                                        Having been a host farmer for three seasons, weâ€™ve seen
-                                                        firsthand
-                                                        the difference this
-                                                        internship makes in beginning
-                                                        farmers and host farms alike. As a farmer it is difficult to
-                                                        weigh
-                                                        the benefits of
-                                                        hosting young farmers. Fresh energy
-                                                        and enthusiasm. Mauris id lorem facilisis lectus facilisis
-                                                        egestas.
-                                                    </p>
+                                                        Our field teams mentor new staff on harvest discipline, hygiene, and traceability to keep exports consistent.</p>
                                                 </div>
                                                 <div class="infor">
                                                     <div class="name-wrap">
@@ -2782,11 +2499,7 @@
                                                     Discover Farm Tour
                                                 </a>
                                                 <p class="text">
-                                                    Lorem ipsum dolor
-                                                    sit amet,
-                                                    consectetur
-                                                    adipiscing
-                                                    <br />
+                                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.<br />
                                                     elit. Sed a cursus
                                                     massa.
                                                 </p>
@@ -2809,11 +2522,7 @@
                                                     Discover Farm Tour
                                                 </a>
                                                 <p class="text">
-                                                    Lorem ipsum dolor
-                                                    sit amet,
-                                                    consectetur
-                                                    adipiscing
-                                                    <br />
+                                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.<br />
                                                     elit. Sed a cursus
                                                     massa.
                                                 </p>
@@ -2836,11 +2545,7 @@
                                                     Discover Farm Tour
                                                 </a>
                                                 <p class="text">
-                                                    Lorem ipsum dolor
-                                                    sit amet,
-                                                    consectetur
-                                                    adipiscing
-                                                    <br />
+                                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.<br />
                                                     elit. Sed a cursus
                                                     massa.
                                                 </p>
@@ -2895,7 +2600,7 @@
                                                 <div class="video-wrap hover-item">
                                                     <img class="lazyload" data-src="images/blog/blog-1.jpg"
                                                         src="images/blog/blog-1.jpg" alt="" />
-                                                    <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                                    <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                                         class="style-icon-play popup-youtube">
                                                         <i class="fa-solid fa-play"></i>
                                                     </a>
@@ -2967,7 +2672,7 @@
                                                 <div class="video-wrap hover-item">
                                                     <img class="lazyload" data-src="images/blog/blog-2.jpg"
                                                         src="images/blog/blog-2.jpg" alt="" />
-                                                    <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                                    <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                                         class="style-icon-play popup-youtube">
                                                         <i class="fa-solid fa-play"></i>
                                                     </a>
@@ -3037,7 +2742,7 @@
                                                 <div class="video-wrap hover-item">
                                                     <img class="lazyload" data-src="images/blog/blog-3.jpg"
                                                         src="images/blog/blog-3.jpg" alt="" />
-                                                    <a href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                                    <a href="https://www.youtube.com/watch?v=L7moqAduq6E"
                                                         class="style-icon-play popup-youtube">
                                                         <i class="fa-solid fa-play"></i>
                                                     </a>
@@ -3309,10 +3014,7 @@
                                     </a>
                                 </div>
                                 <p class="text font-nunito">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim dolor
-                                    eget
-                                    lacus vestibulum facilisis.
-                                </p>
+                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                 <div class="wg-social">
                                     <ul class="list">
                                         <li class="item">
@@ -3343,9 +3045,7 @@
                                     <li>
                                         <i class="fa-solid fa-location-dot fs-17"></i>
                                         <p class="address">
-                                            Prinsengracht 250, 2501016 PM
-                                            Amsterdam Netherlands
-                                        </p>
+                                            Solai, Nakuru, Kenya</p>
                                     </li>
                                     <li>
                                         <i class="fa-solid fa-phone"></i>
@@ -3355,7 +3055,7 @@
                                     </li>
                                     <li> <i class="icon-package-box"></i>
                                         <p class="email fs-15">
-                                            Mail: Donalfarms@gmail.com
+                                            Mail: info@agrodealfarm.co.ke
                                         </p>
                                     </li>
                                     <li>
@@ -3413,7 +3113,7 @@
                                             View Recent Projects</a>
                                     </li>
                                     <li class="item">
-                                        <a href="our-farmers.php">
+                                        <a href="our-team.php">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="14"
                                                 height="16">
                                                 <path
@@ -3451,8 +3151,7 @@
                                         </div>
                                         <div class="content">
                                             <a href="blog-single.php" class="title-post hover-text-secondary">
-                                                Learn 10 Best Tips for
-                                                New Formers
+                                                Field-to-pack discipline for fresher herbs
                                             </a>
                                             <p class="date-release">
                                                 30 Oct, 2024
@@ -3465,8 +3164,7 @@
                                         </div>
                                         <div class="content">
                                             <a href="blog-single.php" class="title-post hover-text-secondary">
-                                                Farmer Sentiment
-                                                Darkens Hopes Fade
+                                                Why cold-chain integrity keeps aroma alive
                                             </a>
                                             <p class="date-release">
                                                 30 Oct, 2024
@@ -3485,7 +3183,7 @@
                     <div class="col-lg-12">
                         <div class="footer-bottom">
                             <p class="no-copy font-nunito">
-                                Copyright Â© 2024 Donal Farm by
+                                Copyright © 2024 New Agrodeal Kenya Limited by
                                 <span>
                                     <a href="https://themeforest.net/user/themesflat/portfolio" target="_blank">
                                         Themesflat</a>.</span>
@@ -3638,7 +3336,7 @@
                             <img src="images/product/product-1.jpg" alt="">
                         </a>
                         <div class="cart-info">
-                            <a href="#" class="text-def">HÃ¤agen-Dazs Salted</a>
+                            <a href="#" class="text-def">Häagen-Dazs Salted</a>
                             <p class="type">Blue LG</p>
                             <p class="price">10.00$</p>
                         </div>
@@ -3662,7 +3360,7 @@
                             <img src="images/product/product-1.jpg" alt="">
                         </a>
                         <div class="cart-info">
-                            <a href="#" class="text-def">HÃ¤agen-Dazs Salted</a>
+                            <a href="#" class="text-def">Häagen-Dazs Salted</a>
                             <p class="type">Blue LG</p>
                             <p class="price">10.00$</p>
                         </div>
@@ -3744,3 +3442,11 @@
     </script>
     <!-- /Javascript -->
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+
+
+
+

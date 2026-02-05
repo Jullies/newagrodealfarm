@@ -1634,7 +1634,7 @@ a.text-white {
   font-size: 18px;
 }
 .header .header-inner .nav-list .item::before {
-  content: "\e9c2";
+  content: "\e901";
   font-family: "icomoon";
   position: absolute;
   padding-right: 7px;
@@ -11014,7 +11014,7 @@ i.fs-12 {
 .clip-color-text p {
   font-size: 150px;
   line-height: 140px;
-  background-image: url("../images/widget/clip-text.jpg");
+  background-image: url("../images/newagro_images/0A0A8805.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-clip: text;
@@ -12122,7 +12122,7 @@ i.fs-12 {
   position: absolute;
   height: 100%;
   width: 100%;
-  background: url("../images/section/break-page.jpg");
+  background: url("../images/newagro_images/gypso_team.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -13813,6 +13813,29 @@ i.fs-12 {
   margin-bottom: 41px;
 }
 
+.s-meet-farm .team-overview .text {
+  max-width: 880px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+.s-meet-farm .team-overview__body {
+  margin-top: 18px;
+  padding: 20px 24px;
+  border: 1px solid rgba(16, 57, 24, 0.15);
+  border-radius: 16px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.92) 0%, rgba(250, 252, 249, 0.96) 100%);
+  box-shadow: 0 12px 30px rgba(16, 57, 24, 0.08);
+}
+
+.s-meet-farm .team-overview__body .text {
+  margin-bottom: 14px;
+}
+
+.s-meet-farm .team-overview__body .text:last-child {
+  margin-bottom: 0;
+}
+
 .s-our-mission {
   margin-top: 0px;
 }
@@ -14324,7 +14347,7 @@ i.fs-12 {
 }
 
 .s-happy-farm-2 {
-  background-image: url("../images/section/s-happy.jpg");
+  background-image: url("../images/newagro_images/great_rift (9).jpg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;

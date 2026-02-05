@@ -70,28 +70,17 @@
                                 </div>
                             </div>
                             <h2 class="title fw-7 text-anime-style-1">
-                                Pure Cow's Milk
+                                Fresh Herbs & Flowers
                             </h2>
                             <div class="quote">
                                 <p class="font-snowfall">
-                                    Nulla accumsan sapien purus, at ultrices eros sagittis at. Duis leo purus,
-                                    gravida
-                                    ut consequat in, hendrerit a neque. Sed nec placerat odio, ut ultrices
-                                    magna. Etiam
+                                    New Agrodeal Kenya Limited grows and packs premium herbs, vegetables, and flowers in Solai, Nakuru & Solai with disciplined quality control, grading, and cold-chain care.
                                     in ligula pulvinar, semper dolor eu, commodo lorem. In interdum neque
                                     libero.
                                 </p>
                             </div>
                             <p class="text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut aliquam
-                                mauris.
-                                Maecenas porta odio lorem, in aliquet diam pellentesque vel. Donec pulvinar mi
-                                ipsum, a
-                                eleifend est porta id. Ut rutrum, quam vestibulum placerat sodales, ex eros
-                                tincidunt
-                                ipsum, varius venenatis risus magna.Pellentesque imperdiet id velit eu lobortis.
-                                Praesent metus tellus, venenatis ac volutpat ut, blandit ut arcu.
-                            </p>
+                                New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                             <div class="offer-list">
                                 <div class="offer-wrap wow fadeInUp" data-wow-delay="0s">
                                     <p class="caption">Services offered</p>
@@ -363,20 +352,16 @@
                             </div>
                             <div class="sidebar-item-2 has-bg-1 infor-contact mb-40">
                                 <p class="sub font-snowfall fs-30">
-                                    DonalFarm Agriculture <br>
+                                    New Agrodeal Kenya Limited Agriculture <br>
                                     Farm of laughter and happiness!
                                 </p>
                                 <p class="text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex ligula,
-                                    pulvinar ultrices justo sed.
-                                </p>
+                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                 <ul class="contact-list">
                                     <li>
                                         <i class="fa-solid fa-location-dot fs-17"></i>
                                         <p class="address">
-                                            Prinsengracht 250, 2501016 PM
-                                            Amsterdam Netherlands
-                                        </p>
+                                            Solai, Nakuru, Kenya</p>
                                     </li>
                                     <li>
                                         <i class="fa-solid fa-phone"></i>
@@ -386,7 +371,7 @@
                                     </li>
                                     <li> <i class="icon-package-box"></i>
                                         <p class="email fs-15">
-                                            Mail: Donalfarms@gmail.com
+                                            Mail: info@agrodealfarm.co.ke
                                         </p>
                                     </li>
                                     <li>
@@ -428,3 +413,7 @@
         <!-- Footer -->
         
 <?php include 'overall/footer.php'; ?>
+
+
+
+

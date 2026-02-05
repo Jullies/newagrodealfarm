@@ -1,4 +1,4 @@
-ï»¿<?php include 'overall/header.php'; ?>
+<?php include 'overall/header.php'; ?>
 <?php include 'overall/nav.php'; ?>
 <!-- Preloader -->
         <div id="loading">
@@ -219,7 +219,7 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="our-commitments.php">
+                                                    <a href="agro_bv.php">
                                                         <span>
                                                             Our Commitments
                                                         </span>
@@ -233,9 +233,9 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="our-farmers.php">
+                                                    <a href="our-team.php">
                                                         <span>
-                                                            Our Farmers
+                                                            Our Team
                                                         </span>
                                                     </a>
                                                 </li>
@@ -497,7 +497,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="our-commitments.php">
+                                                        <a href="agro_bv.php">
                                                             <span>
                                                                 Our Commitments
                                                             </span>
@@ -511,9 +511,9 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="our-farmers.php">
+                                                        <a href="our-team.php">
                                                             <span>
-                                                                Our Farmers
+                                                                Our Team
                                                             </span>
                                                         </a>
                                                     </li>
@@ -756,13 +756,13 @@
                                         <a href="about-us.php">About Us</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="our-commitments.php">Our Commitments</a>
+                                        <a href="agro_bv.php">Our Commitments</a>
                                     </li>
                                     <li class="menu-item">
                                         <a href="our-events.php">Our Events</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="our-farmers.php">Our Farmers</a>
+                                        <a href="our-team.php">Our Team</a>
                                     </li>
                                     <li class="menu-item">
                                         <a href="our-history.php">Our History</a>
@@ -883,15 +883,14 @@
                                     Address:
                                 </h5>
                                 <p>
-                                    Prinsengracht 250, Amsterdam Netherlands
-                                </p>
+                                    Solai, Nakuru, Kenya</p>
                             </li>
                             <li>
                                 <h5 class="title">
                                     Phone:
                                 </h5>
                                 <p>
-                                    +1 987 654 3210
+                                    +254 793 753247
                                 </p>
                             </li>
                             <li>
@@ -900,7 +899,7 @@
                                 </h5>
                                 <p>
 
-                                    Donalfarms@gmail.com
+                                    info@agrodealfarm.co.ke
                                 </p>
                             </li>
 
@@ -986,7 +985,7 @@
                                         Free Shipping
                                     </a>
                                     <p class="text font-nunito">
-                                        Ultrices sagittis orci a scelerisque <br> purus semper eget duis at.
+                                        Quality-focused farming and careful grading <br> keep every shipment consistent and fresh.
                                     </p>
                                 </div>
                                 <div class="box-icon style-2 ic-hover wow fadeInUp" data-wow-delay="0.1s ">
@@ -997,7 +996,7 @@
                                         100% Secure Payment
                                     </a>
                                     <p class="text font-nunito">
-                                        Ultrices sagittis orci a scelerisque <br> purus semper eget duis at.
+                                        Quality-focused farming and careful grading <br> keep every shipment consistent and fresh.
                                     </p>
                                 </div>
                                 <div class="box-icon style-2 ic-hover wow fadeInUp" data-wow-delay="0.2s ">
@@ -1008,7 +1007,7 @@
                                         24/7 Dedicated Support
                                     </a>
                                     <p class="text font-nunito">
-                                        Ultrices sagittis orci a scelerisque <br> purus semper eget duis at.
+                                        Quality-focused farming and careful grading <br> keep every shipment consistent and fresh.
                                     </p>
                                 </div>
                                 <div class="box-icon style-2 ic-hover wow fadeInUp" data-wow-delay="0.3s ">
@@ -1019,7 +1018,7 @@
                                         Daily Offers
                                     </a>
                                     <p class="text font-nunito">
-                                        Ultrices sagittis orci a scelerisque <br> purus semper eget duis at.
+                                        Quality-focused farming and careful grading <br> keep every shipment consistent and fresh.
                                     </p>
                                 </div>
                             </div>
@@ -1141,13 +1140,7 @@
                                     <span class=" price-2">$3.00</span>
                                 </div>
                                 <p class="sub font-nunito">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut aliquam
-                                    mauris.
-                                    Maecenas porta odio lorem, in aliquet
-                                    diam pellentesque vel. Donec pulvinar mi ipsum, a eleifend est porta id. Laboris
-                                    nisi ut aliquip ex ea commodo
-                                    consequat.
-                                </p>
+                                    New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                 <ul class="notice-list">
                                     <li>
                                         <svg id="Layer_1" height="24" viewBox="0 0 512 512" width="24"
@@ -1262,7 +1255,7 @@
                                         </p>
                                     </li>
                                     <li>
-                                        <p>Tags:<a href="#">FOOD</a>/<a href="#">NUTS</a>/<a href="#">ORGANIC</a>
+                                        <p>Tags:<a href="#">FOOD</a>/<a href="#">NUTS</a>/<a href="#"></a>
                                         </p>
                                     </li>
 
@@ -1368,31 +1361,11 @@
 
                                 <div class="widget-content-tab">
                                     <div class="widget-content-inner active">
-                                        <p class="text-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                            Vivamus lacus
-                                            odio, egestas
-                                            vitae augue sed, vulputate viverra
-                                            velit. Quisque fringilla viverra turpis, at condimentum arcu convallis
-                                            sit
-                                            amet. Class
-                                            aptent taciti sociosqu ad litora
-                                            torquent per conubia nostra, per inceptos himenaeos. Fusce laoreet
-                                            lectus in
-                                            velit
-                                            euismod.
-                                        </p>
+                                        <p class="text-1">New Agrodeal Kenya Limited — leading grower and exporter of the finest herbs, vegetables, and flowers from Solai, Nakuru & Solai, Kenya.</p>
                                         <p class="text-2">
-                                            Nulla accumsan sapien purus, at ultrices eros sagittis at. Duis leo
-                                            purus,
-                                            gravida ut
-                                            consequat in, hendrerit a neque.
-                                            Sed nec placerat odio, ut ultrices magna. Etiam in ligula pulvinar,
-                                            semper
-                                            dolor eu,
-                                            commodo lorem. In interdum neque
-                                            libero. eget volutpat nibh commodo et. Aenean sem erat, viverra in
-                                            condimentum in,
-                                            efficitur id massa.
+                                            We grow responsibly, harvest at peak freshness, and maintain careful grading
+                                            and cold-chain handling so every shipment arrives consistent and ready for
+                                            our customers worldwide.
                                         </p>
                                     </div>
                                     <div class="widget-content-inner">
@@ -1434,14 +1407,7 @@
                                                 </a>
                                             </div>
                                             <p class="comment font-nunito">
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio nunc,
-                                                egestas
-                                                quis efficitur eu, tempus ut nisi.
-                                                Suspendisse dignissim ut massa ac bibendum. Vivamus sit amet felis odio
-                                                o.
-                                                Phasellus a nisi eleifend, rhoncus massa
-                                                vitae, sodales lacus.
-                                            </p>
+                                                New Agrodeal Kenya Limited ? premium  herbs, vegetables, and Gypsophila from Solai, Nakuru, Kenya.</p>
                                         </div>
                                         <div class="post-comment-wrap text-left">
                                             <h2 class="fw-bold font-worksans">
@@ -1788,3 +1754,9 @@
 
         <!-- Footer -->
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+
+

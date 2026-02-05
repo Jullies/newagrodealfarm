@@ -1,4 +1,4 @@
-﻿<?php include 'overall/header.php'; ?>
+<?php include 'overall/header.php'; ?>
 <?php include 'overall/nav.php'; ?>
 <!-- Preloader -->
         <div id="loading">
@@ -214,7 +214,7 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="our-commitments.php">
+                                                    <a href="agro_bv.php">
                                                         <span>
                                                             Our Commitments
                                                         </span>
@@ -228,9 +228,9 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="our-farmers.php">
+                                                    <a href="our-team.php">
                                                         <span>
-                                                            Our Farmers
+                                                            Our Team
                                                         </span>
                                                     </a>
                                                 </li>
@@ -491,7 +491,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="our-commitments.php">
+                                                        <a href="agro_bv.php">
                                                             <span>
                                                                 Our Commitments
                                                             </span>
@@ -505,9 +505,9 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="our-farmers.php">
+                                                        <a href="our-team.php">
                                                             <span>
-                                                                Our Farmers
+                                                                Our Team
                                                             </span>
                                                         </a>
                                                     </li>
@@ -749,13 +749,13 @@
                                         <a href="about-us.php">About Us</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="our-commitments.php">Our Commitments</a>
+                                        <a href="agro_bv.php">Our Commitments</a>
                                     </li>
                                     <li class="menu-item">
                                         <a href="our-events.php">Our Events</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="our-farmers.php">Our Farmers</a>
+                                        <a href="our-team.php">Our Team</a>
                                     </li>
                                     <li class="menu-item">
                                         <a href="our-history.php">Our History</a>
@@ -875,15 +875,14 @@
                                     Address:
                                 </h5>
                                 <p>
-                                    Prinsengracht 250, Amsterdam Netherlands
-                                </p>
+                                    Solai, Nakuru, Kenya</p>
                             </li>
                             <li>
                                 <h5 class="title">
                                     Phone:
                                 </h5>
                                 <p>
-                                    +1 987 654 3210
+                                    +254 793 753247
                                 </p>
                             </li>
                             <li>
@@ -892,7 +891,7 @@
                                 </h5>
                                 <p>
 
-                                    Donalfarms@gmail.com
+                                    info@agrodealfarm.co.ke
                                 </p>
                             </li>
 
@@ -1127,7 +1126,7 @@
                                             <a href="#">juices</a>
                                         </li>
                                         <li class="item">
-                                            <a href="#">organic</a>
+                                            <a href="#"></a>
                                         </li>
                                         <li class="item">
                                             <a href="#">vegatables</a>
@@ -1147,7 +1146,7 @@
                                     <i class="fa-solid fa-list"></i>
                                 </div>
                                 <p class="font-worksans fw-5">
-                                    Showing 1â€“15 of 30 results
+                                    Showing 1–15 of 30 results
                                 </p>
                             </div>
                             <div class="control-right">
@@ -1193,7 +1192,7 @@
                                             class="lazyload">
                                     </div>
                                     <a href="shop-details.php" class="name-product font-worksans hover-text-4">
-                                        HÃ¤agen-Dazs Salted
+                                        Häagen-Dazs Salted
                                     </a>
                                     <div class="pricing-star">
                                         <div class="price-wrap">
@@ -1844,7 +1843,7 @@
                                             class="lazyload">
                                     </div>
                                     <a href="shop-details.php" class="name-product font-worksans hover-text-4">
-                                        Organic Beef Box 1kg
+                                         Beef Box 1kg
                                     </a>
                                     <div class="pricing-star">
                                         <div class="price-wrap">
@@ -1988,3 +1987,9 @@
 
         <!-- Footer -->
 <?php include 'overall/footer.php'; ?>
+
+
+
+
+
+
